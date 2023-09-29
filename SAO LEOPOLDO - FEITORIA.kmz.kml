@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SAO LEOPOLDO - FEITORIA.kmz</name>
+	<Style id="s_ylw-pushpin_hl13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="limite1880024">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="plimitePolyStyle">
+			<color>66ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="limite16900121">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="plimitePolyStyle">
+			<color>66ffffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="limite209011201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#limite16900121</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#limite1880024</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>SAO LEOPOLDO - FEITORIA</name>
+		<open>1</open>
+		<Placemark>
+			<name>FEIAA_GPONA01</name>
+			<open>1</open>
+			<styleUrl>#limite209011201</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-51.09689963251891,-29.73690791830087,0 -51.09992272033895,-29.73808406028412,0 -51.10226520093855,-29.74729973481778,0 -51.1033958766499,-29.747889517968,0 -51.10441958259406,-29.75334464551984,0 -51.1023525418337,-29.75372784068838,0 -51.10262278619656,-29.75497465633491,0 -51.1052022034605,-29.75581046534602,0 -51.10639380923837,-29.75594882304149,0 -51.10631397431842,-29.75631012732476,0 -51.103529794582,-29.75548828665571,0 -51.10387853734942,-29.75688474958798,0 -51.10290672024345,-29.75704549185156,0 -51.10259993910624,-29.75522143494111,0 -51.09771391767903,-29.75482802195707,0 -51.09420205254653,-29.75361666728099,0 -51.09266169918951,-29.7525044447892,0 -51.09063169160577,-29.75141602828573,0 -51.08895069494028,-29.73913849013729,0 -51.09689963251891,-29.73690791830087,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FEIAA_GPONA01</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-51.11208926177482</longitude>
+				<latitude>-29.75025898360929</latitude>
+				<altitude>0</altitude>
+				<heading>0.005727907439388604</heading>
+				<tilt>28.44301776351306</tilt>
+				<range>5614.102772483364</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin16</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-51.09619535181533,-29.7470083339855,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
