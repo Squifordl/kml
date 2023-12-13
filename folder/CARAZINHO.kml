@@ -71,7 +71,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
@@ -87,7 +87,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>

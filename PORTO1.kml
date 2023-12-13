@@ -20649,7 +20649,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -20681,7 +20681,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -21795,7 +21795,7 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -21811,11 +21811,11 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="sn_ylw-pushpin001">
@@ -21827,7 +21827,7 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -21843,11 +21843,11 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Folder>
@@ -24948,11 +24948,11 @@
 				<name>CANOAS_EXP2023_P1.kmz</name>
 				<Style id="PolyStyle0921">
 					<LabelStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -24971,11 +24971,11 @@
 				</StyleMap>
 				<Style id="PolyStyle0937">
 					<LabelStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -24989,11 +24989,11 @@
 						<name>CANOAS_MRDAB_VILLAGGIO SANTOS FERREIRA.kmz</name>
 						<Style id="PolyStyle09210">
 							<LabelStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -25012,11 +25012,11 @@
 						</StyleMap>
 						<Style id="PolyStyle09370">
 							<LabelStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -25150,11 +25150,11 @@
 						<name>CANOAS - MRDAB.kmz</name>
 						<Style id="PolyStyle0921">
 							<LabelStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -25173,11 +25173,11 @@
 						</StyleMap>
 						<Style id="PolyStyle0937">
 							<LabelStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -25953,7 +25953,7 @@
 		</Style>
 		<Style id="style002">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -25962,7 +25962,7 @@
 		</Style>
 		<Style id="style010">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -25971,7 +25971,7 @@
 		</Style>
 		<Style id="style011">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -25980,7 +25980,7 @@
 		</Style>
 		<Style id="style012">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -25989,7 +25989,7 @@
 		</Style>
 		<Style id="style013">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -25998,7 +25998,7 @@
 		</Style>
 		<Style id="style0130">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26007,7 +26007,7 @@
 		</Style>
 		<Style id="style014">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26016,7 +26016,7 @@
 		</Style>
 		<Style id="style015">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26025,7 +26025,7 @@
 		</Style>
 		<Style id="style016">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26034,7 +26034,7 @@
 		</Style>
 		<Style id="style017">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26043,7 +26043,7 @@
 		</Style>
 		<Style id="style018">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26052,7 +26052,7 @@
 		</Style>
 		<Style id="style019">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26061,7 +26061,7 @@
 		</Style>
 		<Style id="style020">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26070,7 +26070,7 @@
 		</Style>
 		<Style id="style021">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26079,7 +26079,7 @@
 		</Style>
 		<Style id="style0210">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26088,7 +26088,7 @@
 		</Style>
 		<Style id="style022">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26097,7 +26097,7 @@
 		</Style>
 		<Style id="style023">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26106,7 +26106,7 @@
 		</Style>
 		<Style id="style024">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26115,7 +26115,7 @@
 		</Style>
 		<Style id="style025">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26124,7 +26124,7 @@
 		</Style>
 		<Style id="style026">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26133,7 +26133,7 @@
 		</Style>
 		<Style id="style027">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26142,7 +26142,7 @@
 		</Style>
 		<Style id="style028">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26151,7 +26151,7 @@
 		</Style>
 		<Style id="style029">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26160,7 +26160,7 @@
 		</Style>
 		<Style id="style03">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26169,7 +26169,7 @@
 		</Style>
 		<Style id="style030">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26178,7 +26178,7 @@
 		</Style>
 		<Style id="style031">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26187,7 +26187,7 @@
 		</Style>
 		<Style id="style032">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26196,7 +26196,7 @@
 		</Style>
 		<Style id="style033">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26205,7 +26205,7 @@
 		</Style>
 		<Style id="style0330">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26214,7 +26214,7 @@
 		</Style>
 		<Style id="style034">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26223,7 +26223,7 @@
 		</Style>
 		<Style id="style035">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26232,7 +26232,7 @@
 		</Style>
 		<Style id="style036">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26241,7 +26241,7 @@
 		</Style>
 		<Style id="style037">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26250,7 +26250,7 @@
 		</Style>
 		<Style id="style038">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26259,7 +26259,7 @@
 		</Style>
 		<Style id="style039">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26268,7 +26268,7 @@
 		</Style>
 		<Style id="style04">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26277,7 +26277,7 @@
 		</Style>
 		<Style id="style040">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26286,7 +26286,7 @@
 		</Style>
 		<Style id="style041">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26295,7 +26295,7 @@
 		</Style>
 		<Style id="style042">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26304,7 +26304,7 @@
 		</Style>
 		<Style id="style043">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26313,7 +26313,7 @@
 		</Style>
 		<Style id="style044">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26322,7 +26322,7 @@
 		</Style>
 		<Style id="style045">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26331,7 +26331,7 @@
 		</Style>
 		<Style id="style046">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26340,7 +26340,7 @@
 		</Style>
 		<Style id="style047">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26349,7 +26349,7 @@
 		</Style>
 		<Style id="style048">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26358,7 +26358,7 @@
 		</Style>
 		<Style id="style049">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26367,7 +26367,7 @@
 		</Style>
 		<Style id="style05">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26376,7 +26376,7 @@
 		</Style>
 		<Style id="style050">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26385,7 +26385,7 @@
 		</Style>
 		<Style id="style051">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26394,7 +26394,7 @@
 		</Style>
 		<Style id="style052">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26403,7 +26403,7 @@
 		</Style>
 		<Style id="style053">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26412,7 +26412,7 @@
 		</Style>
 		<Style id="style06">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26421,7 +26421,7 @@
 		</Style>
 		<Style id="style07">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26430,7 +26430,7 @@
 		</Style>
 		<Style id="style08">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26439,7 +26439,7 @@
 		</Style>
 		<Style id="style09">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26448,7 +26448,7 @@
 		</Style>
 		<Style id="style2400">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26457,7 +26457,7 @@
 		</Style>
 		<Style id="style2410">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26466,7 +26466,7 @@
 		</Style>
 		<Style id="style24100">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26475,7 +26475,7 @@
 		</Style>
 		<Style id="style2411">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26484,7 +26484,7 @@
 		</Style>
 		<Style id="style2412">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26493,7 +26493,7 @@
 		</Style>
 		<Style id="style2413">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26502,7 +26502,7 @@
 		</Style>
 		<Style id="style2414">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26511,7 +26511,7 @@
 		</Style>
 		<Style id="style2415">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26520,7 +26520,7 @@
 		</Style>
 		<Style id="style2416">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26529,7 +26529,7 @@
 		</Style>
 		<Style id="style2417">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26538,7 +26538,7 @@
 		</Style>
 		<Style id="style2418">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26547,7 +26547,7 @@
 		</Style>
 		<Style id="style2419">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26556,7 +26556,7 @@
 		</Style>
 		<Style id="style242">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26565,7 +26565,7 @@
 		</Style>
 		<Style id="style2420">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26574,7 +26574,7 @@
 		</Style>
 		<Style id="style24200">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26583,7 +26583,7 @@
 		</Style>
 		<Style id="style2421">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26592,7 +26592,7 @@
 		</Style>
 		<Style id="style2422">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26601,7 +26601,7 @@
 		</Style>
 		<Style id="style2423">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26610,7 +26610,7 @@
 		</Style>
 		<Style id="style2424">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26619,7 +26619,7 @@
 		</Style>
 		<Style id="style2425">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26628,7 +26628,7 @@
 		</Style>
 		<Style id="style2426">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26637,7 +26637,7 @@
 		</Style>
 		<Style id="style2427">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26646,7 +26646,7 @@
 		</Style>
 		<Style id="style2428">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26655,7 +26655,7 @@
 		</Style>
 		<Style id="style2429">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26664,7 +26664,7 @@
 		</Style>
 		<Style id="style243">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26673,7 +26673,7 @@
 		</Style>
 		<Style id="style2430">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26682,7 +26682,7 @@
 		</Style>
 		<Style id="style2431">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26691,7 +26691,7 @@
 		</Style>
 		<Style id="style2432">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26700,7 +26700,7 @@
 		</Style>
 		<Style id="style2433">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26709,7 +26709,7 @@
 		</Style>
 		<Style id="style2434">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26718,7 +26718,7 @@
 		</Style>
 		<Style id="style2435">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26727,7 +26727,7 @@
 		</Style>
 		<Style id="style2436">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26736,7 +26736,7 @@
 		</Style>
 		<Style id="style2437">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26745,7 +26745,7 @@
 		</Style>
 		<Style id="style2438">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26754,7 +26754,7 @@
 		</Style>
 		<Style id="style2439">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26763,7 +26763,7 @@
 		</Style>
 		<Style id="style244">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26772,7 +26772,7 @@
 		</Style>
 		<Style id="style2440">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26781,7 +26781,7 @@
 		</Style>
 		<Style id="style2441">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26790,7 +26790,7 @@
 		</Style>
 		<Style id="style2442">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26799,7 +26799,7 @@
 		</Style>
 		<Style id="style2443">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26808,7 +26808,7 @@
 		</Style>
 		<Style id="style2444">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26817,7 +26817,7 @@
 		</Style>
 		<Style id="style2445">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26826,7 +26826,7 @@
 		</Style>
 		<Style id="style2446">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26835,7 +26835,7 @@
 		</Style>
 		<Style id="style2447">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26844,7 +26844,7 @@
 		</Style>
 		<Style id="style2448">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26853,7 +26853,7 @@
 		</Style>
 		<Style id="style2449">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26862,7 +26862,7 @@
 		</Style>
 		<Style id="style245">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26871,7 +26871,7 @@
 		</Style>
 		<Style id="style2450">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26880,7 +26880,7 @@
 		</Style>
 		<Style id="style2451">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26889,7 +26889,7 @@
 		</Style>
 		<Style id="style2452">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26898,7 +26898,7 @@
 		</Style>
 		<Style id="style2453">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26907,7 +26907,7 @@
 		</Style>
 		<Style id="style246">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26916,7 +26916,7 @@
 		</Style>
 		<Style id="style247">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26925,7 +26925,7 @@
 		</Style>
 		<Style id="style248">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -26934,7 +26934,7 @@
 		</Style>
 		<Style id="style249">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -29696,7 +29696,7 @@ NODE HFC CENAP</description>
 		</StyleMap>
 		<Style id="limite1450132">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2.4</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
@@ -29714,7 +29714,7 @@ NODE HFC CENAP</description>
 		</Style>
 		<Style id="limite1520018">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2.4</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
@@ -31038,7 +31038,7 @@ NODE HFC CENAP</description>
 				<name>CTO_SANTA TECLA.kmz</name>
 				<Style id="POLIGONO">
 					<LineStyle id="lPOLIGONOLineStyle">
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 					</LineStyle>
 					<PolyStyle id="pPOLIGONOPolyStyle">
 						<color>7fff0000</color>
@@ -31935,11 +31935,11 @@ NODE HFC CENAP</description>
 				<scale>0.5</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_shaded_dot21">
@@ -31953,11 +31953,11 @@ NODE HFC CENAP</description>
 				<scale>0.5</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -33672,7 +33672,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<scale>0.5</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
@@ -33690,7 +33690,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<scale>0.5</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35602,7 +35602,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35762,7 +35762,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>

@@ -106,11 +106,11 @@
 				<scale>0.3</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="normalPlacemark3151331601120">
@@ -134,11 +134,11 @@
 				<scale>0.3</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -889,7 +889,7 @@
 				<scale>0.3</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
@@ -917,7 +917,7 @@
 				<scale>0.3</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
@@ -1879,7 +1879,7 @@
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -1975,7 +1975,7 @@
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -3518,7 +3518,7 @@ NODE HFC CNTACB</description>
 								<scale>0.3</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -3546,7 +3546,7 @@ NODE HFC CNTACB</description>
 								<scale>0.3</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>7f0000ff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -3848,7 +3848,7 @@ NODE HFC CNTACB</description>
 		</StyleMap>
 		<Style id="AT_TOTAL00">
 			<LineStyle id="lAT_TOTALLineStyle">
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
@@ -3857,7 +3857,7 @@ NODE HFC CNTACB</description>
 		</Style>
 		<Style id="AT_TOTAL10">
 			<LineStyle id="lAT_TOTALLineStyle">
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
@@ -3950,7 +3950,7 @@ NODE HFC CNTACB</description>
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -3966,7 +3966,7 @@ NODE HFC CNTACB</description>
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -4387,7 +4387,7 @@ NODE HFC CNTACB</description>
 					</StyleMap>
 					<Style id="AREA_AGREGACAO1150">
 						<LineStyle id="lAREA_AGREGACAOLineStyle">
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -4396,7 +4396,7 @@ NODE HFC CNTACB</description>
 					</Style>
 					<Style id="AREA_AGREGACAO410">
 						<LineStyle id="lAREA_AGREGACAOLineStyle">
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -4485,11 +4485,11 @@ NODE HFC CNTACB</description>
 							<scale>0.3</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 						</PolyStyle>
 					</Style>
 					<StyleMap id="normalPlacemark3151331600010">
@@ -4513,11 +4513,11 @@ NODE HFC CNTACB</description>
 							<scale>0.3</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 						</PolyStyle>
 					</Style>
 					<Folder>
@@ -8389,7 +8389,7 @@ NODE HFC CNTACB</description>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
@@ -8421,7 +8421,7 @@ NODE HFC CNTACB</description>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>

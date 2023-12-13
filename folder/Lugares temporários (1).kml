@@ -17,7 +17,7 @@
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
@@ -33,7 +33,7 @@
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
@@ -454,7 +454,7 @@
 				<open>1</open>
 				<Style id="AREA_AGREGACAO115">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -463,7 +463,7 @@
 				</Style>
 				<Style id="AREA_AGREGACAO41">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -562,11 +562,11 @@
 						<scale>0.3</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="normalPlacemark3150312006003310">
@@ -580,11 +580,11 @@
 						<scale>0.3</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="normalPlacemark315133160001">

@@ -13,11 +13,11 @@
 			<scale>0.3</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="normalPlacemark3156401010211">
@@ -31,11 +31,11 @@
 			<scale>0.3</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="normalPlacemark3151331601120">

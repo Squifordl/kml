@@ -32,20 +32,20 @@
 	</StyleMap>
 	<Style id="limite1880024">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="limite16900121">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="limite209011201">

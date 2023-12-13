@@ -611,7 +611,7 @@
 							<scale>0.3</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
@@ -629,7 +629,7 @@
 							<scale>0.3</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>

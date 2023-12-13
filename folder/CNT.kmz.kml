@@ -61,7 +61,7 @@
 	</StyleMap>
 	<Style id="AT_PGO1">
 		<LineStyle id="lAT_PGOLineStyle">
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_PGOPolyStyle">
@@ -135,7 +135,7 @@
 	</Style>
 	<Style id="AT_PGO0">
 		<LineStyle id="lAT_PGOLineStyle">
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_PGOPolyStyle">

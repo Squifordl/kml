@@ -280,7 +280,7 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
@@ -296,7 +296,7 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>

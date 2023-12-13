@@ -346,7 +346,7 @@
 			</StyleMap>
 			<Style id="POLIGONO">
 				<LineStyle id="lPOLIGONOLineStyle">
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 				</LineStyle>
 				<PolyStyle id="pPOLIGONOPolyStyle">
 					<color>7fff0000</color>

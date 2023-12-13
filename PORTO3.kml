@@ -304,7 +304,7 @@
 		</StyleMap>
 		<Style id="AT_PGO0">
 			<LineStyle id="lAT_PGOLineStyle">
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_PGOPolyStyle">
@@ -313,7 +313,7 @@
 		</Style>
 		<Style id="AT_PGO1">
 			<LineStyle id="lAT_PGOLineStyle">
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_PGOPolyStyle">
@@ -554,11 +554,11 @@
 				</StyleMap>
 				<Style id="PolyStyle011617">
 					<LabelStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -567,11 +567,11 @@
 				</Style>
 				<Style id="PolyStyle01168">
 					<LabelStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -690,7 +690,7 @@
 						<scale>0.7</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -705,7 +705,7 @@
 						<scale>0.7</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -948,7 +948,7 @@
 						<scale>0.7</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -963,7 +963,7 @@
 						<scale>0.7</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -2148,20 +2148,20 @@
 		<name>SAO LEOPOLDO - FEITORIA.kmz</name>
 		<Style id="limite16900121">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1880024">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="limite209011201">
@@ -2244,7 +2244,7 @@
 		<name>SAO LEOPOLDO - FEITORIA.kmz</name>
 		<Style id="limite169001210">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
@@ -2253,7 +2253,7 @@
 		</Style>
 		<Style id="limite18800240">
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
@@ -2343,7 +2343,7 @@
 				<color>ff00aa00</color>
 			</LineStyle>
 			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="01Bairro Santa Rita_10">
@@ -2361,7 +2361,7 @@
 				<color>ff00aa00</color>
 			</LineStyle>
 			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>

@@ -36,7 +36,7 @@
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -54,7 +54,7 @@
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -72,7 +72,7 @@
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -90,7 +90,7 @@
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -3965,7 +3965,7 @@ Diamante</description>
 									<scale>0.6</scale>
 								</LabelStyle>
 								<LineStyle>
-									<color>ffff0000</color>
+									<color>7f0000ff</color>
 									<width>4</width>
 								</LineStyle>
 								<PolyStyle>
@@ -3983,7 +3983,7 @@ Diamante</description>
 									<scale>0.6</scale>
 								</LabelStyle>
 								<LineStyle>
-									<color>ffff0000</color>
+									<color>7f0000ff</color>
 									<width>4</width>
 								</LineStyle>
 								<PolyStyle>
@@ -17532,7 +17532,7 @@ FO 33/34</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -17550,7 +17550,7 @@ FO 33/34</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -17568,7 +17568,7 @@ FO 33/34</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -17586,7 +17586,7 @@ FO 33/34</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffff0000</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
@@ -21461,7 +21461,7 @@ Diamante</description>
 									<scale>0.6</scale>
 								</LabelStyle>
 								<LineStyle>
-									<color>ffff0000</color>
+									<color>7f0000ff</color>
 									<width>4</width>
 								</LineStyle>
 								<PolyStyle>
@@ -21479,7 +21479,7 @@ Diamante</description>
 									<scale>0.6</scale>
 								</LabelStyle>
 								<LineStyle>
-									<color>ffff0000</color>
+									<color>7f0000ff</color>
 									<width>4</width>
 								</LineStyle>
 								<PolyStyle>

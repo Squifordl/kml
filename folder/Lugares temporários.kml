@@ -16,7 +16,7 @@
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
@@ -32,7 +32,7 @@
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
@@ -58,11 +58,11 @@
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 				</PolyStyle>
 			</Style>
 			<Style id="sn_ylw-pushpin0010">
@@ -74,11 +74,11 @@
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="msn_ylw-pushpin00">
@@ -3189,11 +3189,11 @@
 			<name>CANOAS_EXP2023_P1.kmz</name>
 			<Style id="PolyStyle0937">
 				<LabelStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
@@ -3202,11 +3202,11 @@
 			</Style>
 			<Style id="PolyStyle0921">
 				<LabelStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f0000ff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
@@ -3230,11 +3230,11 @@
 					<name>CANOAS_MRDAB_VILLAGGIO SANTOS FERREIRA.kmz</name>
 					<Style id="PolyStyle09370">
 						<LabelStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
@@ -3243,11 +3243,11 @@
 					</Style>
 					<Style id="PolyStyle09210">
 						<LabelStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
@@ -3391,11 +3391,11 @@
 					<name>CANOAS - MRDAB.kmz</name>
 					<Style id="PolyStyle0937">
 						<LabelStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
@@ -3404,11 +3404,11 @@
 					</Style>
 					<Style id="PolyStyle0921">
 						<LabelStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>7f0000ff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>

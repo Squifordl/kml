@@ -184,7 +184,7 @@
 	</Style>
 	<Style id="limite1450132">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>2.4</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
@@ -210,7 +210,7 @@
 	</Style>
 	<Style id="limite1520018">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>7f0000ff</color>
 			<width>2.4</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
