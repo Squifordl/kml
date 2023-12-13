@@ -84,7 +84,7 @@
 				<name>SANTANA_DO_LIVRAMENTO_HID_AGREG</name>
 				<Style id="AREA_AGREGACAO00">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -103,7 +103,7 @@
 				</StyleMap>
 				<Style id="AREA_AGREGACAO2">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -524,7 +524,7 @@
 				<name>SANTANA_DO_LIVRAMENTO_CTO_AGREG</name>
 				<Style id="AREA_AGREGACAO000">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -533,7 +533,7 @@
 				</Style>
 				<Style id="AREA_AGREGACAO100">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -30730,7 +30730,7 @@ NODE HFC CENAP</description>
 				<open>1</open>
 				<Style id="AREA_AGREGACAO4">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -30749,7 +30749,7 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AREA_AGREGACAO001">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
 						<color>7f00ff00</color>
@@ -30765,7 +30765,7 @@ NODE HFC CENAP</description>
 				</Style>
 				<Style id="AREA_AGREGACAO101">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -30774,7 +30774,7 @@ NODE HFC CENAP</description>
 				</Style>
 				<Style id="AREA_AGREGACAO21">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -30801,7 +30801,7 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AREA_AGREGACAO30">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
 						<color>7f00ff00</color>
@@ -30829,7 +30829,7 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AREA_AGREGACAO6">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -30848,7 +30848,7 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AREA_AGREGACAO8">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -30857,7 +30857,7 @@ NODE HFC CENAP</description>
 				</Style>
 				<Style id="AREA_AGREGACAO9">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -31832,7 +31832,7 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AT_TOTAL100">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
@@ -31851,7 +31851,7 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AT_TOTAL200">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
@@ -31860,7 +31860,7 @@ NODE HFC CENAP</description>
 				</Style>
 				<Style id="AT_TOTAL30">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
@@ -31869,7 +31869,7 @@ NODE HFC CENAP</description>
 				</Style>
 				<Style id="AT_TOTAL4">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
@@ -31925,7 +31925,7 @@ NODE HFC CENAP</description>
 		</StyleMap>
 		<Style id="sh_shaded_dot15">
 			<IconStyle>
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<scale>1.16667</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
@@ -31944,7 +31944,7 @@ NODE HFC CENAP</description>
 		</Style>
 		<Style id="sn_shaded_dot21">
 			<IconStyle>
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 				</Icon>
@@ -33662,7 +33662,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 		</StyleMap>
 		<Style id="sh_shaded_dot150">
 			<IconStyle>
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<scale>1.16667</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
@@ -33681,7 +33681,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 		</Style>
 		<Style id="sn_shaded_dot210">
 			<IconStyle>
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 				</Icon>

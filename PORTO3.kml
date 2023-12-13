@@ -11,11 +11,11 @@
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>00f0f0f0</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle000">
@@ -24,11 +24,11 @@
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>00f0f0f0</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle001">
@@ -378,7 +378,7 @@
 		</Style>
 		<Style id="ÁREA A CONSTRUIR">
 			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
@@ -407,7 +407,7 @@
 		</StyleMap>
 		<Style id="ÁREA A CONSTRUIR2">
 			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
@@ -416,7 +416,7 @@
 		</Style>
 		<Style id="ÁREA A CONSTRUIR3">
 			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
@@ -425,7 +425,7 @@
 		</Style>
 		<Style id="ÁREA A CONSTRUIR4">
 			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
-				<color>ff00ff00</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
@@ -2087,7 +2087,7 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -2103,7 +2103,7 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ff00ff00</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
