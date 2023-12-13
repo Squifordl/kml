@@ -7,7 +7,7 @@
 			<color>ff00aa00</color>
 		</LineStyle>
 		<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
-			<color>7f00ff00</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="01Bairro Santa Rita_1">
@@ -15,7 +15,7 @@
 			<color>ff00aa00</color>
 		</LineStyle>
 		<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
-			<color>7f00ff00</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="01Bairro Santa Rita_10">

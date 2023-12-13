@@ -32,28 +32,28 @@
 	</StyleMap>
 	<Style id="PolyStyle001">
 		<LabelStyle>
-			<color>00000000</color>
+			<color>ffff0000</color>
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>7f00ff00</color>
+			<color>ffff0000</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>7f00ffaa</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="PolyStyle00">
 		<LabelStyle>
-			<color>00000000</color>
+			<color>ffff0000</color>
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>7f00ff00</color>
+			<color>ffff0000</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>7f00ffaa</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="PolyStyle000">

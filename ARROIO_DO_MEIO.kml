@@ -17,7 +17,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_TOTALPolyStyle">
-			<color>7fffffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin">
@@ -35,7 +35,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_TOTALPolyStyle">
-			<color>7fffffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="m_ylw-pushpin">

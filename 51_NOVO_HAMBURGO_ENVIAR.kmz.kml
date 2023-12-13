@@ -19,7 +19,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>80ff0000</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sn_shaded_dot21">
@@ -37,7 +37,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>80ff0000</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_shaded_dot90">

@@ -22,7 +22,7 @@
 					<color>ff00ff00</color>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ff00</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="s_ylw-pushpin">
@@ -39,7 +39,7 @@
 					<color>ff00ff00</color>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ff00</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AREA_AGREGACAO0">
@@ -67,7 +67,7 @@
 					<color>ff00aa00</color>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ff00</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="AREA_AGREGACAO8">
@@ -76,7 +76,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AREA_AGREGACAO4">
@@ -95,7 +95,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="AREA_AGREGACAO9">
@@ -104,7 +104,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AREA_AGREGACAO3">
@@ -122,7 +122,7 @@
 					<color>ff00aa00</color>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ff00</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="AREA_AGREGACAO10">
@@ -131,7 +131,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="AREA_AGREGACAO">
@@ -140,7 +140,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AREA_AGREGACAO7">
@@ -159,7 +159,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AREA_AGREGACAO5">
@@ -359,7 +359,7 @@
 					<open>1</open>
 					<Style id="AT_TOTAL1">
 						<LineStyle id="lAT_TOTALLineStyle">
-							<color>ff00ffff</color>
+							<color>ffff0000</color>
 						</LineStyle>
 						<PolyStyle id="pAT_TOTALPolyStyle">
 							<color>7f00ffff</color>
@@ -367,7 +367,7 @@
 					</Style>
 					<Style id="AT_TOTAL0">
 						<LineStyle id="lAT_TOTALLineStyle">
-							<color>ff00ffff</color>
+							<color>ffff0000</color>
 						</LineStyle>
 						<PolyStyle id="pAT_TOTALPolyStyle">
 							<color>7f00ffff</color>
@@ -438,7 +438,7 @@
 			<name>Tres lagoas_RS.kmz</name>
 			<Style id="PolyStyle001">
 				<LabelStyle>
-					<color>00000000</color>
+					<color>ffff0000</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
@@ -451,7 +451,7 @@
 			</Style>
 			<Style id="PolyStyle005">
 				<LabelStyle>
-					<color>00000000</color>
+					<color>ffff0000</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
@@ -464,7 +464,7 @@
 			</Style>
 			<Style id="PolyStyle004">
 				<LabelStyle>
-					<color>00000000</color>
+					<color>ffff0000</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
@@ -487,7 +487,7 @@
 			</StyleMap>
 			<Style id="PolyStyle003">
 				<LabelStyle>
-					<color>00000000</color>
+					<color>ffff0000</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
@@ -500,7 +500,7 @@
 			</Style>
 			<Style id="PolyStyle000">
 				<LabelStyle>
-					<color>00000000</color>
+					<color>ffff0000</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
@@ -1106,7 +1106,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_TOTALPolyStyle">
-					<color>7f00ff00</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="AT_TOTAL20">
@@ -1115,7 +1115,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_TOTALPolyStyle">
-					<color>7f00ff00</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AT_TOTAL00">
@@ -1134,7 +1134,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_TOTALPolyStyle">
-					<color>7f00ff00</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="AT_TOTAL10">
@@ -1143,7 +1143,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_TOTALPolyStyle">
-					<color>7f00ff00</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AT_TOTAL2">

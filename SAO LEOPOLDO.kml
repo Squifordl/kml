@@ -36,7 +36,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
-			<color>66ffffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="limite16900121">
@@ -45,7 +45,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
-			<color>66ffffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="limite209011201">

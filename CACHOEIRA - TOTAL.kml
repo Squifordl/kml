@@ -32,7 +32,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="s_ylw-pushpin">
@@ -50,7 +50,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AREA_AGREGACAO0">
@@ -186,7 +186,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="AREA_AGREGACAO3">
@@ -195,7 +195,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AREA_AGREGACAO4">
@@ -214,7 +214,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pATENDIMENTO_SPLITTER_PRI-CLASSE-C_61PolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<Style id="ATENDIMENTO_SPLITTER_PRI-CLASSE-C_611">
@@ -223,7 +223,7 @@
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pATENDIMENTO_SPLITTER_PRI-CLASSE-C_61PolyStyle">
-					<color>7f00ffaa</color>
+					<color>ffff0000</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="ATENDIMENTO_SPLITTER_PRI-CLASSE-C_610">

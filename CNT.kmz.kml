@@ -18,7 +18,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-			<color>7f00ffaa</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="ÁREA A CONSTRUIR4">
@@ -27,7 +27,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-			<color>7f00ffaa</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl0">
@@ -84,7 +84,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-			<color>7f00ffaa</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl">
@@ -121,7 +121,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-			<color>7f00ffaa</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin0">

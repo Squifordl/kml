@@ -128,11 +128,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin0">
@@ -144,11 +144,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_triangle13">
@@ -170,11 +170,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin1">
@@ -186,11 +186,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sh_triangle">
@@ -202,11 +202,11 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin">
@@ -322,11 +322,11 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_triangle51">
@@ -348,11 +348,11 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_triangle">
@@ -384,11 +384,11 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin2">
@@ -400,11 +400,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin00">
@@ -416,11 +416,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>4d00ffff</color>
+			<color>ffff0000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sh_triangle1100">
