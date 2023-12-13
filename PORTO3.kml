@@ -308,7 +308,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_PGOPolyStyle">
-				<color>54ffaa00</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_PGO1">
@@ -317,7 +317,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_PGOPolyStyle">
-				<color>54ffaa00</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin">
@@ -694,7 +694,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>7fff0000</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<Style id="style5305800011810022890000022110405">
@@ -709,7 +709,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>7fff0000</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="stylemap_id071165102420025950051250013">
@@ -952,7 +952,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>7fff0000</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<Style id="style53058000118100228900000221104050">
@@ -967,7 +967,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>7fff0000</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="stylemap_id0711651024200259500512500130">
@@ -1055,20 +1055,20 @@
 		<name>Cachoeira do Sul - CNT.kmz</name>
 		<Style id="style160">
 			<LineStyle>
-				<color>00ff0000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>b300ffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style170">
 			<LineStyle>
-				<color>00ff0000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>b300ffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="stylemap_id04">
@@ -1107,20 +1107,20 @@
 		<name>Cachoeira do Sul - CNT.kmz</name>
 		<Style id="style1600">
 			<LineStyle>
-				<color>00ff0000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>b300ffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style1700">
 			<LineStyle>
-				<color>00ff0000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>b300ffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="stylemap_id040">
@@ -1463,20 +1463,20 @@
 		</StyleMap>
 		<Style id="sh_ylw-pushpin29">
 			<LineStyle>
-				<color>ff00aaff</color>
+				<color>323A8247</color>
 				<width>1.8</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7000aaff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin27">
 			<LineStyle>
-				<color>ff00aaff</color>
+				<color>323A8247</color>
 				<width>1.2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7000aaff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -1890,11 +1890,11 @@
 				<color>323A8247</color>
 			</LabelStyle>
 			<LineStyle id="lAT_CAMLineStyle">
-				<color>ffffaa00</color>
+				<color>323A8247</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CAMPolyStyle">
-				<color>b30000ff</color>
+				<color>323A8247</color>
 				<outline>0</outline>
 			</PolyStyle>
 		</Style>
@@ -1903,11 +1903,11 @@
 				<color>323A8247</color>
 			</LabelStyle>
 			<LineStyle id="lAT_CAMLineStyle">
-				<color>ffffaa00</color>
+				<color>323A8247</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CAMPolyStyle">
-				<color>b30000ff</color>
+				<color>323A8247</color>
 				<outline>0</outline>
 			</PolyStyle>
 		</Style>
@@ -1979,10 +1979,10 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff00aa55</color>
+				<color>323A8247</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000aa55</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin">
@@ -1994,10 +1994,10 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff00aa55</color>
+				<color>323A8247</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000aa55</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -2392,7 +2392,7 @@
 				<color>323A8247</color>
 			</LineStyle>
 			<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-				<color>7fff00bf</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Folder>

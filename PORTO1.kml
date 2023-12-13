@@ -20665,7 +20665,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff00aaff</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -20697,7 +20697,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff00aaff</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -29556,7 +29556,7 @@ NODE HFC CENAP</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fffffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="Style_POLIGONO_AREA_PRIMARIA_0052A50">
@@ -29583,7 +29583,7 @@ NODE HFC CENAP</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fffffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="Style_POLIGONO_AREA_PRIMARIA_0052A52">
@@ -29600,7 +29600,7 @@ NODE HFC CENAP</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fffffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="Style_POLIGONO_AREA_PRIMARIA_0052A53">
@@ -29617,7 +29617,7 @@ NODE HFC CENAP</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fffffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="Style_POLIGONO_AREA_PRIMARIA_0052A54">
@@ -29644,7 +29644,7 @@ NODE HFC CENAP</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fffffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="Style_POLIGONO_AREA_PRIMARIA_0052A56">
@@ -29671,7 +29671,7 @@ NODE HFC CENAP</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fffffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="limite10301016">
@@ -31041,7 +31041,7 @@ NODE HFC CENAP</description>
 						<color>323A8247</color>
 					</LineStyle>
 					<PolyStyle id="pPOLIGONOPolyStyle">
-						<color>7fff0000</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="m_ylw-pushpin01">
@@ -31092,7 +31092,7 @@ NODE HFC CENAP</description>
 								<color>323A8247</color>
 							</LineStyle>
 							<PolyStyle id="pAT_TOTALPolyStyle">
-								<color>7f00ffff</color>
+								<color>323A8247</color>
 							</PolyStyle>
 						</Style>
 						<Style id="AT_TOTAL11">
@@ -31100,7 +31100,7 @@ NODE HFC CENAP</description>
 								<color>323A8247</color>
 							</LineStyle>
 							<PolyStyle id="pAT_TOTALPolyStyle">
-								<color>7f00ffff</color>
+								<color>323A8247</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -31172,11 +31172,11 @@ NODE HFC CENAP</description>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffffaaff</color>
+						<color>323A8247</color>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>ffffaaff</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle0010">
@@ -31208,11 +31208,11 @@ NODE HFC CENAP</description>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ffffaaff</color>
+						<color>323A8247</color>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>ffffaaff</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle0040">
@@ -31221,11 +31221,11 @@ NODE HFC CENAP</description>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ff7fff00</color>
+						<color>323A8247</color>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>ff7fff00</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle005">
@@ -31234,11 +31234,11 @@ NODE HFC CENAP</description>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ff7fff00</color>
+						<color>323A8247</color>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>ff7fff00</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<Folder id="FeatureLayer0">
@@ -35506,7 +35506,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35522,7 +35522,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35570,7 +35570,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35586,7 +35586,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35618,11 +35618,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>de00ffff</color>
+				<color>323A8247</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>877fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin03">
@@ -35682,7 +35682,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35698,7 +35698,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35746,7 +35746,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35778,7 +35778,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -35794,11 +35794,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>de00ffff</color>
+				<color>323A8247</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>877fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin03">
@@ -36843,11 +36843,11 @@ NODE HFC CNTAHA</description>
 		</Style>
 		<Style id="limite169001210200">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite169001210400">
@@ -36856,16 +36856,16 @@ NODE HFC CNTAHA</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite16900121041">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800249000">
@@ -36879,20 +36879,20 @@ NODE HFC CNTAHA</description>
 		</Style>
 		<Style id="limite18800249100">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002492000">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800249201">
@@ -36901,7 +36901,7 @@ NODE HFC CNTAHA</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800249400">
@@ -37866,11 +37866,11 @@ NODE HFC CNTAHA</description>
 		</Style>
 		<Style id="limite1690012102000">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1690012104000">
@@ -37879,16 +37879,16 @@ NODE HFC CNTAHA</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite169001210410">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002490000">
@@ -37902,20 +37902,20 @@ NODE HFC CNTAHA</description>
 		</Style>
 		<Style id="limite188002491000">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1880024920000">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002492010">
@@ -37924,7 +37924,7 @@ NODE HFC CNTAHA</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002494000">
@@ -38889,11 +38889,11 @@ NODE HFC CNTAHA</description>
 		</Style>
 		<Style id="limite1690012102001">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1690012104001">
@@ -38902,16 +38902,16 @@ NODE HFC CNTAHA</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite169001210411">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002490001">
@@ -38925,20 +38925,20 @@ NODE HFC CNTAHA</description>
 		</Style>
 		<Style id="limite188002491001">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1880024920001">
 			<LineStyle>
-				<color>cc7fffff</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002492011">
@@ -38947,7 +38947,7 @@ NODE HFC CNTAHA</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>997fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002494001">
@@ -39904,7 +39904,7 @@ NODE HFC CNTAHA</description>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>80ff55ff</color>
+						<color>323A8247</color>
 						<outline>0</outline>
 					</PolyStyle>
 				</Style>
@@ -39913,7 +39913,7 @@ NODE HFC CNTAHA</description>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>80ff55ff</color>
+						<color>323A8247</color>
 						<outline>0</outline>
 					</PolyStyle>
 				</Style>

@@ -1751,11 +1751,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff7fffff</color>
+				<color>323A8247</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>667fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="s_ylw-pushpin_hl">
@@ -1767,11 +1767,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff7fffff</color>
+				<color>323A8247</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>667fffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_blue-pushpin3">
@@ -1783,7 +1783,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -1799,7 +1799,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -1847,7 +1847,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -1863,7 +1863,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -1895,7 +1895,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -1911,7 +1911,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -1959,7 +1959,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -1991,7 +1991,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>323A8247</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -2920,7 +2920,7 @@ NODE HFC CNTACB</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_MDVAAPolyStyle">
-						<color>7f00ffff</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AT_MDVAA0">
@@ -2929,7 +2929,7 @@ NODE HFC CNTACB</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_MDVAAPolyStyle">
-						<color>7f00ffff</color>
+						<color>323A8247</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AT_MDVAA1">
@@ -2985,7 +2985,7 @@ NODE HFC CNTACB</description>
 							<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 						</IconStyle>
 						<LineStyle>
-							<color>ff00aaff</color>
+							<color>323A8247</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
@@ -3001,7 +3001,7 @@ NODE HFC CNTACB</description>
 							<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 						</IconStyle>
 						<LineStyle>
-							<color>ff00aaff</color>
+							<color>323A8247</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
@@ -3425,7 +3425,7 @@ NODE HFC CNTACB</description>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-								<color>7f00ffff</color>
+								<color>323A8247</color>
 							</PolyStyle>
 						</Style>
 						<Style id="AREA_AGREGACAO41">
@@ -3434,7 +3434,7 @@ NODE HFC CNTACB</description>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-								<color>7f00ffff</color>
+								<color>323A8247</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -3852,7 +3852,7 @@ NODE HFC CNTACB</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
-				<color>7fffffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_TOTAL10">
@@ -3861,7 +3861,7 @@ NODE HFC CNTACB</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
-				<color>7fffffff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin1">
@@ -4391,7 +4391,7 @@ NODE HFC CNTACB</description>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-							<color>7f00ffff</color>
+							<color>323A8247</color>
 						</PolyStyle>
 					</Style>
 					<Style id="AREA_AGREGACAO410">
@@ -4400,7 +4400,7 @@ NODE HFC CNTACB</description>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-							<color>7f00ffff</color>
+							<color>323A8247</color>
 						</PolyStyle>
 					</Style>
 					<Folder>
@@ -5307,7 +5307,7 @@ NODE HFC CNTACB</description>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>7f00ffff</color>
+								<color>323A8247</color>
 							</PolyStyle>
 						</Style>
 						<StyleMap id="PolyStyle0000">
@@ -5330,7 +5330,7 @@ NODE HFC CNTACB</description>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>7f00ffff</color>
+								<color>323A8247</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -8024,7 +8024,7 @@ NODE HFC CNTACB</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CNTPolyStyle">
-				<color>4f00ffaa</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_CNT00">
@@ -8033,7 +8033,7 @@ NODE HFC CNTACB</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CNTPolyStyle">
-				<color>4f00ffaa</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="AT_CNT10">
@@ -8229,11 +8229,11 @@ NODE HFC CNTACB</description>
 		</StyleMap>
 		<Style id="sh_ylw-pushpin1900">
 			<LineStyle>
-				<color>ff00aaff</color>
+				<color>323A8247</color>
 				<width>3.3015</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7000aaff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin2400">
@@ -8245,20 +8245,20 @@ NODE HFC CNTACB</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff00aaff</color>
+				<color>323A8247</color>
 				<width>2.2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7000aaff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin25000">
 			<LineStyle>
-				<color>ff00aaff</color>
+				<color>323A8247</color>
 				<width>2.201</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7000aaff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin28">
@@ -8270,11 +8270,11 @@ NODE HFC CNTACB</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>ff00aaff</color>
+				<color>323A8247</color>
 				<width>2.2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7000aaff</color>
+				<color>323A8247</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
