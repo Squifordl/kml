@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Lugares temporários</name>
+	<open>1</open>
+	<Document>
+		<name>Imbé.kmz</name>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff00ff00</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>00f0f0f0</color>
+			</PolyStyle>
+		</Style>
+		<Style id="PolyStyle000">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff00ff00</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>00f0f0f0</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="PolyStyle001">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#PolyStyle00</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#PolyStyle000</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder id="FeatureLayer0">
+			<name>Imbé</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_00000">
+				<name>4321600</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>4321600</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CD_GEOCODM</td>
+
+<td>4321600</td>
+
+</tr>
+
+<tr>
+
+<td>NM_MUNICIP</td>
+
+<td>IMBÉ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>CLASSE</td>
+
+<td>AB</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_KM</td>
+
+<td>156,637138</td>
+
+</tr>
+
+<tr>
+
+<td>DOMICILIOS</td>
+
+<td>4138</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>11226,890353</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle001</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-50.13295692627736,-29.98192647298822,0 -50.13254098675409,-29.9820602911014,0 -50.13218446716267,-29.98163824874737,0 -50.13162591980272,-29.98077357100597,0 -50.12914216664912,-29.9796000677442,0 -50.12762101639242,-29.97899272289202,0 -50.12687232525042,-29.97923977887325,0 -50.12581465046252,-29.97879713647096,0 -50.12443610804235,-29.97827213943662,0 -50.12305756562212,-29.97701625291926,0 -50.12251090224859,-29.97632653799517,0 -50.12191670292959,-29.97611035770488,0 -50.12005091706781,-29.97587358827561,0 -50.11880547529499,-29.9753135748581,0 -50.11762658384616,-29.97440766411594,0 -50.11570613164699,-29.96946618737469,0 -50.11441315392878,-29.96592464453003,0 -50.11213142854361,-29.95984607446925,0 -50.11176421336435,-29.95845370288094,0 -50.1159109323456,-29.95705170192367,0 -50.1296883942765,-29.95229169766535,0 -50.13042302270115,-29.95169482596193,0 -50.13091244487376,-29.95219902661805,0 -50.13188693175687,-29.95318751333649,0 -50.13123034150945,-29.95369977211877,0 -50.13140563030856,-29.95396748420116,0 -50.13156309312804,-29.95442568205421,0 -50.13155715113492,-29.9549842687153,0 -50.13168787498511,-29.9553678125777,0 -50.13166707800895,-29.95557116744812,0 -50.13159201082828,-29.95617762583219,0 -50.1316015180173,-29.95689836952516,0 -50.13196279120331,-29.95827806430464,0 -50.13232881798387,-29.95955066131782,0 -50.13311791467959,-29.96186106279756,0 -50.13476760102233,-29.96588305340522,0 -50.13483049999996,-29.96603639999986,0 -50.1349337877985,-29.96646935026927,0 -50.13502410609513,-29.9667864453027,0 -50.13508590282424,-29.96724767263579,0 -50.13510967079695,-29.96769654360981,0 -50.13509065641873,-29.96816600282611,0 -50.13493854139309,-29.96889077761196,0 -50.13488545958718,-29.96915913511673,0 -50.1350732265721,-29.96916943014716,0 -50.13578151216039,-29.96929502943344,0 -50.13746317545986,-29.96958987828165,0 -50.13786197035203,-29.96966987715719,0 -50.13788288616819,-29.96959575328709,0 -50.13913644074225,-29.96979165981025,0 -50.13921027991094,-29.97005471642048,0 -50.13913659919545,-29.97042773564934,0 -50.13879196359037,-29.9707983513436,0 -50.13883949953589,-29.97132338787715,0 -50.13893457142694,-29.97180724261802,0 -50.13866123974019,-29.971982253327,0 -50.1385899358218,-29.97241463140396,0 -50.13860181980827,-29.9732999711187,0 -50.13869689169935,-29.97416471392119,0 -50.1385899358218,-29.97449413777069,0 -50.13826906818959,-29.97476179384405,0 -50.13816211231222,-29.97509121571361,0 -50.13802638412025,-29.97542633891392,0 -50.13793819934854,-29.97564407319784,0 -50.13792443258447,-29.97597653157507,0 -50.13778103185254,-29.97629316841044,0 -50.13785312866626,-29.97663536616517,0 -50.13753579984738,-29.97718765663245,0 -50.13715197346984,-29.97750007993342,0 -50.13716385745619,-29.9778809633717,0 -50.13678087502279,-29.97850154255311,0 -50.13646270225963,-29.97893095880066,0 -50.13570212713135,-29.97939418854937,0 -50.13508415983952,-29.97986771005965,0 -50.13443054058856,-29.98033093543943,0 -50.13390764518789,-29.98052651884008,0 -50.13347982167814,-29.98111326673085,0 -50.13295692627736,-29.98192647298822,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>4321600</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>4321600</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CD_GEOCODM</td>
+
+<td>4321600</td>
+
+</tr>
+
+<tr>
+
+<td>NM_MUNICIP</td>
+
+<td>IMBÉ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>CLASSE</td>
+
+<td>C1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_KM</td>
+
+<td>189,198069</td>
+
+</tr>
+
+<tr>
+
+<td>DOMICILIOS</td>
+
+<td>2649</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>19254,454727</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle001</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-50.11846198847558,-29.94063150875158,0 -50.11858082833943,-29.94070565421957,0 -50.11880662408065,-29.94063253855004,0 -50.11919859756468,-29.94126062786133,0 -50.1199413467135,-29.94211535158206,0 -50.12069597984868,-29.94290313260419,0 -50.1231500230363,-29.94543119818906,0 -50.12385712022589,-29.94613348443353,0 -50.12474841920426,-29.94701699879391,0 -50.1258037171949,-29.94809821198138,0 -50.12725118673619,-29.94958717775875,0 -50.12910508861167,-29.95146534345539,0 -50.12978707361285,-29.95221152277878,0 -50.1296883942765,-29.95229169766535,0 -50.1159109323456,-29.95705170192355,0 -50.11178124298636,-29.95844794522547,0 -50.11166256566771,-29.95812856397445,0 -50.11009387946544,-29.95411297511916,0 -50.10833980307564,-29.95029492638068,0 -50.10603668651479,-29.94520139230256,0 -50.10764696666966,-29.94458353963866,0 -50.1101907339543,-29.94370360784438,0 -50.11218486686912,-29.94295470715722,0 -50.11396152283304,-29.94232654272759,0 -50.11540542717819,-29.94183224661712,0 -50.11654985506662,-29.94140179508662,0 -50.11790819471024,-29.9409095539722,0 -50.11846198847558,-29.94063150875158,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-50.08525069999997,-29.9020623999999,0 -50.08457049930701,-29.90054417504858,0 -50.08763181419882,-29.89892878751639,0 -50.08968394096696,-29.89789504938121,0 -50.09022941594191,-29.89865845480002,0 -50.09078915170044,-29.89952384658269,0 -50.09125262716923,-29.90018833874305,0 -50.09157705999751,-29.9006890229317,0 -50.09175888498905,-29.90095172659229,0 -50.09202270948673,-29.90160693740996,0 -50.09252540211072,-29.90280608567152,0 -50.09319708502093,-29.9045865469684,0 -50.09357071755275,-29.90550380744074,0 -50.09433010428247,-29.90530601613939,0 -50.09458323319243,-29.90597665067891,0 -50.09504563145438,-29.90712971441273,0 -50.09588096450516,-29.90916905642326,0 -50.09631591840676,-29.91020741610395,0 -50.09688634975303,-29.91163308279217,0 -50.09704321837314,-29.91158775844274,0 -50.09751857782846,-29.91299280368291,0 -50.09793214055441,-29.91411764966088,0 -50.09799829474538,-29.91410391535434,0 -50.09855090011197,-29.91523698927305,0 -50.09865785598953,-29.91544815162352,0 -50.09911836046175,-29.91642927813454,0 -50.09974524074326,-29.91772198124454,0 -50.10044639593981,-29.91913312006118,0 -50.1008653064598,-29.92002408426899,0 -50.10129015897292,-29.9209227655229,0 -50.1019170392544,-29.92224888493372,0 -50.10244884764494,-29.9233355171857,0 -50.10264731021763,-29.92374261498223,0 -50.10204479210801,-29.92396817888904,0 -50.10254550373573,-29.92497798528554,0 -50.10338887096778,-29.92673361263534,0 -50.10388799839574,-29.92775942997452,0 -50.10466877630104,-29.92939082854317,0 -50.10552121464408,-29.93116185444289,0 -50.10613205154413,-29.93244509729471,0 -50.10644519458526,-29.93306611497996,0 -50.10654482200432,-29.93334212159609,0 -50.10716754289079,-29.93461503772433,0 -50.1074384977802,-29.93517116101839,0 -50.10476366592516,-29.93611756414051,0 -50.10228084769098,-29.93701664419596,0 -50.10170566275007,-29.93723084984758,0 -50.09752345026281,-29.9284513357391,0 -50.09657273135239,-29.92683640083325,0 -50.09368065643236,-29.92044296170889,0 -50.09331269999993,-29.91962949999976,0 -50.09170505053078,-29.91645405080984,0 -50.08911909509424,-29.91111413492557,0 -50.08525069999997,-29.9020623999999,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>CNT.kmz</name>
+		<StyleMap id="AT_PGO">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#AT_PGO0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#AT_PGO1</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="AT_PGO0">
+			<LineStyle id="lAT_PGOLineStyle">
+				<color>ffff0000</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="pAT_PGOPolyStyle">
+				<color>54ffaa00</color>
+			</PolyStyle>
+		</Style>
+		<Style id="AT_PGO1">
+			<LineStyle id="lAT_PGOLineStyle">
+				<color>ffff0000</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="pAT_PGOPolyStyle">
+				<color>54ffaa00</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="m_ylw-pushpin0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin0">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl0">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="ÁREA A CONSTRUIR">
+			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
+				<color>ff00ff00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
+				<color>7f00ffaa</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="ÁREA A CONSTRUIR0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#ÁREA A CONSTRUIR4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#ÁREA A CONSTRUIR2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="ÁREA A CONSTRUIR1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#ÁREA A CONSTRUIR</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#ÁREA A CONSTRUIR3</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="ÁREA A CONSTRUIR2">
+			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
+				<color>ff00ff00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
+				<color>7f00ffaa</color>
+			</PolyStyle>
+		</Style>
+		<Style id="ÁREA A CONSTRUIR3">
+			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
+				<color>ff00ff00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
+				<color>7f00ffaa</color>
+			</PolyStyle>
+		</Style>
+		<Style id="ÁREA A CONSTRUIR4">
+			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
+				<color>ff00ff00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
+				<color>7f00ffaa</color>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>CNT</name>
+			<open>1</open>
+			<Placemark>
+				<name>CNT</name>
+				<description>CNT</description>
+				<styleUrl>#ÁREA A CONSTRUIR1</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.45079402793454,-29.67889290652614,0 -51.44935359373132,-29.67823415092441,0 -51.44991987237641,-29.67736933325778,0 -51.45139075046629,-29.67807303989861,0 -51.45079402793454,-29.67889290652614,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>8532C</name>
+				<styleUrl>#AT_PGO</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.43874783616597,-29.67021407657818,0 -51.44334995610745,-29.67333616867592,0 -51.44545322536101,-29.66979963414146,0 -51.44711127940208,-29.66982450355321,0 -51.45107024941002,-29.66981073154934,0 -51.45331842265566,-29.66938169456733,0 -51.45515963141663,-29.6690931872701,0 -51.4567544826918,-29.66880550367511,0 -51.45841351766487,-29.66873248265988,0 -51.46002501375691,-29.66872241989145,0 -51.46155704674285,-29.66891449424499,0 -51.46288793406654,-29.66926819808028,0 -51.46426217218877,-29.67011894055458,0 -51.46498508544546,-29.67086642469083,0 -51.46604418439703,-29.67221874417645,0 -51.46651972257802,-29.67351756387484,0 -51.46733519568002,-29.67741043909488,0 -51.46819723275991,-29.68201290719179,0 -51.4696399807314,-29.68339716414919,0 -51.47013411011861,-29.68395498978943,0 -51.46996288994067,-29.6841388193943,0 -51.47162154603511,-29.68533784243498,0 -51.47341847524746,-29.68592467494419,0 -51.4738148895059,-29.68604051948908,0 -51.47405810700411,-29.68606951327039,0 -51.47309974440515,-29.68632941487541,0 -51.4710131584382,-29.68570563811183,0 -51.47042151468873,-29.68520829038055,0 -51.46973701264407,-29.68515927690975,0 -51.46730352545233,-29.68564505312858,0 -51.46761195592067,-29.68623481720154,0 -51.46933066202905,-29.68602216074792,0 -51.46925713223296,-29.68628882517078,0 -51.46724120432969,-29.68643866271211,0 -51.46567897693544,-29.68549536975674,0 -51.46531926039901,-29.6862488471934,0 -51.46626693729486,-29.68662775493114,0 -51.46623429041701,-29.68675812777643,0 -51.46522177290824,-29.68638545180351,0 -51.46274143311373,-29.69047763384838,0 -51.46493273733806,-29.69142521512411,0 -51.46396786249629,-29.69186000102025,0 -51.46241772600112,-29.69119994014934,0 -51.46215342685568,-29.69157774468597,0 -51.46718639262435,-29.69463529450996,0 -51.46599810529906,-29.69460035952104,0 -51.46490518630356,-29.69426078298399,0 -51.46289530452536,-29.69263283740351,0 -51.46195382621728,-29.69377250060146,0 -51.46145038761037,-29.69357275327881,0 -51.46029277035714,-29.69569421589261,0 -51.45950330432182,-29.69649164292173,0 -51.45789187906683,-29.6961155843284,0 -51.45650371004363,-29.6960716986184,0 -51.45471016874064,-29.69650441090284,0 -51.45383727584539,-29.69450760633397,0 -51.45352738394699,-29.6943797249661,0 -51.45537703539265,-29.69109017269426,0 -51.45450257270646,-29.69074943606405,0 -51.45453148938431,-29.69068387211423,0 -51.45288796176803,-29.69005689067775,0 -51.45097142385425,-29.68927483225927,0 -51.44744512399323,-29.68751416347371,0 -51.44883016521061,-29.68525649280124,0 -51.44951360622599,-29.68493051764077,0 -51.44801155940293,-29.68392044778707,0 -51.45011286741024,-29.68146852150816,0 -51.44937130768136,-29.68081867192554,0 -51.44934259237892,-29.68074668275644,0 -51.4481963238548,-29.67945806280158,0 -51.44753529947456,-29.67834487258612,0 -51.44746083684004,-29.67824500959154,0 -51.44577228648905,-29.67621129208156,0 -51.44545562821574,-29.67660424364765,0 -51.44520837216548,-29.67644502605863,0 -51.43732896532025,-29.66982738151156,0 -51.43628863671335,-29.67171874216941,0 -51.43563241421069,-29.67159884649912,0 -51.4367898951647,-29.66938799674242,0 -51.43626943026996,-29.66902785882154,0 -51.43683943624079,-29.66867453754811,0 -51.43874783616597,-29.67021407657818,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CNT</name>
+				<open>1</open>
+				<description>CNT</description>
+				<LookAt>
+					<longitude>-51.46702085655458</longitude>
+					<latitude>-29.67808727991224</latitude>
+					<altitude>0</altitude>
+					<heading>0.001194414629585773</heading>
+					<tilt>4.603928665803243</tilt>
+					<range>2600.664550135899</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.47229570618975,-29.67674307771746,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CNT</name>
+				<description>CNT</description>
+				<LookAt>
+					<longitude>-51.44852740923923</longitude>
+					<latitude>-29.68272463503174</latitude>
+					<altitude>0</altitude>
+					<heading>-0.007531533832452255</heading>
+					<tilt>12.23245534137431</tilt>
+					<range>5537.015007067203</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.45045376341452,-29.67805553518108,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CNT</name>
+				<styleUrl>#ÁREA A CONSTRUIR0</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.47850312065597,-29.67732809277689,0 -51.46815917197269,-29.68204417216724,0 -51.46669385772821,-29.67646986641362,0 -51.47400853423298,-29.67242453705213,0 -51.47850312065597,-29.67732809277689,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>PGO</name>
+			<description>PGO</description>
+			<LookAt>
+				<longitude>-51.45698473888959</longitude>
+				<latitude>-29.68157670304574</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001727889806184576</heading>
+				<tilt>44.36127856069583</tilt>
+				<range>5567.533693947744</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-51.46133644974016,-29.68381599499268,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Lugares temporários</name>
+		<Folder id="05B785D6C32D990B8216">
+			<name>Lugares temporários</name>
+			<open>1</open>
+			<Document id="0CBFE3C9462D990B821D">
+				<name>PORTO VERDE V2_PARCIAL.kmz</name>
+				<StyleMap id="PolyStyle011611">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#PolyStyle01168</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#PolyStyle011617</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="PolyStyle011617">
+					<LabelStyle>
+						<color>ffff0000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffff0000</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>8000ffff</color>
+					</PolyStyle>
+				</Style>
+				<Style id="PolyStyle01168">
+					<LabelStyle>
+						<color>ffff0000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffff0000</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>8000ffff</color>
+					</PolyStyle>
+				</Style>
+				<Placemark id="ID_00116">
+					<name>PORTO VERDE V2_PARCIAL</name>
+					<open>1</open>
+					<snippet></snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIDADE</td>
+
+<td>ALVORADA</td>
+
+</tr>
+
+<tr>
+
+<td>SDE_AREAS_</td>
+
+<td>PORTO VERDE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>KM</td>
+
+<td>50,879104</td>
+
+</tr>
+
+<tr>
+
+<td>HP</td>
+
+<td>8452</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+					<styleUrl>#PolyStyle011611</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.07820565810997,-30.03304666760559,0 -51.07713002337493,-30.0340550449793,0 -51.07700756684875,-30.03396572867985,0 -51.07528212404537,-30.03579308986637,0 -51.07362381374014,-30.03449354006315,0 -51.0726301342462,-30.03540411854544,0 -51.07606188921705,-30.03787916789242,0 -51.0755762422815,-30.03831880954838,0 -51.07215849848387,-30.03568634481899,0 -51.07108630630367,-30.03666393262209,0 -51.07128383041204,-30.03787008455748,0 -51.07219814992284,-30.03859933082236,0 -51.07250378775982,-30.03888868244558,0 -51.07154543721549,-30.03971408443998,0 -51.07168545532808,-30.04213530625664,0 -51.07393869383178,-30.04208364347624,0 -51.07397786093589,-30.04312964871202,0 -51.07542949274924,-30.04252774407824,0 -51.07682913270733,-30.04317139810388,0 -51.07707445757479,-30.04321592722268,0 -51.0772844913497,-30.04368585261032,0 -51.07586895542536,-30.04431407179495,0 -51.0757170004634,-30.04499792102908,0 -51.07595182048594,-30.04556452916441,0 -51.07477524171395,-30.04605337576346,0 -51.07560824763152,-30.04762032269666,0 -51.07508557517529,-30.04914179078736,0 -51.07491501959237,-30.049009416008,0 -51.07510755031594,-30.04842026800493,0 -51.07321712758285,-30.04818109999825,0 -51.07276366002679,-30.04812305838088,0 -51.07166853878145,-30.04589153179257,0 -51.07104353302891,-30.0377210497367,0 -51.0705527395704,-30.03608382127177,0 -51.07209769184044,-30.03470917817193,0 -51.06849280291091,-30.03181121897943,0 -51.07322046859498,-30.02744487773741,0 -51.07388094398384,-30.02755600602675,0 -51.07577638852679,-30.02896980080421,0 -51.07604987393664,-30.02930457853305,0 -51.07555920595693,-30.02968021063884,0 -51.07600045355125,-30.030034123299,0 -51.07674068016117,-30.03059060968344,0 -51.07752573448914,-30.02994736185346,0 -51.0787994848717,-30.02936572061715,0 -51.08021077873926,-30.03323325937787,0 -51.07820565810997,-30.03304666760559,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Document>
+			<Document id="18373465ED2D990B821D">
+				<name>Alvorada</name>
+				<open>1</open>
+				<Style id="style09410859002827160010624000149">
+					<IconStyle>
+						<scale>0.7</scale>
+					</IconStyle>
+					<LabelStyle>
+						<scale>0.7</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffff0000</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>7fff0000</color>
+					</PolyStyle>
+				</Style>
+				<Style id="style5305800011810022890000022110405">
+					<IconStyle>
+						<scale>0.7</scale>
+					</IconStyle>
+					<LabelStyle>
+						<scale>0.7</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffff0000</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>7fff0000</color>
+					</PolyStyle>
+				</Style>
+				<StyleMap id="stylemap_id071165102420025950051250013">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#style09410859002827160010624000149</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#style5305800011810022890000022110405</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Folder id="27790B84802D990B821D">
+					<name>NET SMS - POA</name>
+					<Placemark>
+						<name>ALV01</name>
+						<description>ALV01</description>
+						<styleUrl>#stylemap_id071165102420025950051250013</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.0815200614183,-30.04480797765302,20 -51.08137379852349,-30.04511258067649,20 -51.08138573270824,-30.0454859348957,20 -51.08146060427972,-30.04582916331771,20 -51.08080440863954,-30.04593795114808,20 -51.0806762493674,-30.04663902802626,20 -51.08026676861887,-30.04667813713287,20 -51.08032318135977,-30.04584538192091,20 -51.0797249955955,-30.04558358149127,20 -51.0798497324785,-30.04426890115039,20 -51.08007345753855,-30.044262324411,20 -51.0815200614183,-30.04480797765302,20 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>ALV02</name>
+						<description>ALV02</description>
+						<styleUrl>#stylemap_id071165102420025950051250013</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.08294652887154,-30.04138754303377,20 -51.08272133276902,-30.04299156872271,20 -51.08207715825154,-30.04301055192303,20 -51.08200301420355,-30.04309088607311,20 -51.08175608299039,-30.04309541321485,20 -51.08157242924815,-30.04345311465338,20 -51.08071120420877,-30.04335963925806,20 -51.08066597563543,-30.04349930867353,20 -51.08001351178934,-30.04347410788629,20 -51.08042747243418,-30.04080130779624,20 -51.0826929085073,-30.04100760943808,20 -51.08294652887154,-30.04138754303377,20 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+				</Folder>
+				<Folder id="076D1A53A62D990B821E">
+					<name>NET SMS - ALV</name>
+					<Placemark>
+						<name>UMBAK</name>
+						<description>NODE ALV03</description>
+						<styleUrl>#stylemap_id071165102420025950051250013</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.08288297028011,-30.0403098819846,0 -51.08288297028011,-30.0403098819846,0 -51.08268063446781,-30.0409115172586,0 -51.080346932202,-30.0408534536793,0 -51.0802000298601,-30.040840691462,0 -51.0803494072911,-30.0394229461684,0 -51.0805858986424,-30.0388696641135,0 -51.0805812350152,-30.03878094929591,0 -51.0804612259192,-30.0364983220912,0 -51.080595985405,-30.0365225237807,0 -51.0806478758207,-30.0351145500497,0 -51.0817468001302,-30.0351452059765,0 -51.0821831476008,-30.0355146133982,0 -51.082497710724,-30.0355257883642,0 -51.0826848168779,-30.0353825351021,0 -51.0852656295176,-30.03553388829449,0 -51.0881088941868,-30.0355433361123,0 -51.08718139291919,-30.0390918763658,0 -51.0871211368456,-30.0399077655158,0 -51.0847045519477,-30.0397085195262,0 -51.08438826589341,-30.039773112076,0 -51.0841986280594,-30.0399050804819,0 -51.0837750076468,-30.0400866406384,0 -51.08288297028011,-30.0403098819846,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>UMBAL</name>
+						<description>NODE ALV04</description>
+						<styleUrl>#stylemap_id071165102420025950051250013</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.0871211368456,-30.0399077655158,0 -51.086838924754,-30.0434993993165,0 -51.08654202258581,-30.0452912568172,0 -51.08249479350499,-30.04538617398149,0 -51.082801094283,-30.04104384156449,0 -51.08268063446781,-30.0409115172586,0 -51.08288297028011,-30.0403098819846,0 -51.0837750076468,-30.0400866406384,0 -51.0841986280594,-30.0399050804819,0 -51.08438826589341,-30.039773112076,0 -51.0847045519477,-30.0397085195262,0 -51.0871211368456,-30.0399077655158,0 -51.0871211368456,-30.0399077655158,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+				</Folder>
+			</Document>
+		</Folder>
+	</Document>
+	<Document>
+		<name>Lugares temporários</name>
+		<Folder>
+			<name>Lugares temporários</name>
+			<open>1</open>
+			<Document>
+				<name>PORTO VERDE V2_PARCIAL.kmz</name>
+				<StyleMap id="PolyStyle0116110">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#PolyStyle011680</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#PolyStyle0116170</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="PolyStyle0116170">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ff00ffff</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>8000ffff</color>
+					</PolyStyle>
+				</Style>
+				<Style id="PolyStyle011680">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ff00ffff</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>8000ffff</color>
+					</PolyStyle>
+				</Style>
+				<Placemark id="ID_00116">
+					<name>PORTO VERDE V2_PARCIAL</name>
+					<open>1</open>
+					<snippet></snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIDADE</td>
+
+<td>ALVORADA</td>
+
+</tr>
+
+<tr>
+
+<td>SDE_AREAS_</td>
+
+<td>PORTO VERDE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>KM</td>
+
+<td>50,879104</td>
+
+</tr>
+
+<tr>
+
+<td>HP</td>
+
+<td>8452</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+					<styleUrl>#PolyStyle0116110</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.07820565810997,-30.03304666760559,0 -51.07713002337493,-30.0340550449793,0 -51.07700756684875,-30.03396572867985,0 -51.07528212404537,-30.03579308986637,0 -51.07362381374014,-30.03449354006315,0 -51.0726301342462,-30.03540411854544,0 -51.07606188921705,-30.03787916789242,0 -51.0755762422815,-30.03831880954838,0 -51.07215849848387,-30.03568634481899,0 -51.07108630630367,-30.03666393262209,0 -51.07128383041204,-30.03787008455748,0 -51.07219814992284,-30.03859933082236,0 -51.07250378775982,-30.03888868244558,0 -51.07154543721549,-30.03971408443998,0 -51.07168545532808,-30.04213530625664,0 -51.07393869383178,-30.04208364347624,0 -51.07397786093589,-30.04312964871202,0 -51.07542949274924,-30.04252774407824,0 -51.07682913270733,-30.04317139810388,0 -51.07707445757479,-30.04321592722268,0 -51.0772844913497,-30.04368585261032,0 -51.07586895542536,-30.04431407179495,0 -51.0757170004634,-30.04499792102908,0 -51.07595182048594,-30.04556452916441,0 -51.07477524171395,-30.04605337576346,0 -51.07560824763152,-30.04762032269666,0 -51.07508557517529,-30.04914179078736,0 -51.07491501959237,-30.049009416008,0 -51.07510755031594,-30.04842026800493,0 -51.07321712758285,-30.04818109999825,0 -51.07276366002679,-30.04812305838088,0 -51.07166853878145,-30.04589153179257,0 -51.07104353302891,-30.0377210497367,0 -51.0705527395704,-30.03608382127177,0 -51.07209769184044,-30.03470917817193,0 -51.06849280291091,-30.03181121897943,0 -51.07322046859498,-30.02744487773741,0 -51.07388094398384,-30.02755600602675,0 -51.07577638852679,-30.02896980080421,0 -51.07604987393664,-30.02930457853305,0 -51.07555920595693,-30.02968021063884,0 -51.07600045355125,-30.030034123299,0 -51.07674068016117,-30.03059060968344,0 -51.07752573448914,-30.02994736185346,0 -51.0787994848717,-30.02936572061715,0 -51.08021077873926,-30.03323325937787,0 -51.07820565810997,-30.03304666760559,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Document>
+			<Document>
+				<name>Alvorada</name>
+				<open>1</open>
+				<Style id="style094108590028271600106240001490">
+					<IconStyle>
+						<scale>0.7</scale>
+					</IconStyle>
+					<LabelStyle>
+						<scale>0.7</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffff0000</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>7fff0000</color>
+					</PolyStyle>
+				</Style>
+				<Style id="style53058000118100228900000221104050">
+					<IconStyle>
+						<scale>0.7</scale>
+					</IconStyle>
+					<LabelStyle>
+						<scale>0.7</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffff0000</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>7fff0000</color>
+					</PolyStyle>
+				</Style>
+				<StyleMap id="stylemap_id0711651024200259500512500130">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#style094108590028271600106240001490</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#style53058000118100228900000221104050</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Folder>
+					<name>NET SMS - POA</name>
+					<Placemark>
+						<name>ALV01</name>
+						<description>ALV01</description>
+						<styleUrl>#stylemap_id0711651024200259500512500130</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.0815200614183,-30.04480797765302,20 -51.08137379852349,-30.04511258067649,20 -51.08138573270824,-30.0454859348957,20 -51.08146060427972,-30.04582916331771,20 -51.08080440863954,-30.04593795114808,20 -51.0806762493674,-30.04663902802626,20 -51.08026676861887,-30.04667813713287,20 -51.08032318135977,-30.04584538192091,20 -51.0797249955955,-30.04558358149127,20 -51.0798497324785,-30.04426890115039,20 -51.08007345753855,-30.044262324411,20 -51.0815200614183,-30.04480797765302,20 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>ALV02</name>
+						<description>ALV02</description>
+						<styleUrl>#stylemap_id0711651024200259500512500130</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.08294652887154,-30.04138754303377,20 -51.08272133276902,-30.04299156872271,20 -51.08207715825154,-30.04301055192303,20 -51.08200301420355,-30.04309088607311,20 -51.08175608299039,-30.04309541321485,20 -51.08157242924815,-30.04345311465338,20 -51.08071120420877,-30.04335963925806,20 -51.08066597563543,-30.04349930867353,20 -51.08001351178934,-30.04347410788629,20 -51.08042747243418,-30.04080130779624,20 -51.0826929085073,-30.04100760943808,20 -51.08294652887154,-30.04138754303377,20 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>NET SMS - ALV</name>
+					<Placemark>
+						<name>UMBAK</name>
+						<description>NODE ALV03</description>
+						<styleUrl>#stylemap_id0711651024200259500512500130</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.08288297028011,-30.0403098819846,0 -51.08288297028011,-30.0403098819846,0 -51.08268063446781,-30.0409115172586,0 -51.080346932202,-30.0408534536793,0 -51.0802000298601,-30.040840691462,0 -51.0803494072911,-30.0394229461684,0 -51.0805858986424,-30.0388696641135,0 -51.0805812350152,-30.03878094929591,0 -51.0804612259192,-30.0364983220912,0 -51.080595985405,-30.0365225237807,0 -51.0806478758207,-30.0351145500497,0 -51.0817468001302,-30.0351452059765,0 -51.0821831476008,-30.0355146133982,0 -51.082497710724,-30.0355257883642,0 -51.0826848168779,-30.0353825351021,0 -51.0852656295176,-30.03553388829449,0 -51.0881088941868,-30.0355433361123,0 -51.08718139291919,-30.0390918763658,0 -51.0871211368456,-30.0399077655158,0 -51.0847045519477,-30.0397085195262,0 -51.08438826589341,-30.039773112076,0 -51.0841986280594,-30.0399050804819,0 -51.0837750076468,-30.0400866406384,0 -51.08288297028011,-30.0403098819846,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>UMBAL</name>
+						<description>NODE ALV04</description>
+						<styleUrl>#stylemap_id0711651024200259500512500130</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-51.0871211368456,-30.0399077655158,0 -51.086838924754,-30.0434993993165,0 -51.08654202258581,-30.0452912568172,0 -51.08249479350499,-30.04538617398149,0 -51.082801094283,-30.04104384156449,0 -51.08268063446781,-30.0409115172586,0 -51.08288297028011,-30.0403098819846,0 -51.0837750076468,-30.0400866406384,0 -51.0841986280594,-30.0399050804819,0 -51.08438826589341,-30.039773112076,0 -51.0847045519477,-30.0397085195262,0 -51.0871211368456,-30.0399077655158,0 -51.0871211368456,-30.0399077655158,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+				</Folder>
+			</Document>
+		</Folder>
+	</Document>
+	<Document>
+		<name>Cachoeira do Sul - CNT.kmz</name>
+		<Style id="style160">
+			<LineStyle>
+				<color>00ff0000</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b300ffff</color>
+			</PolyStyle>
+		</Style>
+		<Style id="style170">
+			<LineStyle>
+				<color>00ff0000</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b300ffff</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="stylemap_id04">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style170</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style160</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Cachoeira do Sul - CNT</name>
+			<open>1</open>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>Status</td><td>Sim</td></tr>
+    <tr><td>Cluster</td><td>Cluster Santa Maria</td></tr>
+    <tr><td>Cidade</td><td>CACHOEIRA DO SUL</td></tr>
+    <tr><td>Área</td><td>430300405000044 (HC)</td></tr>]]></description>
+			<styleUrl>#stylemap_id04</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-52.883217,-30.036715,0 -52.88391181930953,-30.03569340411458,0 -52.88572887336446,-30.03648597922543,0 -52.88682067609794,-30.03499237027522,0 -52.88687281726831,-30.03474824330412,0 -52.88554560228461,-30.03424579793913,0 -52.88521202207712,-30.03413533781978,0 -52.88424233394833,-30.0356777964492,0 -52.88392009399584,-30.03557228687622,0 -52.88492467113828,-30.0340117351114,0 -52.8857686980685,-30.03275534475549,0 -52.88597116103649,-30.03251592592686,0 -52.88577819039045,-30.03221941541331,0 -52.88640533399877,-30.03186304410765,0 -52.88709801994284,-30.03150925710575,0 -52.88728407215294,-30.03115813096185,0 -52.886822,-30.03045,0 -52.8868834126007,-30.03030316657652,0 -52.88742463659845,-30.03110539832985,0 -52.88854607978121,-30.03051039055428,0 -52.88979119919908,-30.02989305791145,0 -52.88911955638643,-30.02905900457038,0 -52.88927047704158,-30.02896449768457,0 -52.88989922314877,-30.02984536725884,0 -52.89108001797646,-30.0292122921207,0 -52.89052742880173,-30.02841513866238,0 -52.89066842000949,-30.02825152977181,0 -52.89121960411252,-30.02916100915279,0 -52.89256098390428,-30.02841109028081,0 -52.8937536758222,-30.02780011812008,0 -52.89316541848335,-30.02708546238997,0 -52.89264795018411,-30.02722742857295,0 -52.89262599540692,-30.02713061227508,0 -52.8931004207113,-30.02698155934493,0 -52.89297742892092,-30.02672797957364,0 -52.89316336126027,-30.02670083037007,0 -52.89386723778433,-30.02769418270753,0 -52.89450546921481,-30.02742951969488,0 -52.89370251642064,-30.02639174191641,0 -52.89380155136689,-30.02631178304951,0 -52.894598849012,-30.0273713538632,0 -52.89491637999992,-30.02716026007827,0 -52.89497815483898,-30.02726866692323,0 -52.89476726825195,-30.0274816857909,0 -52.8963936172279,-30.02869126764307,0 -52.89815488356554,-30.03014572614103,0 -52.89900800477207,-30.02971894395931,0 -52.9000049971088,-30.0290154308381,0 -52.90229291181351,-30.03129417885489,0 -52.90464068674875,-30.03439486386544,0 -52.90529,-30.035266,0 -52.90856153450978,-30.03959905578711,0 -52.90894962381491,-30.04083448946731,0 -52.90771352609259,-30.04070527116602,0 -52.90679604375399,-30.04111226438534,0 -52.90613802693707,-30.04032633792875,0 -52.90566350715354,-30.03984041356025,0 -52.9055735357381,-30.03972560813642,0 -52.90513867705031,-30.03991735831444,0 -52.90481808970748,-30.04040574037524,0 -52.90442310655307,-30.04106854974071,0 -52.90510420044545,-30.04140279342573,0 -52.90549846404693,-30.04097953521038,0 -52.90558083693754,-30.04107479982339,0 -52.90606081494438,-30.04198262665802,0 -52.9059318903259,-30.04206375917078,0 -52.90433729880737,-30.0411582527433,0 -52.90387996108779,-30.04184825988498,0 -52.90467608607051,-30.04227955009073,0 -52.90443200000001,-30.042666,0 -52.903912,-30.043558,0 -52.90318226746142,-30.04488982698606,0 -52.90402017231558,-30.04527928427231,0 -52.903751,-30.045645,0 -52.903268,-30.046456,0 -52.90292085555937,-30.04701901886946,0 -52.90203679746298,-30.04700181895005,0 -52.900682,-30.046668,0 -52.90032759180914,-30.04715880593155,0 -52.89995032574489,-30.04704375347662,0 -52.89946941417388,-30.04793255792066,0 -52.89854110834445,-30.04760650892706,0 -52.89788562917138,-30.04933199657095,0 -52.89736836469758,-30.04917342689371,0 -52.89716190951189,-30.04978328258294,0 -52.89718056951102,-30.05070428365185,0 -52.89851906636503,-30.05242907970624,0 -52.8985966989226,-30.05266454162133,0 -52.89827496532466,-30.05352662073285,0 -52.89673734115911,-30.05463711365696,0 -52.89614354109225,-30.0542439780124,0 -52.89540629394752,-30.0545749194782,0 -52.89467124191419,-30.05396938646867,0 -52.89516708732094,-30.05361765286988,0 -52.89487320890098,-30.05352061671534,0 -52.89474962331779,-30.05288344026477,0 -52.8951274745945,-30.05217977418028,0 -52.89271873050851,-30.05093682861421,0 -52.89241508711469,-30.0512451208432,0 -52.89259345118826,-30.05166283201233,0 -52.89268712039075,-30.05173569908311,0 -52.8932004069306,-30.05190005497481,0 -52.89332473045082,-30.05172239891085,0 -52.89354701654409,-30.05190352687201,0 -52.89330253097133,-30.05217314340779,0 -52.8932164773563,-30.05236704233239,0 -52.89285833748782,-30.05224681772475,0 -52.89290870261016,-30.05196673105758,0 -52.89224280133228,-30.05176020712455,0 -52.89184202342681,-30.0523363160982,0 -52.89356009141962,-30.0530901018772,0 -52.89338040003414,-30.053273101406,0 -52.8918181445332,-30.05251593576916,0 -52.89219435006321,-30.05323597655526,0 -52.89202273128895,-30.05330615371339,0 -52.89192106840211,-30.05357140771397,0 -52.89115208047417,-30.05366914191087,0 -52.89074148419262,-30.05366096913445,0 -52.89082545269521,-30.05284942810379,0 -52.88966996539821,-30.05227537032674,0 -52.88885463548673,-30.05339227582785,0 -52.88840338399739,-30.05327045387737,0 -52.88894910756138,-30.05238112956007,0 -52.88848962185843,-30.05220639873641,0 -52.88794830102286,-30.05250247743003,0 -52.88672125993303,-30.05251217363819,0 -52.8854284544036,-30.05287273238908,0 -52.88517314701872,-30.05271308092321,0 -52.88529391801697,-30.05231469082155,0 -52.88533182279303,-30.05231690703818,0 -52.88586979662347,-30.05216834241672,0 -52.88651146056938,-30.05212369829938,0 -52.88688881072481,-30.05207988240443,0 -52.88741811005443,-30.05201175945681,0 -52.88787034995215,-30.05187241925029,0 -52.88803988283596,-30.051799125361,0 -52.88825901628896,-30.05142646324926,0 -52.88638377465826,-30.05049759907931,0 -52.88592848186265,-30.05098537580091,0 -52.88561017059141,-30.05169039739198,0 -52.88536019137511,-30.05192450729958,0 -52.88498270831872,-30.05195195403329,0 -52.88392269239436,-30.05155841078912,0 -52.88317039541424,-30.05128030682651,0 -52.88237368992516,-30.05082846564723,0 -52.88272981535889,-30.05004108349311,0 -52.88278664094782,-30.05002699777701,0 -52.8842317688299,-30.04726110992056,0 -52.88289310740705,-30.04643317786831,0 -52.88173623875601,-30.04560814251472,0 -52.8796425826533,-30.04431187850352,0 -52.87989480217047,-30.04413152652986,0 -52.88196596915455,-30.0454273384725,0 -52.88253386857475,-30.04354540526827,0 -52.88136619287847,-30.04308993137379,0 -52.88148614744775,-30.04278919782427,0 -52.88173997133087,-30.04290305481838,0 -52.88193079210784,-30.04306181051113,0 -52.88272499533091,-30.04323045799742,0 -52.884737,-30.04026100000001,0 -52.88598154355258,-30.03819662313344,0 -52.88658509713191,-30.03722374346963,0 -52.88582468087146,-30.03683923159225,0 -52.88516778640323,-30.0376666953868,0 -52.883217,-30.036715,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Cachoeira do Sul - CNT.kmz</name>
+		<Style id="style1600">
+			<LineStyle>
+				<color>00ff0000</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b300ffff</color>
+			</PolyStyle>
+		</Style>
+		<Style id="style1700">
+			<LineStyle>
+				<color>00ff0000</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b300ffff</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="stylemap_id040">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style1700</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style1600</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Cachoeira do Sul - CNT</name>
+			<open>1</open>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>Status</td><td>Sim</td></tr>
+    <tr><td>Cluster</td><td>Cluster Santa Maria</td></tr>
+    <tr><td>Cidade</td><td>CACHOEIRA DO SUL</td></tr>
+    <tr><td>Área</td><td>430300405000044 (HC)</td></tr>]]></description>
+			<styleUrl>#stylemap_id040</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-52.883217,-30.036715,0 -52.88391181930953,-30.03569340411458,0 -52.88572887336446,-30.03648597922543,0 -52.88682067609794,-30.03499237027522,0 -52.88687281726831,-30.03474824330412,0 -52.88554560228461,-30.03424579793913,0 -52.88521202207712,-30.03413533781978,0 -52.88424233394833,-30.0356777964492,0 -52.88392009399584,-30.03557228687622,0 -52.88492467113828,-30.0340117351114,0 -52.8857686980685,-30.03275534475549,0 -52.88597116103649,-30.03251592592686,0 -52.88577819039045,-30.03221941541331,0 -52.88640533399877,-30.03186304410765,0 -52.88709801994284,-30.03150925710575,0 -52.88728407215294,-30.03115813096185,0 -52.886822,-30.03045,0 -52.8868834126007,-30.03030316657652,0 -52.88742463659845,-30.03110539832985,0 -52.88854607978121,-30.03051039055428,0 -52.88979119919908,-30.02989305791145,0 -52.88911955638643,-30.02905900457038,0 -52.88927047704158,-30.02896449768457,0 -52.88989922314877,-30.02984536725884,0 -52.89108001797646,-30.0292122921207,0 -52.89052742880173,-30.02841513866238,0 -52.89066842000949,-30.02825152977181,0 -52.89121960411252,-30.02916100915279,0 -52.89256098390428,-30.02841109028081,0 -52.8937536758222,-30.02780011812008,0 -52.89316541848335,-30.02708546238997,0 -52.89264795018411,-30.02722742857295,0 -52.89262599540692,-30.02713061227508,0 -52.8931004207113,-30.02698155934493,0 -52.89297742892092,-30.02672797957364,0 -52.89316336126027,-30.02670083037007,0 -52.89386723778433,-30.02769418270753,0 -52.89450546921481,-30.02742951969488,0 -52.89370251642064,-30.02639174191641,0 -52.89380155136689,-30.02631178304951,0 -52.894598849012,-30.0273713538632,0 -52.89491637999992,-30.02716026007827,0 -52.89497815483898,-30.02726866692323,0 -52.89476726825195,-30.0274816857909,0 -52.8963936172279,-30.02869126764307,0 -52.89815488356554,-30.03014572614103,0 -52.89900800477207,-30.02971894395931,0 -52.9000049971088,-30.0290154308381,0 -52.90229291181351,-30.03129417885489,0 -52.90464068674875,-30.03439486386544,0 -52.90529,-30.035266,0 -52.90856153450978,-30.03959905578711,0 -52.90894962381491,-30.04083448946731,0 -52.90771352609259,-30.04070527116602,0 -52.90679604375399,-30.04111226438534,0 -52.90613802693707,-30.04032633792875,0 -52.90566350715354,-30.03984041356025,0 -52.9055735357381,-30.03972560813642,0 -52.90513867705031,-30.03991735831444,0 -52.90481808970748,-30.04040574037524,0 -52.90442310655307,-30.04106854974071,0 -52.90510420044545,-30.04140279342573,0 -52.90549846404693,-30.04097953521038,0 -52.90558083693754,-30.04107479982339,0 -52.90606081494438,-30.04198262665802,0 -52.9059318903259,-30.04206375917078,0 -52.90433729880737,-30.0411582527433,0 -52.90387996108779,-30.04184825988498,0 -52.90467608607051,-30.04227955009073,0 -52.90443200000001,-30.042666,0 -52.903912,-30.043558,0 -52.90318226746142,-30.04488982698606,0 -52.90402017231558,-30.04527928427231,0 -52.903751,-30.045645,0 -52.903268,-30.046456,0 -52.90292085555937,-30.04701901886946,0 -52.90203679746298,-30.04700181895005,0 -52.900682,-30.046668,0 -52.90032759180914,-30.04715880593155,0 -52.89995032574489,-30.04704375347662,0 -52.89946941417388,-30.04793255792066,0 -52.89854110834445,-30.04760650892706,0 -52.89788562917138,-30.04933199657095,0 -52.89736836469758,-30.04917342689371,0 -52.89716190951189,-30.04978328258294,0 -52.89718056951102,-30.05070428365185,0 -52.89851906636503,-30.05242907970624,0 -52.8985966989226,-30.05266454162133,0 -52.89827496532466,-30.05352662073285,0 -52.89673734115911,-30.05463711365696,0 -52.89614354109225,-30.0542439780124,0 -52.89540629394752,-30.0545749194782,0 -52.89467124191419,-30.05396938646867,0 -52.89516708732094,-30.05361765286988,0 -52.89487320890098,-30.05352061671534,0 -52.89474962331779,-30.05288344026477,0 -52.8951274745945,-30.05217977418028,0 -52.89271873050851,-30.05093682861421,0 -52.89241508711469,-30.0512451208432,0 -52.89259345118826,-30.05166283201233,0 -52.89268712039075,-30.05173569908311,0 -52.8932004069306,-30.05190005497481,0 -52.89332473045082,-30.05172239891085,0 -52.89354701654409,-30.05190352687201,0 -52.89330253097133,-30.05217314340779,0 -52.8932164773563,-30.05236704233239,0 -52.89285833748782,-30.05224681772475,0 -52.89290870261016,-30.05196673105758,0 -52.89224280133228,-30.05176020712455,0 -52.89184202342681,-30.0523363160982,0 -52.89356009141962,-30.0530901018772,0 -52.89338040003414,-30.053273101406,0 -52.8918181445332,-30.05251593576916,0 -52.89219435006321,-30.05323597655526,0 -52.89202273128895,-30.05330615371339,0 -52.89192106840211,-30.05357140771397,0 -52.89115208047417,-30.05366914191087,0 -52.89074148419262,-30.05366096913445,0 -52.89082545269521,-30.05284942810379,0 -52.88966996539821,-30.05227537032674,0 -52.88885463548673,-30.05339227582785,0 -52.88840338399739,-30.05327045387737,0 -52.88894910756138,-30.05238112956007,0 -52.88848962185843,-30.05220639873641,0 -52.88794830102286,-30.05250247743003,0 -52.88672125993303,-30.05251217363819,0 -52.8854284544036,-30.05287273238908,0 -52.88517314701872,-30.05271308092321,0 -52.88529391801697,-30.05231469082155,0 -52.88533182279303,-30.05231690703818,0 -52.88586979662347,-30.05216834241672,0 -52.88651146056938,-30.05212369829938,0 -52.88688881072481,-30.05207988240443,0 -52.88741811005443,-30.05201175945681,0 -52.88787034995215,-30.05187241925029,0 -52.88803988283596,-30.051799125361,0 -52.88825901628896,-30.05142646324926,0 -52.88638377465826,-30.05049759907931,0 -52.88592848186265,-30.05098537580091,0 -52.88561017059141,-30.05169039739198,0 -52.88536019137511,-30.05192450729958,0 -52.88498270831872,-30.05195195403329,0 -52.88392269239436,-30.05155841078912,0 -52.88317039541424,-30.05128030682651,0 -52.88237368992516,-30.05082846564723,0 -52.88272981535889,-30.05004108349311,0 -52.88278664094782,-30.05002699777701,0 -52.8842317688299,-30.04726110992056,0 -52.88289310740705,-30.04643317786831,0 -52.88173623875601,-30.04560814251472,0 -52.8796425826533,-30.04431187850352,0 -52.87989480217047,-30.04413152652986,0 -52.88196596915455,-30.0454273384725,0 -52.88253386857475,-30.04354540526827,0 -52.88136619287847,-30.04308993137379,0 -52.88148614744775,-30.04278919782427,0 -52.88173997133087,-30.04290305481838,0 -52.88193079210784,-30.04306181051113,0 -52.88272499533091,-30.04323045799742,0 -52.884737,-30.04026100000001,0 -52.88598154355258,-30.03819662313344,0 -52.88658509713191,-30.03722374346963,0 -52.88582468087146,-30.03683923159225,0 -52.88516778640323,-30.0376666953868,0 -52.883217,-30.036715,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Montenegro.kmz</name>
+		<StyleMap id="poly-E65100-1000-89">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-E65100-1000-89-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-E65100-1000-89-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="poly-E65100-1000-89-highlight">
+			<LineStyle>
+				<color>ff0051e6</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>590051e6</color>
+			</PolyStyle>
+		</Style>
+		<Style id="poly-E65100-1000-89-normal">
+			<LineStyle>
+				<color>ff0051e6</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>590051e6</color>
+			</PolyStyle>
+		</Style>
+		<Placemark>
+			<name>Timbaúva</name>
+			<description><![CDATA[RS    <br>       <br>   FID   727    <br>   UF   RS    <br>   CIDADE   Montenegro    <br>   SDE_AREAS_   Timbaúva    <br>   PREVISAO_H   0    <br>   PREVISAO_K   0    <br>   DATA_SOLIC   23/08/2021    <br>   OPERACAO_S   Esri_Anonymous    <br>   TIPO_DE_SO   0    <br>   DATA_SOL_1   21/08/21    <br>   TECNOLOGIA   1    <br>   Shape_Leng   5362,62719]]></description>
+			<styleUrl>#poly-E65100-1000-89</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.485952,-29.707632,0 -51.480877,-29.707642,0 -51.479901,-29.705163,0 -51.476789,-29.70328,0 -51.47489,-29.701314,0 -51.474654,-29.698462,0 -51.474268,-29.695797,0 -51.475223,-29.695545,0 -51.475684,-29.694306,0 -51.475373,-29.693486,0 -51.47949300000001,-29.69451099999999,0 -51.483355,-29.697111,0 -51.48672400000001,-29.699497,0 -51.48578,-29.700019,0 -51.485297,-29.70169599999999,0 -51.485051,-29.704026,0 -51.48526500000001,-29.705638,0 -51.485437,-29.706468,0 -51.485952,-29.707632,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.48662800000001,-29.699679,0 -51.487958,-29.699307,0 -51.489031,-29.698263,0 -51.489675,-29.697816,0 -51.492121,-29.697816,0 -51.49225,-29.698598,0 -51.491606,-29.701208,0 -51.50194799999999,-29.703109,0 -51.499545,-29.706948,0 -51.496327,-29.705234,0 -51.49220700000001,-29.704675,0 -51.490833,-29.704563,0 -51.490576,-29.707955,0 -51.485855,-29.707545,0 -51.484911,-29.704488,0 -51.485426,-29.701431,0 -51.485855,-29.699866,0 -51.48662800000001,-29.699679,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.480531,-29.695138,0 -51.47945800000001,-29.694411,0 -51.475574,-29.693442,0 -51.475703,-29.691802,0 -51.477484,-29.691243,0 -51.47623999999999,-29.68854,0 -51.47482299999999,-29.68908,0 -51.474137,-29.687626,0 -51.474459,-29.685799,0 -51.475574,-29.683805,0 -51.477269,-29.683656,0 -51.480939,-29.684718,0 -51.485874,-29.684867,0 -51.486003,-29.686676,0 -51.484544,-29.68790600000001,0 -51.483878,-29.688968,0 -51.482934,-29.68977,0 -51.481432,-29.691205,0 -51.480617,-29.691858,0 -51.480617,-29.692492,0 -51.48083099999999,-29.693983,0 -51.480789,-29.694467,0 -51.480531,-29.695138,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.480633,-29.69509,0 -51.48086899999999,-29.694121,0 -51.480633,-29.691847,0 -51.482178,-29.690542,0 -51.483937,-29.68892,0 -51.48451699999999,-29.687932,0 -51.485289,-29.687261,0 -51.49333600000001,-29.688957,0 -51.492778,-29.690318,0 -51.49273500000001,-29.692033,0 -51.492113,-29.693002,0 -51.49104,-29.694717,0 -51.491125,-29.69563,0 -51.492048,-29.697793,0 -51.489859,-29.697904,0 -51.488744,-29.698426,0 -51.487821,-29.699321,0 -51.48685499999999,-29.699545,0 -51.480633,-29.69509,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.49331400000001,-29.68905,0 -51.50005199999999,-29.689871,0 -51.503507,-29.69317,0 -51.504558,-29.694549,0 -51.50513699999999,-29.696395,0 -51.50490099999999,-29.698184,0 -51.503743,-29.700197,0 -51.501919,-29.703011,0 -51.491576,-29.701204,0 -51.492284,-29.69852,0 -51.49207,-29.697755,0 -51.491168,-29.695724,0 -51.49104,-29.694717,0 -51.492778,-29.692014,0 -51.49275599999999,-29.690262,0 -51.49331400000001,-29.68905,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.493529,-29.711566,0 -51.492198,-29.714846,0 -51.49576,-29.718461,0 -51.49271300000001,-29.72088400000001,0 -51.489323,-29.722226,0 -51.48447400000001,-29.725095,0 -51.48288600000001,-29.726586,0 -51.48288600000001,-29.724611,0 -51.48494599999999,-29.715964,0 -51.486276,-29.71015,0 -51.493529,-29.711566,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.495803,-29.718648,0 -51.496018,-29.721033,0 -51.497434,-29.721555,0 -51.49546000000001,-29.7264,0 -51.49207,-29.726437,0 -51.490525,-29.721704,0 -51.493228,-29.720847,0 -51.494001,-29.719952,0 -51.495803,-29.718648,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.474796,-29.698557,0 -51.471899,-29.699507,0 -51.468702,-29.697196,0 -51.469196,-29.694717,0 -51.472624,-29.695495,0 -51.47423800000001,-29.69577,0 -51.474796,-29.698557,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.474539,-29.685919,0 -51.47415199999999,-29.687596,0 -51.47415199999999,-29.687615,0 -51.47415199999999,-29.687895,0 -51.47584800000001,-29.691604,0 -51.475654,-29.691828,0 -51.475418,-29.693506,0 -51.475654,-29.694288,0 -51.475225,-29.6955,0 -51.474346,-29.695817,0 -51.46539800000001,-29.694121,0 -51.464625,-29.69317,0 -51.461922,-29.691865,0 -51.467951,-29.681352,0 -51.469239,-29.683178,0 -51.471535,-29.685061,0 -51.474539,-29.685919,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.466621,-29.675293,0 -51.471105,-29.672403,0 -51.474582,-29.67341,0 -51.477393,-29.673167,0 -51.47698500000001,-29.678164,0 -51.476041,-29.678667,0 -51.47383099999999,-29.678257,0 -51.47028999999999,-29.680308,0 -51.47102,-29.681892,0 -51.469839,-29.683626,0 -51.468016,-29.681445,0 -51.467136,-29.678108,0 -51.466621,-29.675293,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.47121299999999,-29.67234699999999,0 -51.46653499999999,-29.675386,0 -51.46587,-29.67272000000001,0 -51.464754,-29.670818,0 -51.468767,-29.66722,0 -51.468767,-29.667257,0 -51.47121299999999,-29.67234699999999,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Montenegro.kmz</name>
+		<StyleMap id="poly-E65100-1000-890">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-E65100-1000-89-normal0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-E65100-1000-89-highlight0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="poly-E65100-1000-89-highlight0">
+			<LineStyle>
+				<color>ff0051e6</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>590051e6</color>
+			</PolyStyle>
+		</Style>
+		<Style id="poly-E65100-1000-89-normal0">
+			<LineStyle>
+				<color>ff0051e6</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>590051e6</color>
+			</PolyStyle>
+		</Style>
+		<Placemark>
+			<name>Timbaúva</name>
+			<description><![CDATA[RS    <br>       <br>   FID   727    <br>   UF   RS    <br>   CIDADE   Montenegro    <br>   SDE_AREAS_   Timbaúva    <br>   PREVISAO_H   0    <br>   PREVISAO_K   0    <br>   DATA_SOLIC   23/08/2021    <br>   OPERACAO_S   Esri_Anonymous    <br>   TIPO_DE_SO   0    <br>   DATA_SOL_1   21/08/21    <br>   TECNOLOGIA   1    <br>   Shape_Leng   5362,62719]]></description>
+			<styleUrl>#poly-E65100-1000-890</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.485952,-29.707632,0 -51.480877,-29.707642,0 -51.479901,-29.705163,0 -51.476789,-29.70328,0 -51.47489,-29.701314,0 -51.474654,-29.698462,0 -51.474268,-29.695797,0 -51.475223,-29.695545,0 -51.475684,-29.694306,0 -51.475373,-29.693486,0 -51.47949300000001,-29.69451099999999,0 -51.483355,-29.697111,0 -51.48672400000001,-29.699497,0 -51.48578,-29.700019,0 -51.485297,-29.70169599999999,0 -51.485051,-29.704026,0 -51.48526500000001,-29.705638,0 -51.485437,-29.706468,0 -51.485952,-29.707632,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.48662800000001,-29.699679,0 -51.487958,-29.699307,0 -51.489031,-29.698263,0 -51.489675,-29.697816,0 -51.492121,-29.697816,0 -51.49225,-29.698598,0 -51.491606,-29.701208,0 -51.50194799999999,-29.703109,0 -51.499545,-29.706948,0 -51.496327,-29.705234,0 -51.49220700000001,-29.704675,0 -51.490833,-29.704563,0 -51.490576,-29.707955,0 -51.485855,-29.707545,0 -51.484911,-29.704488,0 -51.485426,-29.701431,0 -51.485855,-29.699866,0 -51.48662800000001,-29.699679,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.480531,-29.695138,0 -51.47945800000001,-29.694411,0 -51.475574,-29.693442,0 -51.475703,-29.691802,0 -51.477484,-29.691243,0 -51.47623999999999,-29.68854,0 -51.47482299999999,-29.68908,0 -51.474137,-29.687626,0 -51.474459,-29.685799,0 -51.475574,-29.683805,0 -51.477269,-29.683656,0 -51.480939,-29.684718,0 -51.485874,-29.684867,0 -51.486003,-29.686676,0 -51.484544,-29.68790600000001,0 -51.483878,-29.688968,0 -51.482934,-29.68977,0 -51.481432,-29.691205,0 -51.480617,-29.691858,0 -51.480617,-29.692492,0 -51.48083099999999,-29.693983,0 -51.480789,-29.694467,0 -51.480531,-29.695138,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.480633,-29.69509,0 -51.48086899999999,-29.694121,0 -51.480633,-29.691847,0 -51.482178,-29.690542,0 -51.483937,-29.68892,0 -51.48451699999999,-29.687932,0 -51.485289,-29.687261,0 -51.49333600000001,-29.688957,0 -51.492778,-29.690318,0 -51.49273500000001,-29.692033,0 -51.492113,-29.693002,0 -51.49104,-29.694717,0 -51.491125,-29.69563,0 -51.492048,-29.697793,0 -51.489859,-29.697904,0 -51.488744,-29.698426,0 -51.487821,-29.699321,0 -51.48685499999999,-29.699545,0 -51.480633,-29.69509,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.49331400000001,-29.68905,0 -51.50005199999999,-29.689871,0 -51.503507,-29.69317,0 -51.504558,-29.694549,0 -51.50513699999999,-29.696395,0 -51.50490099999999,-29.698184,0 -51.503743,-29.700197,0 -51.501919,-29.703011,0 -51.491576,-29.701204,0 -51.492284,-29.69852,0 -51.49207,-29.697755,0 -51.491168,-29.695724,0 -51.49104,-29.694717,0 -51.492778,-29.692014,0 -51.49275599999999,-29.690262,0 -51.49331400000001,-29.68905,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.493529,-29.711566,0 -51.492198,-29.714846,0 -51.49576,-29.718461,0 -51.49271300000001,-29.72088400000001,0 -51.489323,-29.722226,0 -51.48447400000001,-29.725095,0 -51.48288600000001,-29.726586,0 -51.48288600000001,-29.724611,0 -51.48494599999999,-29.715964,0 -51.486276,-29.71015,0 -51.493529,-29.711566,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.495803,-29.718648,0 -51.496018,-29.721033,0 -51.497434,-29.721555,0 -51.49546000000001,-29.7264,0 -51.49207,-29.726437,0 -51.490525,-29.721704,0 -51.493228,-29.720847,0 -51.494001,-29.719952,0 -51.495803,-29.718648,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.474796,-29.698557,0 -51.471899,-29.699507,0 -51.468702,-29.697196,0 -51.469196,-29.694717,0 -51.472624,-29.695495,0 -51.47423800000001,-29.69577,0 -51.474796,-29.698557,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.474539,-29.685919,0 -51.47415199999999,-29.687596,0 -51.47415199999999,-29.687615,0 -51.47415199999999,-29.687895,0 -51.47584800000001,-29.691604,0 -51.475654,-29.691828,0 -51.475418,-29.693506,0 -51.475654,-29.694288,0 -51.475225,-29.6955,0 -51.474346,-29.695817,0 -51.46539800000001,-29.694121,0 -51.464625,-29.69317,0 -51.461922,-29.691865,0 -51.467951,-29.681352,0 -51.469239,-29.683178,0 -51.471535,-29.685061,0 -51.474539,-29.685919,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.466621,-29.675293,0 -51.471105,-29.672403,0 -51.474582,-29.67341,0 -51.477393,-29.673167,0 -51.47698500000001,-29.678164,0 -51.476041,-29.678667,0 -51.47383099999999,-29.678257,0 -51.47028999999999,-29.680308,0 -51.47102,-29.681892,0 -51.469839,-29.683626,0 -51.468016,-29.681445,0 -51.467136,-29.678108,0 -51.466621,-29.675293,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-51.47121299999999,-29.67234699999999,0 -51.46653499999999,-29.675386,0 -51.46587,-29.67272000000001,0 -51.464754,-29.670818,0 -51.468767,-29.66722,0 -51.468767,-29.667257,0 -51.47121299999999,-29.67234699999999,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>RIO PARDO.kmz</name>
+		<StyleMap id="msn_ylw-pushpin34">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin27</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin29</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin29">
+			<LineStyle>
+				<color>ff00aaff</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7000aaff</color>
+			</PolyStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin27">
+			<LineStyle>
+				<color>ff00aaff</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7000aaff</color>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>RIO PARDO</name>
+			<open>1</open>
+			<Placemark>
+				<name>AREA RIP_CNT</name>
+				<description>EXPANSÃO RIO PARDO</description>
+				<styleUrl>#msn_ylw-pushpin34</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-52.3592546,-29.9529137,0 -52.3625805,-29.9524768,0 -52.362956,-29.9543266,0 -52.3639752,-29.9557674,0 -52.3651554,-29.9568829,0 -52.36635699999999,-29.9582214,0 -52.3680307,-29.9580727,0 -52.3684814,-29.9588535,0 -52.3682453,-29.9598481,0 -52.36753720000001,-29.9605174,0 -52.3662659,-29.9607916,0 -52.3660137,-29.9610751,0 -52.36455999999999,-29.9626692,0 -52.36434539999999,-29.9633152,0 -52.3644312,-29.9639844,0 -52.3648872,-29.9647047,0 -52.3661425,-29.9656667,0 -52.3663946,-29.9657876,0 -52.3671295,-29.9651091,0 -52.3678752,-29.964003,0 -52.3682882,-29.964003,0 -52.36936650000001,-29.9643887,0 -52.3698761,-29.964807,0 -52.3701229,-29.9650998,0 -52.3694791,-29.9673305,0 -52.36806829999999,-29.9668704,0 -52.3679396,-29.9670284,0 -52.3687389,-29.9679021,0 -52.3689802,-29.9684923,0 -52.3689534,-29.9747007,0 -52.3702034,-29.9746589,0 -52.3705923,-29.9766268,0 -52.3713084,-29.9762203,0 -52.3706003,-29.9744916,0 -52.3717322,-29.9740595,0 -52.373202,-29.9738736,0 -52.3755946,-29.9749517,0 -52.3768392,-29.9760205,0 -52.3765106,-29.9762575,0 -52.3751413,-29.9751097,0 -52.37464510000001,-29.9755558,0 -52.3743286,-29.975435,0 -52.3743393,-29.9758253,0 -52.37474700000001,-29.9761599,0 -52.3752405,-29.976039,0 -52.3758735,-29.9764294,0 -52.3764636,-29.976987,0 -52.3764743,-29.9776654,0 -52.3765065,-29.9790594,0 -52.37740779999999,-29.9789944,0 -52.3776116,-29.9786505,0 -52.37813730000001,-29.9785483,0 -52.37885610000001,-29.9790037,0 -52.3792102,-29.9790316,0 -52.3796608,-29.9788178,0 -52.38010069999999,-29.9786227,0 -52.380841,-29.9790316,0 -52.3816886,-29.9780418,0 -52.3829841,-29.9785645,0 -52.3831805,-29.979398,0 -52.3844391,-29.9804035,0 -52.38558309999999,-29.9817545,0 -52.3868598,-29.9831485,0 -52.3873802,-29.9830602,0 -52.3880454,-29.98345979999999,0 -52.3874392,-29.9837897,0 -52.3867097,-29.9843473,0 -52.386023,-29.9851557,0 -52.384655,-29.9857877,0 -52.38396310000001,-29.9856622,0 -52.3830994,-29.9851371,0 -52.3824396,-29.9852487,0 -52.38221430000001,-29.9853741,0 -52.3821338,-29.9855693,0 -52.3821874,-29.9859596,0 -52.3820319,-29.9871211,0 -52.38183339999999,-29.987688,0 -52.3817637,-29.9880132,0 -52.3807659,-29.9892398,0 -52.3816242,-29.9896441,0 -52.3815276,-29.9906244,0 -52.3811736,-29.9921112,0 -52.3805459,-29.9923063,0 -52.3795482,-29.9916512,0 -52.3799237,-29.992455,0 -52.3795374,-29.9928127,0 -52.37789590000001,-29.993282,0 -52.3769089,-29.9930032,0 -52.3763939,-29.9926826,0 -52.3771127,-29.9910983,0 -52.3760613,-29.9907452,0 -52.3764904,-29.9901226,0 -52.37486499999999,-29.9891005,0 -52.3738297,-29.9884035,0 -52.3729767,-29.9871769,0 -52.3710568,-29.9842325,0 -52.370047,-29.9847436,0 -52.3689455,-29.9855379,0 -52.3679906,-29.9851569,0 -52.3661774,-29.9870154,0 -52.3665958,-29.9873918,0 -52.3664134,-29.9876008,0 -52.36548,-29.987113,0 -52.3649811,-29.9867738,0 -52.36365610000001,-29.9881863,0 -52.3641872,-29.9885487,0 -52.36338789999999,-29.9893385,0 -52.362417,-29.9890737,0 -52.361269,-29.9883535,0 -52.3582971,-29.9881119,0 -52.357589,-29.9879911,0 -52.3578787,-29.9874429,0 -52.3582327,-29.9873685,0 -52.3590266,-29.987559,0 -52.3601264,-29.9876241,0 -52.36057699999999,-29.9874196,0 -52.3608935,-29.9872245,0 -52.3614675,-29.9866391,0 -52.3619449,-29.9862302,0 -52.3623419,-29.9857841,0 -52.36291049999999,-29.9852916,0 -52.36153720000001,-29.9842555,0 -52.36195029999999,-29.9837722,0 -52.36199320000001,-29.9831449,0 -52.3620468,-29.9826478,0 -52.36237940000001,-29.9825641,0 -52.3627013,-29.9832053,0 -52.36331280000001,-29.9828708,0 -52.36292659999999,-29.9824201,0 -52.3628515,-29.9820251,0 -52.3615426,-29.9817463,0 -52.361049,-29.9815047,0 -52.3611134,-29.9808495,0 -52.3613816,-29.9803477,0 -52.3624491,-29.9804267,0 -52.3619288,-29.9797576,0 -52.3624652,-29.979581,0 -52.3629641,-29.9805196,0 -52.3632163,-29.98109579999999,0 -52.36317329999999,-29.9813328,0 -52.36340940000001,-29.9814211,0 -52.363683,-29.9811516,0 -52.3640156,-29.9809843,0 -52.364729,-29.9811516,0 -52.36504020000001,-29.9814582,0 -52.3652977,-29.9816859,0 -52.36550149999999,-29.9818253,0 -52.3660379,-29.9815419,0 -52.3659736,-29.981277,0 -52.3658502,-29.9810772,0 -52.3659253,-29.9807055,0 -52.3664081,-29.9803616,0 -52.3657858,-29.9793068,0 -52.3656946,-29.9786098,0 -52.3653781,-29.9784519,0 -52.36504549999999,-29.9784704,0 -52.364316,-29.978661,0 -52.363683,-29.9782985,0 -52.3630768,-29.977871,0 -52.3631465,-29.9774017,0 -52.3632163,-29.9770671,0 -52.3629641,-29.9767279,0 -52.3629427,-29.9765699,0 -52.36326989999999,-29.9762214,0 -52.3646325,-29.976635,0 -52.3654264,-29.9769835,0 -52.3661077,-29.9771833,0 -52.3662954,-29.97725760000001,0 -52.3670894,-29.975371,0 -52.364552,-29.9749853,0 -52.364434,-29.9753943,0 -52.3638224,-29.9753431,0 -52.36387069999999,-29.9747344,0 -52.3641389,-29.9723412,0 -52.3583078,-29.9729082,0 -52.358222,-29.9721042,0 -52.3610276,-29.97183,0 -52.3605931,-29.9697156,0 -52.36355420000001,-29.9690557,0 -52.3642194,-29.9708867,0 -52.3648846,-29.9706636,0 -52.3655712,-29.9704963,0 -52.36782970000001,-29.9703569,0 -52.3680442,-29.9684934,0 -52.3661077,-29.966588,0 -52.3638224,-29.9651846,0 -52.3623204,-29.9640878,0 -52.3611402,-29.9630096,0 -52.3601854,-29.9608903,0 -52.3597026,-29.9599794,0 -52.3591017,-29.9593148,0 -52.3582971,-29.9587942,0 -52.3567039,-29.9604302,0 -52.3563444,-29.9601467,0 -52.35665560000001,-29.9597052,0 -52.35595820000001,-29.9592125,0 -52.3558348,-29.9588268,0 -52.3571276,-29.9574975,0 -52.3565215,-29.956819,0 -52.3562211,-29.9566888,0 -52.3557436,-29.9564983,0 -52.3561245,-29.956145,0 -52.3586941,-29.9564704,0 -52.3595416,-29.9567074,0 -52.36036769999999,-29.9568329,0 -52.3607325,-29.9559498,0 -52.36000300000001,-29.9557407,0 -52.36016390000001,-29.9553596,0 -52.360872,-29.9554339,0 -52.3613012,-29.9546438,0 -52.3616445,-29.9537142,0 -52.36165519999999,-29.9534447,0 -52.3595685,-29.953677,0 -52.3592546,-29.9529137,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>AEROCLUBE.kmz</name>
+		<Style id="PolyStyle002">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>7f00ff00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f00ffaa</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="PolyStyle0000">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#PolyStyle002</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#PolyStyle0010</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="PolyStyle0010">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>7f00ff00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f00ffaa</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin1">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl1">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>AEROCLUBE</name>
+			<open>1</open>
+			<Placemark id="ID_00001">
+				<name>AEROCLUBE</name>
+				<snippet></snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIDADE</td>
+
+<td>MONTENEGRO</td>
+
+</tr>
+
+<tr>
+
+<td>SDE_AREAS_</td>
+
+<td>AEROCLUBE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>KM</td>
+
+<td>12,092</td>
+
+</tr>
+
+<tr>
+
+<td>HP</td>
+
+<td>1137</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+				<styleUrl>#PolyStyle0000</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-51.49499757545044,-29.71811122248271,0 -51.4951801912696,-29.71894836870299,0 -51.49437538880992,-29.71962156851549,0 -51.49321522270532,-29.72032952269648,0 -51.49156352722332,-29.72110973588492,0 -51.48906702011557,-29.7222734236561,0 -51.48883366295757,-29.72073033746223,0 -51.48956049254891,-29.71983004491078,0 -51.49107767519855,-29.71916179510299,0 -51.49115016744537,-29.71840645561896,0 -51.48979364848426,-29.71808050967364,0 -51.48839376964104,-29.71795500327419,0 -51.48737154164495,-29.71879912167836,0 -51.48487959169061,-29.71885285615328,0 -51.48396242975181,-29.7222994541104,0 -51.48486028330188,-29.72227049113268,0 -51.48540092627078,-29.72366071551823,0 -51.48335693830087,-29.72399873215933,0 -51.48303333638945,-29.72399244772949,0 -51.48495478427313,-29.71594178315305,0 -51.48558613372954,-29.71319557256913,0 -51.48595406480532,-29.71205961837314,0 -51.48607553859128,-29.7113968197104,0 -51.48681501197023,-29.7113855196329,0 -51.48752408725829,-29.71057373626892,0 -51.48840110708029,-29.71094595581505,0 -51.49006937647925,-29.71118692820668,0 -51.49129854936736,-29.71169123999342,0 -51.49171038739923,-29.71097058397464,0 -51.49250711490284,-29.71128709284509,0 -51.49283128814279,-29.71187277216265,0 -51.49282273977455,-29.71238570482869,0 -51.49341209299142,-29.71281194547452,0 -51.49283818181428,-29.71335820904473,0 -51.49132467866403,-29.71457269204111,0 -51.49308985741754,-29.71501435625283,0 -51.49340862100286,-29.7159021821468,0 -51.49310040004571,-29.71703385886053,0 -51.49499757545044,-29.71811122248271,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>GHKAA (GPONA01)</name>
+				<LookAt>
+					<longitude>-51.48285557189593</longitude>
+					<latitude>-29.70910328098261</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008431475875558111</heading>
+					<tilt>1.343333623668976</tilt>
+					<range>5975.15505020769</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.48939704268469,-29.71637439624199,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>AEROCLUBE.kmz</name>
+		<Style id="PolyStyle003">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>7f00ff00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f00ffaa</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="PolyStyle0001">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#PolyStyle003</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#PolyStyle0011</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="PolyStyle0011">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>7f00ff00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f00ffaa</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin2">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl2">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>AEROCLUBE</name>
+			<open>1</open>
+			<Placemark id="ID_00001">
+				<name>AEROCLUBE</name>
+				<snippet></snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIDADE</td>
+
+<td>MONTENEGRO</td>
+
+</tr>
+
+<tr>
+
+<td>SDE_AREAS_</td>
+
+<td>AEROCLUBE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>KM</td>
+
+<td>12,092</td>
+
+</tr>
+
+<tr>
+
+<td>HP</td>
+
+<td>1137</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+				<styleUrl>#PolyStyle0001</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-51.49499757545044,-29.71811122248271,0 -51.4951801912696,-29.71894836870299,0 -51.49437538880992,-29.71962156851549,0 -51.49321522270532,-29.72032952269648,0 -51.49156352722332,-29.72110973588492,0 -51.48906702011557,-29.7222734236561,0 -51.48883366295757,-29.72073033746223,0 -51.48956049254891,-29.71983004491078,0 -51.49107767519855,-29.71916179510299,0 -51.49115016744537,-29.71840645561896,0 -51.48979364848426,-29.71808050967364,0 -51.48839376964104,-29.71795500327419,0 -51.48737154164495,-29.71879912167836,0 -51.48487959169061,-29.71885285615328,0 -51.48396242975181,-29.7222994541104,0 -51.48486028330188,-29.72227049113268,0 -51.48540092627078,-29.72366071551823,0 -51.48335693830087,-29.72399873215933,0 -51.48303333638945,-29.72399244772949,0 -51.48495478427313,-29.71594178315305,0 -51.48558613372954,-29.71319557256913,0 -51.48595406480532,-29.71205961837314,0 -51.48607553859128,-29.7113968197104,0 -51.48681501197023,-29.7113855196329,0 -51.48752408725829,-29.71057373626892,0 -51.48840110708029,-29.71094595581505,0 -51.49006937647925,-29.71118692820668,0 -51.49129854936736,-29.71169123999342,0 -51.49171038739923,-29.71097058397464,0 -51.49250711490284,-29.71128709284509,0 -51.49283128814279,-29.71187277216265,0 -51.49282273977455,-29.71238570482869,0 -51.49341209299142,-29.71281194547452,0 -51.49283818181428,-29.71335820904473,0 -51.49132467866403,-29.71457269204111,0 -51.49308985741754,-29.71501435625283,0 -51.49340862100286,-29.7159021821468,0 -51.49310040004571,-29.71703385886053,0 -51.49499757545044,-29.71811122248271,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>GHKAA (GPONA01)</name>
+				<LookAt>
+					<longitude>-51.48285557189593</longitude>
+					<latitude>-29.70910328098261</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008431475875558111</heading>
+					<tilt>1.343333623668976</tilt>
+					<range>5975.15505020769</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.48939704268469,-29.71637439624199,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>CNT.kmz</name>
+		<StyleMap id="AT_CAM01334">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#AT_CAM11534</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#AT_CAM2334</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="AT_CAM11534">
+			<LabelStyle>
+				<color>00ffffff</color>
+			</LabelStyle>
+			<LineStyle id="lAT_CAMLineStyle">
+				<color>ffffaa00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="pAT_CAMPolyStyle">
+				<color>b30000ff</color>
+				<outline>0</outline>
+			</PolyStyle>
+		</Style>
+		<Style id="AT_CAM2334">
+			<LabelStyle>
+				<color>00ffffff</color>
+			</LabelStyle>
+			<LineStyle id="lAT_CAMLineStyle">
+				<color>ffffaa00</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="pAT_CAMPolyStyle">
+				<color>b30000ff</color>
+				<outline>0</outline>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>CNT</name>
+			<Placemark>
+				<name>CNT</name>
+				<description>CNT</description>
+				<styleUrl>#AT_CAM01334</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.45079402793454,-29.67889290652614,0 -51.44935359373132,-29.67823415092441,0 -51.44991987237641,-29.67736933325778,0 -51.45139075046629,-29.67807303989861,0 -51.45079402793454,-29.67889290652614,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>8532C</name>
+				<styleUrl>#AT_CAM01334</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.43640527989886,-29.6675823766861,0 -51.43774536441279,-29.66772173788415,0 -51.43950376301559,-29.66810997063233,0 -51.44208131235828,-29.66935202758644,0 -51.44484087829974,-29.66967936995505,0 -51.44711127940208,-29.66982450355321,0 -51.45107024941002,-29.66981073154934,0 -51.45331842265566,-29.66938169456733,0 -51.45515963141663,-29.6690931872701,0 -51.4567544826918,-29.66880550367511,0 -51.45841351766487,-29.66873248265988,0 -51.46002501375691,-29.66872241989145,0 -51.46155704674285,-29.66891449424499,0 -51.46288793406654,-29.66926819808028,0 -51.46426217218877,-29.67011894055458,0 -51.46498508544546,-29.67086642469083,0 -51.46604418439703,-29.67221874417645,0 -51.46651972257802,-29.67351756387484,0 -51.46733519568002,-29.67741043909488,0 -51.46914858628023,-29.6827800495641,0 -51.4720838962737,-29.68506443836999,0 -51.4742291498579,-29.68533978915045,0 -51.47477906542976,-29.68543085626015,0 -51.4748234085684,-29.68599042479615,0 -51.47411621624089,-29.68645135975205,0 -51.46872381218901,-29.68652369496202,0 -51.47003605236633,-29.68903492047031,0 -51.470298950906,-29.69198620705505,0 -51.46718639262435,-29.69463529450996,0 -51.46599810529906,-29.69460035952104,0 -51.46490518630356,-29.69426078298399,0 -51.46289530452536,-29.69263283740351,0 -51.46195382621728,-29.69377250060146,0 -51.46145038761037,-29.69357275327881,0 -51.46029277035714,-29.69569421589261,0 -51.45950330432182,-29.69649164292173,0 -51.45789187906683,-29.6961155843284,0 -51.45650371004363,-29.6960716986184,0 -51.45471016874064,-29.69650441090284,0 -51.45383727584539,-29.69450760633397,0 -51.45352738394699,-29.6943797249661,0 -51.45537703539265,-29.69109017269426,0 -51.45450257270646,-29.69074943606405,0 -51.45453148938431,-29.69068387211423,0 -51.45288796176803,-29.69005689067775,0 -51.45097142385425,-29.68927483225927,0 -51.44744512399323,-29.68751416347371,0 -51.44883016521061,-29.68525649280124,0 -51.44951360622599,-29.68493051764077,0 -51.44801155940293,-29.68392044778707,0 -51.45011286741024,-29.68146852150816,0 -51.44937130768136,-29.68081867192554,0 -51.44934259237892,-29.68074668275644,0 -51.4481963238548,-29.67945806280158,0 -51.44753529947456,-29.67834487258612,0 -51.44746083684004,-29.67824500959154,0 -51.44577228648905,-29.67621129208156,0 -51.44545562821574,-29.67660424364765,0 -51.44520837216548,-29.67644502605863,0 -51.43668255068873,-29.67134322532262,0 -51.43635789851995,-29.67124863845098,0 -51.43477230886326,-29.66836452634689,0 -51.43476539975761,-29.66830652045109,0 -51.43472974392879,-29.66826710417379,0 -51.43507604837577,-29.66753076835566,0 -51.43507226896424,-29.66750146572935,0 -51.43542803851971,-29.6674707092121,0 -51.43640527989886,-29.6675823766861,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CNT</name>
+				<styleUrl>#AT_CAM01334</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.47850312065597,-29.67732809277689,0 -51.46815917197269,-29.68204417216724,0 -51.46669385772821,-29.67646986641362,0 -51.47400853423298,-29.67242453705213,0 -51.47850312065597,-29.67732809277689,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>CACHOERINHA - PARCIAL.kmz</name>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00aa55</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>8000aa55</color>
+			</PolyStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00aa55</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>8000aa55</color>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>CACHOERINHA - PARCIAL</name>
+			<open>1</open>
+			<Placemark>
+				<name>010 - 011 - 009</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.08969982167478,-29.93675942658968,0 -51.08698534248567,-29.93485411541045,0 -51.08620274961194,-29.93589426239071,0 -51.0853422810726,-29.93568780183812,0 -51.08491475977726,-29.93607117626815,0 -51.08576730055965,-29.9368325617683,0 -51.08543922299915,-29.9372468242987,0 -51.08352673319217,-29.93618469660905,0 -51.08327269090682,-29.93663970811157,0 -51.08477318369187,-29.93772107956915,0 -51.08399904426424,-29.93863453731969,0 -51.08092308197136,-29.93626898328429,0 -51.0832677308699,-29.93376970627184,0 -51.08348799903169,-29.93353253743189,0 -51.08360025433646,-29.93342587247463,0 -51.08336809717459,-29.93312898393278,0 -51.08361809581761,-29.93297027254839,0 -51.08443331397479,-29.93327798873893,0 -51.08484966506098,-29.93285680144718,0 -51.08712319934457,-29.9343845093681,0 -51.08821906386808,-29.93373066929113,0 -51.08853368782172,-29.93334931024897,0 -51.08800694062005,-29.93297397487678,0 -51.08833697522748,-29.93281269409231,0 -51.08863617570497,-29.93263014082651,0 -51.08753898654511,-29.93193395978901,0 -51.08664036250389,-29.93137840083772,0 -51.08654572752083,-29.93128749623946,0 -51.08734371742639,-29.93044917388959,0 -51.09203119656286,-29.93411300819108,0 -51.08969982167478,-29.93675942658968,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>001 - 002 - 008 - 007</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.08013685179175,-29.93612075820944,0 -51.07823634673016,-29.93811985741819,0 -51.07759486151182,-29.93918895313247,0 -51.07739138584434,-29.94023054294212,0 -51.07625389135838,-29.94026377759225,0 -51.07602633644983,-29.9398940928345,0 -51.07560592231909,-29.93986129658168,0 -51.07609260426825,-29.93181584768541,0 -51.07634508959592,-29.93125449964309,0 -51.07667856370871,-29.93035844031261,0 -51.07568555930413,-29.92836615755754,0 -51.07658267112235,-29.92667367810654,0 -51.07711979332575,-29.92662292804295,0 -51.07935125050343,-29.92744112423217,0 -51.07743871778145,-29.93150339565258,0 -51.07931528391294,-29.93189611796522,0 -51.07804966699225,-29.93283379686446,0 -51.08013685179175,-29.93612075820944,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>CTO - BATISTTI</name>
+		<Folder id="0712690ACF2869E25956">
+			<name>CTO - BATISTTI</name>
+			<open>1</open>
+			<Document id="063B98FA962869E25957">
+				<name>~GE0000ju6748.kmz</name>
+				<StyleMap id="m_ylw-pushpin3">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#s_ylw-pushpin3</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+					</Pair>
+				</StyleMap>
+				<StyleMap id="msn_ylw-pushpin0">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#sn_ylw-pushpin0</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#sh_ylw-pushpin0</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="s_ylw-pushpin3">
+					<IconStyle>
+						<scale>1.1</scale>
+						<Icon>
+							<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+						</Icon>
+						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+					</IconStyle>
+				</Style>
+				<Style id="s_ylw-pushpin_hl3">
+					<IconStyle>
+						<scale>1.3</scale>
+						<Icon>
+							<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+						</Icon>
+						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+					</IconStyle>
+				</Style>
+				<Style id="sh_ylw-pushpin0">
+					<IconStyle>
+						<scale>1.3</scale>
+						<Icon>
+							<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+						</Icon>
+						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+					</IconStyle>
+					<LineStyle>
+						<color>ff00ff00</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>8000ffaa</color>
+					</PolyStyle>
+				</Style>
+				<Style id="sn_ylw-pushpin0">
+					<IconStyle>
+						<scale>1.1</scale>
+						<Icon>
+							<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+						</Icon>
+						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+					</IconStyle>
+					<LineStyle>
+						<color>ff00ff00</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>8000ffaa</color>
+					</PolyStyle>
+				</Style>
+				<Placemark>
+					<name>BATISTI V2</name>
+					<styleUrl>#msn_ylw-pushpin0</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-52.16889043183188,-29.60333947290685,0 -52.16921621692622,-29.60474037972351,0 -52.1708784572313,-29.60456330693573,0 -52.17063650267492,-29.60317492119267,0 -52.17159056675226,-29.60295128459745,0 -52.17110248094854,-29.601482145731,0 -52.17267761443302,-29.60092013262451,0 -52.1732639854854,-29.60235242552899,0 -52.17469309374502,-29.60196578047189,0 -52.17589166390092,-29.60560721125931,0 -52.17408005012398,-29.60586172816732,0 -52.17199036376371,-29.60615156978314,0 -52.16796796591707,-29.60665634541746,0 -52.16764606713742,-29.60348455892393,0 -52.16889043183188,-29.60333947290685,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>CTO - BATISTTI</name>
+					<LookAt>
+						<longitude>-52.17193818520926</longitude>
+						<latitude>-29.60475549882221</latitude>
+						<altitude>0</altitude>
+						<heading>-0.006310956039848792</heading>
+						<tilt>26.44948047128016</tilt>
+						<range>2387.360101621957</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin3</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-52.17193818520925,-29.60475549882221,0</coordinates>
+					</Point>
+				</Placemark>
+			</Document>
+		</Folder>
+	</Document>
+	<Document>
+		<name>SAO LEOPOLDO - FEITORIA.kmz</name>
+		<Style id="limite16900121">
+			<LineStyle>
+				<color>ffff0000</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="plimitePolyStyle">
+				<color>ffff0000</color>
+			</PolyStyle>
+		</Style>
+		<Style id="limite1880024">
+			<LineStyle>
+				<color>ffff0000</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="plimitePolyStyle">
+				<color>ffff0000</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="limite209011201">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#limite16900121</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#limite1880024</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="m_ylw-pushpin16">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin12</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin12">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl13">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>SAO LEOPOLDO - FEITORIA</name>
+			<open>1</open>
+			<Placemark>
+				<name>FEIAA_GPONA01</name>
+				<open>1</open>
+				<styleUrl>#limite209011201</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.09689963251891,-29.73690791830087,0 -51.09992272033895,-29.73808406028412,0 -51.10226520093855,-29.74729973481778,0 -51.1033958766499,-29.747889517968,0 -51.10441958259406,-29.75334464551984,0 -51.1023525418337,-29.75372784068838,0 -51.10262278619656,-29.75497465633491,0 -51.1052022034605,-29.75581046534602,0 -51.10639380923837,-29.75594882304149,0 -51.10631397431842,-29.75631012732476,0 -51.103529794582,-29.75548828665571,0 -51.10387853734942,-29.75688474958798,0 -51.10290672024345,-29.75704549185156,0 -51.10259993910624,-29.75522143494111,0 -51.09771391767903,-29.75482802195707,0 -51.09420205254653,-29.75361666728099,0 -51.09266169918951,-29.7525044447892,0 -51.09063169160577,-29.75141602828573,0 -51.08895069494028,-29.73913849013729,0 -51.09689963251891,-29.73690791830087,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>FEIAA_GPONA01</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>-51.11208926177482</longitude>
+					<latitude>-29.75025898360929</latitude>
+					<altitude>0</altitude>
+					<heading>0.005727907439388604</heading>
+					<tilt>28.44301776351306</tilt>
+					<range>5614.102772483364</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin16</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.09619535181533,-29.7470083339855,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>SAO LEOPOLDO - FEITORIA.kmz</name>
+		<Style id="limite169001210">
+			<LineStyle>
+				<color>ffff0000</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="plimitePolyStyle">
+				<color>66ffffff</color>
+			</PolyStyle>
+		</Style>
+		<Style id="limite18800240">
+			<LineStyle>
+				<color>ffff0000</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle id="plimitePolyStyle">
+				<color>66ffffff</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="limite2090112010">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#limite169001210</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#limite18800240</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="m_ylw-pushpin160">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin120</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl130</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin120">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl130">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>SAO LEOPOLDO - FEITORIA</name>
+			<open>1</open>
+			<Placemark>
+				<name>FEIAA_GPONA01</name>
+				<open>1</open>
+				<styleUrl>#limite2090112010</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.09689963251891,-29.73690791830087,0 -51.09992272033895,-29.73808406028412,0 -51.10226520093855,-29.74729973481778,0 -51.1033958766499,-29.747889517968,0 -51.10441958259406,-29.75334464551984,0 -51.1023525418337,-29.75372784068838,0 -51.10262278619656,-29.75497465633491,0 -51.1052022034605,-29.75581046534602,0 -51.10639380923837,-29.75594882304149,0 -51.10631397431842,-29.75631012732476,0 -51.103529794582,-29.75548828665571,0 -51.10387853734942,-29.75688474958798,0 -51.10290672024345,-29.75704549185156,0 -51.10259993910624,-29.75522143494111,0 -51.09771391767903,-29.75482802195707,0 -51.09420205254653,-29.75361666728099,0 -51.09266169918951,-29.7525044447892,0 -51.09063169160577,-29.75141602828573,0 -51.08895069494028,-29.73913849013729,0 -51.09689963251891,-29.73690791830087,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>FEIAA_GPONA01</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>-51.11208926177482</longitude>
+					<latitude>-29.75025898360929</latitude>
+					<altitude>0</altitude>
+					<heading>0.005727907439388604</heading>
+					<tilt>28.44301776351306</tilt>
+					<range>5614.102772483364</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin160</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.09619535181533,-29.7470083339855,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>AT_TOTAL.kmz</name>
+		<Style id="01Bairro Santa Rita_1">
+			<LineStyle id="l01Bairro Santa Rita_1LineStyle">
+				<color>ff00aa00</color>
+			</LineStyle>
+			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
+				<color>ffff0000</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="01Bairro Santa Rita_10">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#01Bairro Santa Rita_1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#01Bairro Santa Rita_11</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="01Bairro Santa Rita_11">
+			<LineStyle id="l01Bairro Santa Rita_1LineStyle">
+				<color>ff00aa00</color>
+			</LineStyle>
+			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
+				<color>ffff0000</color>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>AT_TOTAL</name>
+			<open>1</open>
+			<Placemark>
+				<name>40A75D7</name>
+				<styleUrl>#01Bairro Santa Rita_10</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.31903365098654,-30.08945185163149,0 -51.3191132431917,-30.0888531860833,0 -51.31918486689244,-30.08783991914092,0 -51.31940703626161,-30.08704945298005,0 -51.31950620313669,-30.08664580467684,0 -51.31977287363698,-30.08657401373206,0 -51.3278403542181,-30.0868027550425,0 -51.33714758203052,-30.08719713340968,0 -51.34046573147085,-30.08731544758143,0 -51.34225800149176,-30.08734407950991,0 -51.34238382079018,-30.09135516009955,0 -51.34173510437712,-30.09137054687309,0 -51.34151030214956,-30.08890764964362,0 -51.34132251048568,-30.08782015656941,0 -51.34044123048611,-30.08779404641154,0 -51.3403799820444,-30.08899044664423,0 -51.34020421600243,-30.09379660993561,0 -51.34024003819551,-30.09439199820459,0 -51.34024130994689,-30.09450817913569,0 -51.34022485535464,-30.09488612207834,0 -51.34013756253694,-30.09603081211614,0 -51.33880187259119,-30.09600838994849,0 -51.3388295960203,-30.09547155595908,0 -51.33394044564878,-30.09536681908338,0 -51.3339364880884,-30.09505481923536,0 -51.33302276505538,-30.09504275914955,0 -51.33291161811673,-30.09573814078834,0 -51.32816637361526,-30.09507483903217,0 -51.328186183693,-30.09451997497566,0 -51.31968202556671,-30.0942840330267,0 -51.31970589944079,-30.09377342125157,0 -51.31944936578088,-30.09309524242504,0 -51.31916191711352,-30.0919252669498,0 -51.31910917408089,-30.09127575265604,0 -51.31908578311972,-30.09076475457684,0 -51.31906178616218,-30.09015058594999,0 -51.31903365098654,-30.08945185163149,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>QUINTA DA BOA VISTA</name>
+		<open>1</open>
+		<description><![CDATA[Powered by Neyton<br/>http://tbn2.blogspot.com/]]></description>
+		<Style id="AREA_AGREGACAO">
+			<LineStyle id="lAREA_AGREGACAOLineStyle">
+				<color>ffff00bf</color>
+			</LineStyle>
+			<PolyStyle id="pAREA_AGREGACAOPolyStyle">
+				<color>7fff00bf</color>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>AREA_AGREGACAO</name>
+			<Placemark>
+				<name>C937D</name>
+				<styleUrl>#AREA_AGREGACAO</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-52.89913296944082,-30.00400583272297,0 -52.90211024613976,-30.00172211645877,0 -52.89947118195937,-30.00000660201999,0 -52.90306712309867,-29.99469160773786,0 -52.90630365133005,-29.9962155425867,0 -52.90695770443925,-29.99558785841435,0 -52.91140163143476,-29.9985898342209,0 -52.90876432257103,-30.00175234241626,0 -52.90931113562718,-30.00365840407211,0 -52.9084811689415,-30.00391302058049,0 -52.90783743316253,-30.00543674438032,0 -52.9070962233718,-30.00523978316581,0 -52.90556290555914,-30.0090787193106,0 -52.90028431853689,-30.0086513367259,0 -52.89779523104105,-30.00781516868796,0 -52.89710858668852,-30.00725772207736,0 -52.89913296944082,-30.00400583272297,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>
