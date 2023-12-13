@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rosario do Sul_RS.kmz</name>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle005">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle003">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle005</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="FeatureLayer0">
+		<name>Rosario_do_Sul_RS</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>RS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>CD_GEOCODM</td>
+
+<td>4316402</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NM_MUNICIP</td>
+
+<td>ROSÁRIO DO SUL</td>
+
+</tr>
+
+<tr>
+
+<td>CLASSE</td>
+
+<td>AB</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_KM</td>
+
+<td>37,908293</td>
+
+</tr>
+
+<tr>
+
+<td>DOMICILIOS</td>
+
+<td>3450</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_TEC</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>FASE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LANÇADA</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle003</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.91838633858897,-30.25049084226137,0 -54.91848711968239,-30.24622029212412,0 -54.91963756839945,-30.24619728397801,0 -54.92014972603651,-30.24618902231176,0 -54.92276927545408,-30.24617802117611,0 -54.92379652413429,-30.24615929021491,0 -54.92369252258055,-30.24629659877917,0 -54.92359245654603,-30.24645640798813,0 -54.92348544563625,-30.2466810823806,0 -54.92343200755483,-30.24680647672891,0 -54.9231736269263,-30.24732714954443,0 -54.9230905598243,-30.24755622506035,0 -54.92294050153377,-30.24970903575637,0 -54.92290764295723,-30.25019273875822,0 -54.92290633590856,-30.25020333652298,0 -54.92283485965638,-30.25080087803958,0 -54.9227784158121,-30.25114960669072,0 -54.9227125612169,-30.25148936992707,0 -54.92252741304695,-30.25185541139763,0 -54.92245702476137,-30.25193661096364,0 -54.92225526304177,-30.2521693631181,0 -54.92201591501909,-30.25235226830026,0 -54.92177953862339,-30.25250634483069,0 -54.92157873820803,-30.25270079357065,0 -54.92143010116449,-30.2529247397883,0 -54.92134183809442,-30.25315653677727,0 -54.92133016538565,-30.25324577736271,0 -54.92131454907287,-30.2535123447664,0 -54.92134715522273,-30.25418577637412,0 -54.9215129024774,-30.25552532945337,0 -54.92147264357973,-30.25601689056422,0 -54.92139131191039,-30.25638289809345,0 -54.92131981499702,-30.25655270291302,0 -54.92117682206846,-30.25681411218643,0 -54.92091094320202,-30.25724309278433,0 -54.92084168129722,-30.25741513081866,0 -54.92080146462021,-30.25759610734197,0 -54.92079029317136,-30.2579781669338,0 -54.92079029317136,-30.25840714710331,0 -54.92080205843504,-30.25905300136761,0 -54.92079922961182,-30.25908636536453,0 -54.92074194314787,-30.26026618616705,0 -54.91523613912706,-30.26022613572646,0 -54.91524649923794,-30.26044709614495,0 -54.91374000041126,-30.26044530688145,0 -54.91210735011157,-30.26049839491149,0 -54.91213578721441,-30.25891383134964,0 -54.91213579796005,-30.25891331922596,0 -54.91115031378127,-30.25891778861649,0 -54.910532000649,-30.25892027152469,0 -54.91053180004679,-30.25892059371422,0 -54.91052961562175,-30.25892060362089,0 -54.91051586960144,-30.25611420151786,0 -54.91369124255237,-30.25608638609371,0 -54.91369174650746,-30.25471956880194,0 -54.91213374441127,-30.25469762544496,0 -54.91213461847207,-30.25334882392939,0 -54.91011479787823,-30.25331644501617,0 -54.90842055099787,-30.25355642754946,0 -54.90849286627653,-30.25292277347136,0 -54.91060855777232,-30.25202048513005,0 -54.91173713641669,-30.25049381276135,0 -54.91233660197,-30.25049913672234,0 -54.91521907023834,-30.25052473606726,0 -54.91838633858897,-30.25049084226137,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.90580522732066,-30.25821578700458,0 -54.90580780099377,-30.25748278173135,0 -54.90580889783693,-30.25707846002746,0 -54.90580810731952,-30.2561359288448,0 -54.9069640576305,-30.25613274124974,0 -54.90879138273343,-30.25612774411955,0 -54.90905098417247,-30.25612703415066,0 -54.90908807740725,-30.25891945214666,0 -54.90909326191994,-30.25912037177435,0 -54.90580498567383,-30.25916403153251,0 -54.90580522732066,-30.25821578700458,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.92002796036336,-30.26179552318188,0 -54.9203687757562,-30.26172168262609,0 -54.92062513339513,-30.26166614035207,0 -54.92075234474055,-30.26163857873703,0 -54.92167669499818,-30.26189445780559,0 -54.92308156488116,-30.26184249015844,0 -54.92433000034383,-30.26168722794919,0 -54.92548886478954,-30.26167961710363,0 -54.9254827957715,-30.26234615316311,0 -54.92549245266084,-30.26276364651365,0 -54.92552233691539,-30.26345387478863,0 -54.92557113879158,-30.26417066450739,0 -54.92517906010264,-30.2644160082496,0 -54.92332202861136,-30.26565781702946,0 -54.92217813638627,-30.26540274847053,0 -54.92107622153636,-30.2664685667617,0 -54.91829747274947,-30.26626026422257,0 -54.91831248719117,-30.26595451271949,0 -54.91848229213596,-30.26556798254054,0 -54.91871688986733,-30.26522613977587,0 -54.91877498122182,-30.26513676886643,0 -54.9188643519146,-30.26490440427636,0 -54.91905203063857,-30.26459830949094,0 -54.91932237772502,-30.26414251851033,0 -54.92012607346039,-30.26294285190061,0 -54.92010632579538,-30.26266090311327,0 -54.92005094645487,-30.26237061881051,0 -54.92002796036336,-30.26179552318188,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>RS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>CD_GEOCODM</td>
+
+<td>4316402</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NM_MUNICIP</td>
+
+<td>ROSÁRIO DO SUL</td>
+
+</tr>
+
+<tr>
+
+<td>CLASSE</td>
+
+<td>C1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_KM</td>
+
+<td>34,016783</td>
+
+</tr>
+
+<tr>
+
+<td>DOMICILIOS</td>
+
+<td>6434</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_TEC</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>FASE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LANÇADA</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle003</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.91627214368635,-30.26179277182802,0 -54.91693492429626,-30.26179770424649,0 -54.91694768037326,-30.26396149741118,0 -54.91627686612983,-30.26397174919663,0 -54.91627214368635,-30.26179277182802,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.91627214368635,-30.26179277182802,0 -54.91530928983877,-30.26178629768937,0 -54.91524649920609,-30.26044709614609,0 -54.91523613912706,-30.26022613572646,0 -54.92074194314787,-30.26026618616705,0 -54.92062513340171,-30.26166614037454,0 -54.92036877576826,-30.26172168266737,0 -54.92002796036336,-30.26179552318188,0 -54.91697203280232,-30.26179748621746,0 -54.91627214368635,-30.26179277182802,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.91039502104282,-30.25914027583313,0 -54.91053180004679,-30.25892059371422,0 -54.910532000649,-30.25892027152469,0 -54.91115031378127,-30.25891778861649,0 -54.91213578690356,-30.25891383134542,0 -54.91210735011157,-30.26049839491149,0 -54.91044443467173,-30.26053788658332,0 -54.91039502104282,-30.25914027583313,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.90224957056034,-30.25679842417341,0 -54.90422716584424,-30.25614028889744,0 -54.90580810731952,-30.2561359288448,0 -54.90580889783693,-30.25707846002746,0 -54.90580780099377,-30.25748278173135,0 -54.90580522732066,-30.25821578700458,0 -54.90580498567383,-30.25916403153251,0 -54.90341957681059,-30.25915129163153,0 -54.90273923144196,-30.25914465515048,0 -54.90020745432003,-30.25917359306985,0 -54.90030675831713,-30.25759533312835,0 -54.90087089195782,-30.25752982138084,0 -54.90224339284612,-30.25753821314066,0 -54.90224957056034,-30.25679842417341,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.91039502104282,-30.25914027583313,0 -54.9090932696697,-30.2591206721002,0 -54.90909326191994,-30.25912037177435,0 -54.90908807740725,-30.25891945214666,0 -54.90905098417247,-30.25612703415066,0 -54.91051586960144,-30.25611420151786,0 -54.91052961562175,-30.25892060362089,0 -54.91039502104282,-30.25914027583313,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.92280243137287,-30.255986051238,0 -54.92372522305355,-30.25599927729387,0 -54.92396156621155,-30.25603790326385,0 -54.92548713822747,-30.2560219450965,0 -54.92549886932696,-30.25695191254951,0 -54.92548999273821,-30.25883824418033,0 -54.92543335087494,-30.25883959814676,0 -54.92544285806413,-30.25898022697887,0 -54.92548932459704,-30.25898022697887,0 -54.92548932293042,-30.25898058114381,0 -54.92485429127969,-30.25898405884271,0 -54.92307339829669,-30.25900144888721,0 -54.92080205842557,-30.25905300136696,0 -54.92079029317136,-30.25840714710331,0 -54.92079029317136,-30.2579781669338,0 -54.92080146462021,-30.25759610734197,0 -54.92084168129722,-30.25741513081866,0 -54.92091094320202,-30.25724309278433,0 -54.92117682206846,-30.25681411218643,0 -54.92131981499702,-30.25655270291302,0 -54.92139131191039,-30.25638289809345,0 -54.92146917967579,-30.25605918754099,0 -54.92280243137287,-30.255986051238,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.91051586960144,-30.25611420151786,0 -54.90879138273343,-30.25612774412739,0 -54.90879109347615,-30.25494162794403,0 -54.90851281875732,-30.25492073528337,0 -54.90842055099787,-30.25355642754946,0 -54.91011479787823,-30.25331644501617,0 -54.91213461847207,-30.25334882392939,0 -54.91213374441127,-30.25469762544496,0 -54.91369174650746,-30.25471956880194,0 -54.91369124255237,-30.25608638609371,0 -54.91051586960144,-30.25611420151786,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.91828913997692,-30.24621903573721,0 -54.91848711968239,-30.24622029212412,0 -54.91838633858897,-30.25049084226137,0 -54.91521907023834,-30.25052473606726,0 -54.91233660197023,-30.25049913669891,0 -54.91173713641669,-30.25049381276135,0 -54.91256148262372,-30.24968233750951,0 -54.91284196001142,-30.24896458611732,0 -54.91314450271785,-30.24806719297867,0 -54.91366339388044,-30.24730752327762,0 -54.91428262236871,-30.24619360224125,0 -54.91828913997692,-30.24621903573721,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.92290633590856,-30.25020333652298,0 -54.92290764295723,-30.25019273875822,0 -54.92294050153377,-30.24970903575637,0 -54.9230905594874,-30.24755622506035,0 -54.92869060509085,-30.24700109893853,0 -54.92863227837772,-30.24548575935378,0 -54.92911055221493,-30.24545959231748,0 -54.92961826564044,-30.24547405368198,0 -54.92975021108774,-30.24600101550654,0 -54.93026798384781,-30.24754005211089,0 -54.93027538147405,-30.24821923144096,0 -54.93043024114753,-30.24995014764189,0 -54.93042893589558,-30.25056178970183,0 -54.92909783656211,-30.25063130150636,0 -54.92746806536278,-30.25061436471126,0 -54.92756407370724,-30.25188372076829,0 -54.92672694627037,-30.25192964801389,0 -54.92417615846151,-30.25196439024681,0 -54.92245702472578,-30.25193661094064,0 -54.92252741304695,-30.25185541139763,0 -54.9227125612169,-30.25148936992707,0 -54.9227784158121,-30.25114960669072,0 -54.92283485965638,-30.25080087803958,0 -54.92290633590856,-30.25020333652298,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.91828913997692,-30.24621903573721,0 -54.91827452169235,-30.24242372880023,0 -54.92006977424492,-30.24240590355754,0 -54.9201210473862,-30.24484322346943,0 -54.92014972875317,-30.24618902225179,0 -54.91963756839505,-30.24619728397814,0 -54.91828913997692,-30.24621903573721,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>RS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>CD_GEOCODM</td>
+
+<td>4316402</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NM_MUNICIP</td>
+
+<td>ROSÁRIO DO SUL</td>
+
+</tr>
+
+<tr>
+
+<td>CLASSE</td>
+
+<td>C1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_KM</td>
+
+<td>11,091968</td>
+
+</tr>
+
+<tr>
+
+<td>DOMICILIOS</td>
+
+<td>603</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_TEC</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>FASE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LANÇADA</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle003</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.92543335087494,-30.25883959814676,0 -54.92548999273821,-30.25883824418033,0 -54.92923373087962,-30.25874875386712,0 -54.93011445311038,-30.25874875386712,0 -54.93012871389406,-30.25897663427392,0 -54.92678456012656,-30.25896431642748,0 -54.92550940838787,-30.25898022697887,0 -54.92548932459704,-30.25898022697887,0 -54.92544285806413,-30.25898022697887,0 -54.92543335087494,-30.25883959814676,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>RS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>CD_GEOCODM</td>
+
+<td>4316402</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NM_MUNICIP</td>
+
+<td>ROSÁRIO DO SUL</td>
+
+</tr>
+
+<tr>
+
+<td>CLASSE</td>
+
+<td>C1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_KM</td>
+
+<td>5,661259</td>
+
+</tr>
+
+<tr>
+
+<td>DOMICILIOS</td>
+
+<td>215</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_TEC</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>FASE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LANÇADA</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle003</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.91847949551115,-30.26179651786888,0 -54.91873264464806,-30.26179635525356,0 -54.91870428126667,-30.26310945822002,0 -54.91850819549138,-30.2631351193148,0 -54.91847949551115,-30.26179651786888,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>RS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>CD_GEOCODM</td>
+
+<td>4316402</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NM_MUNICIP</td>
+
+<td>ROSÁRIO DO SUL</td>
+
+</tr>
+
+<tr>
+
+<td>CLASSE</td>
+
+<td>C1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_KM</td>
+
+<td>31,526394</td>
+
+</tr>
+
+<tr>
+
+<td>DOMICILIOS</td>
+
+<td>695</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_TEC</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>FASE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LANÇADA</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle003</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-54.9215129024774,-30.25552532945332,0 -54.92134715522273,-30.25418577637412,0 -54.92131454907287,-30.25351234476635,0 -54.92133016538559,-30.25324577736271,0 -54.92134183809436,-30.25315653677719,0 -54.92143010116449,-30.2529247397883,0 -54.92157873820803,-30.25270079357065,0 -54.92177953862334,-30.25250634483069,0 -54.92201591501909,-30.25235226830023,0 -54.92225526304177,-30.25216936311803,0 -54.92245702476137,-30.25193661096356,0 -54.92249712926062,-30.2519372589858,0 -54.92258004535816,-30.25321455349381,0 -54.92280821789666,-30.25460654183441,0 -54.92291136964796,-30.25598761261288,0 -54.92280243137287,-30.255986051238,0 -54.92146917967579,-30.25605918754099,0 -54.9214524435769,-30.2561287626571,0 -54.92144778786066,-30.25612874603397,0 -54.92147264357973,-30.25601689056422,0 -54.9215129024774,-30.25552532945332,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

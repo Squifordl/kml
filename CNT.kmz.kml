@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CNT.kmz</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ÁREA A CONSTRUIR2">
+		<LineStyle id="lÁREA A CONSTRUIRLineStyle">
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
+			<color>7f00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="ÁREA A CONSTRUIR4">
+		<LineStyle id="lÁREA A CONSTRUIRLineStyle">
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
+			<color>7f00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="ÁREA A CONSTRUIR0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ÁREA A CONSTRUIR4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ÁREA A CONSTRUIR2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="AT_PGO1">
+		<LineStyle id="lAT_PGOLineStyle">
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="pAT_PGOPolyStyle">
+			<color>54ffaa00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="AT_PGO">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#AT_PGO0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#AT_PGO1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ÁREA A CONSTRUIR3">
+		<LineStyle id="lÁREA A CONSTRUIRLineStyle">
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
+			<color>7f00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="ÁREA A CONSTRUIR1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ÁREA A CONSTRUIR</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ÁREA A CONSTRUIR3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ÁREA A CONSTRUIR">
+		<LineStyle id="lÁREA A CONSTRUIRLineStyle">
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
+			<color>7f00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="AT_PGO0">
+		<LineStyle id="lAT_PGOLineStyle">
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="pAT_PGOPolyStyle">
+			<color>54ffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>CNT</name>
+		<open>1</open>
+		<Placemark>
+			<name>CNT</name>
+			<description>CNT</description>
+			<styleUrl>#ÁREA A CONSTRUIR1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-51.45079402793454,-29.67889290652614,0 -51.44935359373132,-29.67823415092441,0 -51.44991987237641,-29.67736933325778,0 -51.45139075046629,-29.67807303989861,0 -51.45079402793454,-29.67889290652614,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>8532C</name>
+			<styleUrl>#AT_PGO</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-51.43874783616597,-29.67021407657818,0 -51.44334995610745,-29.67333616867592,0 -51.44545322536101,-29.66979963414146,0 -51.44711127940208,-29.66982450355321,0 -51.45107024941002,-29.66981073154934,0 -51.45331842265566,-29.66938169456733,0 -51.45515963141663,-29.6690931872701,0 -51.4567544826918,-29.66880550367511,0 -51.45841351766487,-29.66873248265988,0 -51.46002501375691,-29.66872241989145,0 -51.46155704674285,-29.66891449424499,0 -51.46288793406654,-29.66926819808028,0 -51.46426217218877,-29.67011894055458,0 -51.46498508544546,-29.67086642469083,0 -51.46604418439703,-29.67221874417645,0 -51.46651972257802,-29.67351756387484,0 -51.46733519568002,-29.67741043909488,0 -51.46819723275991,-29.68201290719179,0 -51.4696399807314,-29.68339716414919,0 -51.47013411011861,-29.68395498978943,0 -51.46996288994067,-29.6841388193943,0 -51.47162154603511,-29.68533784243498,0 -51.47341847524746,-29.68592467494419,0 -51.4738148895059,-29.68604051948908,0 -51.47405810700411,-29.68606951327039,0 -51.47309974440515,-29.68632941487541,0 -51.4710131584382,-29.68570563811183,0 -51.47042151468873,-29.68520829038055,0 -51.46973701264407,-29.68515927690975,0 -51.46730352545233,-29.68564505312858,0 -51.46761195592067,-29.68623481720154,0 -51.46933066202905,-29.68602216074792,0 -51.46925713223296,-29.68628882517078,0 -51.46724120432969,-29.68643866271211,0 -51.46567897693544,-29.68549536975674,0 -51.46531926039901,-29.6862488471934,0 -51.46626693729486,-29.68662775493114,0 -51.46623429041701,-29.68675812777643,0 -51.46522177290824,-29.68638545180351,0 -51.46274143311373,-29.69047763384838,0 -51.46493273733806,-29.69142521512411,0 -51.46396786249629,-29.69186000102025,0 -51.46241772600112,-29.69119994014934,0 -51.46215342685568,-29.69157774468597,0 -51.46718639262435,-29.69463529450996,0 -51.46599810529906,-29.69460035952104,0 -51.46490518630356,-29.69426078298399,0 -51.46289530452536,-29.69263283740351,0 -51.46195382621728,-29.69377250060146,0 -51.46145038761037,-29.69357275327881,0 -51.46029277035714,-29.69569421589261,0 -51.45950330432182,-29.69649164292173,0 -51.45789187906683,-29.6961155843284,0 -51.45650371004363,-29.6960716986184,0 -51.45471016874064,-29.69650441090284,0 -51.45383727584539,-29.69450760633397,0 -51.45352738394699,-29.6943797249661,0 -51.45537703539265,-29.69109017269426,0 -51.45450257270646,-29.69074943606405,0 -51.45453148938431,-29.69068387211423,0 -51.45288796176803,-29.69005689067775,0 -51.45097142385425,-29.68927483225927,0 -51.44744512399323,-29.68751416347371,0 -51.44883016521061,-29.68525649280124,0 -51.44951360622599,-29.68493051764077,0 -51.44801155940293,-29.68392044778707,0 -51.45011286741024,-29.68146852150816,0 -51.44937130768136,-29.68081867192554,0 -51.44934259237892,-29.68074668275644,0 -51.4481963238548,-29.67945806280158,0 -51.44753529947456,-29.67834487258612,0 -51.44746083684004,-29.67824500959154,0 -51.44577228648905,-29.67621129208156,0 -51.44545562821574,-29.67660424364765,0 -51.44520837216548,-29.67644502605863,0 -51.43732896532025,-29.66982738151156,0 -51.43628863671335,-29.67171874216941,0 -51.43563241421069,-29.67159884649912,0 -51.4367898951647,-29.66938799674242,0 -51.43626943026996,-29.66902785882154,0 -51.43683943624079,-29.66867453754811,0 -51.43874783616597,-29.67021407657818,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CNT</name>
+			<open>1</open>
+			<description>CNT</description>
+			<LookAt>
+				<longitude>-51.46702085655458</longitude>
+				<latitude>-29.67808727991224</latitude>
+				<altitude>0</altitude>
+				<heading>0.001194414629585773</heading>
+				<tilt>4.603928665803243</tilt>
+				<range>2600.664550135899</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-51.47229570618975,-29.67674307771746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CNT</name>
+			<description>CNT</description>
+			<LookAt>
+				<longitude>-51.44852740923923</longitude>
+				<latitude>-29.68272463503174</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007531533832452255</heading>
+				<tilt>12.23245534137431</tilt>
+				<range>5537.015007067203</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-51.45045376341452,-29.67805553518108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CNT</name>
+			<styleUrl>#ÁREA A CONSTRUIR0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-51.47850312065597,-29.67732809277689,0 -51.46815917197269,-29.68204417216724,0 -51.46669385772821,-29.67646986641362,0 -51.47400853423298,-29.67242453705213,0 -51.47850312065597,-29.67732809277689,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>PGO</name>
+		<description>PGO</description>
+		<LookAt>
+			<longitude>-51.45698473888959</longitude>
+			<latitude>-29.68157670304574</latitude>
+			<altitude>0</altitude>
+			<heading>0.0001727889806184576</heading>
+			<tilt>44.36127856069583</tilt>
+			<range>5567.533693947744</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-51.46133644974016,-29.68381599499268,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

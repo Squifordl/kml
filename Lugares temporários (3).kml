@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Lugares temporários</name>
+	<Folder>
+		<name>Lugares temporários</name>
+		<open>1</open>
+		<Document>
+			<name>PORTO VERDE V2_PARCIAL.kmz</name>
+			<Style id="PolyStyle011617">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ffff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>8000ffff</color>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle01168">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ffff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>8000ffff</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="PolyStyle011611">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle01168</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle011617</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark id="ID_00116">
+				<name>PORTO VERDE V2_PARCIAL</name>
+				<open>1</open>
+				<snippet></snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIDADE</td>
+
+<td>ALVORADA</td>
+
+</tr>
+
+<tr>
+
+<td>SDE_AREAS_</td>
+
+<td>PORTO VERDE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>KM</td>
+
+<td>50,879104</td>
+
+</tr>
+
+<tr>
+
+<td>HP</td>
+
+<td>8452</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+				<styleUrl>#PolyStyle011611</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-51.07820565810997,-30.03304666760559,0 -51.07713002337493,-30.0340550449793,0 -51.07700756684875,-30.03396572867985,0 -51.07528212404537,-30.03579308986637,0 -51.07362381374014,-30.03449354006315,0 -51.0726301342462,-30.03540411854544,0 -51.07606188921705,-30.03787916789242,0 -51.0755762422815,-30.03831880954838,0 -51.07215849848387,-30.03568634481899,0 -51.07108630630367,-30.03666393262209,0 -51.07128383041204,-30.03787008455748,0 -51.07219814992284,-30.03859933082236,0 -51.07250378775982,-30.03888868244558,0 -51.07154543721549,-30.03971408443998,0 -51.07168545532808,-30.04213530625664,0 -51.07393869383178,-30.04208364347624,0 -51.07397786093589,-30.04312964871202,0 -51.07542949274924,-30.04252774407824,0 -51.07682913270733,-30.04317139810388,0 -51.07707445757479,-30.04321592722268,0 -51.0772844913497,-30.04368585261032,0 -51.07586895542536,-30.04431407179495,0 -51.0757170004634,-30.04499792102908,0 -51.07595182048594,-30.04556452916441,0 -51.07477524171395,-30.04605337576346,0 -51.07560824763152,-30.04762032269666,0 -51.07508557517529,-30.04914179078736,0 -51.07491501959237,-30.049009416008,0 -51.07510755031594,-30.04842026800493,0 -51.07321712758285,-30.04818109999825,0 -51.07276366002679,-30.04812305838088,0 -51.07166853878145,-30.04589153179257,0 -51.07104353302891,-30.0377210497367,0 -51.0705527395704,-30.03608382127177,0 -51.07209769184044,-30.03470917817193,0 -51.06849280291091,-30.03181121897943,0 -51.07322046859498,-30.02744487773741,0 -51.07388094398384,-30.02755600602675,0 -51.07577638852679,-30.02896980080421,0 -51.07604987393664,-30.02930457853305,0 -51.07555920595693,-30.02968021063884,0 -51.07600045355125,-30.030034123299,0 -51.07674068016117,-30.03059060968344,0 -51.07752573448914,-30.02994736185346,0 -51.0787994848717,-30.02936572061715,0 -51.08021077873926,-30.03323325937787,0 -51.07820565810997,-30.03304666760559,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Alvorada</name>
+			<open>1</open>
+			<Style id="style5305800011810022890000022110405">
+				<IconStyle>
+					<scale>0.7</scale>
+				</IconStyle>
+				<LabelStyle>
+					<scale>0.7</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<Style id="style09410859002827160010624000149">
+				<IconStyle>
+					<scale>0.7</scale>
+				</IconStyle>
+				<LabelStyle>
+					<scale>0.7</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="stylemap_id071165102420025950051250013">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#style09410859002827160010624000149</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#style5305800011810022890000022110405</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Folder>
+				<name>NET SMS - POA</name>
+				<Placemark>
+					<name>ALV01</name>
+					<description>ALV01</description>
+					<styleUrl>#stylemap_id071165102420025950051250013</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-51.0815200614183,-30.04480797765302,20 -51.08137379852349,-30.04511258067649,20 -51.08138573270824,-30.0454859348957,20 -51.08146060427972,-30.04582916331771,20 -51.08080440863954,-30.04593795114808,20 -51.0806762493674,-30.04663902802626,20 -51.08026676861887,-30.04667813713287,20 -51.08032318135977,-30.04584538192091,20 -51.0797249955955,-30.04558358149127,20 -51.0798497324785,-30.04426890115039,20 -51.08007345753855,-30.044262324411,20 -51.0815200614183,-30.04480797765302,20 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ALV02</name>
+					<description>ALV02</description>
+					<styleUrl>#stylemap_id071165102420025950051250013</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-51.08294652887154,-30.04138754303377,20 -51.08272133276902,-30.04299156872271,20 -51.08207715825154,-30.04301055192303,20 -51.08200301420355,-30.04309088607311,20 -51.08175608299039,-30.04309541321485,20 -51.08157242924815,-30.04345311465338,20 -51.08071120420877,-30.04335963925806,20 -51.08066597563543,-30.04349930867353,20 -51.08001351178934,-30.04347410788629,20 -51.08042747243418,-30.04080130779624,20 -51.0826929085073,-30.04100760943808,20 -51.08294652887154,-30.04138754303377,20 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>NET SMS - ALV</name>
+				<Placemark>
+					<name>UMBAK</name>
+					<description>NODE ALV03</description>
+					<styleUrl>#stylemap_id071165102420025950051250013</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-51.08288297028011,-30.0403098819846,0 -51.08288297028011,-30.0403098819846,0 -51.08268063446781,-30.0409115172586,0 -51.080346932202,-30.0408534536793,0 -51.0802000298601,-30.040840691462,0 -51.0803494072911,-30.0394229461684,0 -51.0805858986424,-30.0388696641135,0 -51.0805812350152,-30.03878094929591,0 -51.0804612259192,-30.0364983220912,0 -51.080595985405,-30.0365225237807,0 -51.0806478758207,-30.0351145500497,0 -51.0817468001302,-30.0351452059765,0 -51.0821831476008,-30.0355146133982,0 -51.082497710724,-30.0355257883642,0 -51.0826848168779,-30.0353825351021,0 -51.0852656295176,-30.03553388829449,0 -51.0881088941868,-30.0355433361123,0 -51.08718139291919,-30.0390918763658,0 -51.0871211368456,-30.0399077655158,0 -51.0847045519477,-30.0397085195262,0 -51.08438826589341,-30.039773112076,0 -51.0841986280594,-30.0399050804819,0 -51.0837750076468,-30.0400866406384,0 -51.08288297028011,-30.0403098819846,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>UMBAL</name>
+					<description>NODE ALV04</description>
+					<styleUrl>#stylemap_id071165102420025950051250013</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-51.0871211368456,-30.0399077655158,0 -51.086838924754,-30.0434993993165,0 -51.08654202258581,-30.0452912568172,0 -51.08249479350499,-30.04538617398149,0 -51.082801094283,-30.04104384156449,0 -51.08268063446781,-30.0409115172586,0 -51.08288297028011,-30.0403098819846,0 -51.0837750076468,-30.0400866406384,0 -51.0841986280594,-30.0399050804819,0 -51.08438826589341,-30.039773112076,0 -51.0847045519477,-30.0397085195262,0 -51.0871211368456,-30.0399077655158,0 -51.0871211368456,-30.0399077655158,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+		</Document>
+	</Folder>
+</Document>
+</kml>

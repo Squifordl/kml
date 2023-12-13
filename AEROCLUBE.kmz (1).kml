@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AEROCLUBE.kmz</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle001">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>AEROCLUBE</name>
+		<open>1</open>
+		<Placemark id="ID_00001">
+			<name>AEROCLUBE</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>UF</td>
+
+<td>RS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIDADE</td>
+
+<td>MONTENEGRO</td>
+
+</tr>
+
+<tr>
+
+<td>SDE_AREAS_</td>
+
+<td>AEROCLUBE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>KM</td>
+
+<td>12,092</td>
+
+</tr>
+
+<tr>
+
+<td>HP</td>
+
+<td>1137</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#PolyStyle000</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-51.49499757545044,-29.71811122248271,0 -51.4951801912696,-29.71894836870299,0 -51.49437538880992,-29.71962156851549,0 -51.49321522270532,-29.72032952269648,0 -51.49156352722332,-29.72110973588492,0 -51.48906702011557,-29.7222734236561,0 -51.48883366295757,-29.72073033746223,0 -51.48956049254891,-29.71983004491078,0 -51.49107767519855,-29.71916179510299,0 -51.49115016744537,-29.71840645561896,0 -51.48979364848426,-29.71808050967364,0 -51.48839376964104,-29.71795500327419,0 -51.48737154164495,-29.71879912167836,0 -51.48487959169061,-29.71885285615328,0 -51.48396242975181,-29.7222994541104,0 -51.48486028330188,-29.72227049113268,0 -51.48540092627078,-29.72366071551823,0 -51.48335693830087,-29.72399873215933,0 -51.48303333638945,-29.72399244772949,0 -51.48495478427313,-29.71594178315305,0 -51.48558613372954,-29.71319557256913,0 -51.48595406480532,-29.71205961837314,0 -51.48607553859128,-29.7113968197104,0 -51.48681501197023,-29.7113855196329,0 -51.48752408725829,-29.71057373626892,0 -51.48840110708029,-29.71094595581505,0 -51.49006937647925,-29.71118692820668,0 -51.49129854936736,-29.71169123999342,0 -51.49171038739923,-29.71097058397464,0 -51.49250711490284,-29.71128709284509,0 -51.49283128814279,-29.71187277216265,0 -51.49282273977455,-29.71238570482869,0 -51.49341209299142,-29.71281194547452,0 -51.49283818181428,-29.71335820904473,0 -51.49132467866403,-29.71457269204111,0 -51.49308985741754,-29.71501435625283,0 -51.49340862100286,-29.7159021821468,0 -51.49310040004571,-29.71703385886053,0 -51.49499757545044,-29.71811122248271,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>GHKAA (GPONA01)</name>
+			<LookAt>
+				<longitude>-51.48285557189593</longitude>
+				<latitude>-29.70910328098261</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008431475875558111</heading>
+				<tilt>1.343333623668976</tilt>
+				<range>5975.15505020769</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-51.48939704268469,-29.71637439624199,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
