@@ -7,28 +7,28 @@
 		<name>Imbé.kmz</name>
 		<Style id="PolyStyle00">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle000">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle001">
@@ -304,20 +304,20 @@
 		</StyleMap>
 		<Style id="AT_PGO0">
 			<LineStyle id="lAT_PGOLineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_PGOPolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_PGO1">
 			<LineStyle id="lAT_PGOLineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_PGOPolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin">
@@ -378,11 +378,11 @@
 		</Style>
 		<Style id="ÁREA A CONSTRUIR">
 			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="ÁREA A CONSTRUIR0">
@@ -407,29 +407,29 @@
 		</StyleMap>
 		<Style id="ÁREA A CONSTRUIR2">
 			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="ÁREA A CONSTRUIR3">
 			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="ÁREA A CONSTRUIR4">
 			<LineStyle id="lÁREA A CONSTRUIRLineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -554,28 +554,28 @@
 				</StyleMap>
 				<Style id="PolyStyle011617">
 					<LabelStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle01168">
 					<LabelStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<Placemark id="ID_00116">
@@ -690,11 +690,11 @@
 						<scale>0.7</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="style5305800011810022890000022110405">
@@ -705,11 +705,11 @@
 						<scale>0.7</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="stylemap_id071165102420025950051250013">
@@ -812,28 +812,28 @@
 				</StyleMap>
 				<Style id="PolyStyle0116170">
 					<LabelStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle011680">
 					<LabelStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<Placemark id="ID_00116">
@@ -948,11 +948,11 @@
 						<scale>0.7</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="style53058000118100228900000221104050">
@@ -963,11 +963,11 @@
 						<scale>0.7</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="stylemap_id0711651024200259500512500130">
@@ -1055,20 +1055,20 @@
 		<name>Cachoeira do Sul - CNT.kmz</name>
 		<Style id="style160">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style170">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="stylemap_id04">
@@ -1107,20 +1107,20 @@
 		<name>Cachoeira do Sul - CNT.kmz</name>
 		<Style id="style1600">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style1700">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="stylemap_id040">
@@ -1169,19 +1169,19 @@
 		</StyleMap>
 		<Style id="poly-E65100-1000-89-highlight">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="poly-E65100-1000-89-normal">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Placemark>
@@ -1316,19 +1316,19 @@
 		</StyleMap>
 		<Style id="poly-E65100-1000-89-highlight0">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="poly-E65100-1000-89-normal0">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Placemark>
@@ -1463,20 +1463,20 @@
 		</StyleMap>
 		<Style id="sh_ylw-pushpin29">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>1.8</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin27">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>1.2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -1503,15 +1503,15 @@
 		<name>AEROCLUBE.kmz</name>
 		<Style id="PolyStyle002">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle0000">
@@ -1526,15 +1526,15 @@
 		</StyleMap>
 		<Style id="PolyStyle0010">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin1">
@@ -1690,15 +1690,15 @@
 		<name>AEROCLUBE.kmz</name>
 		<Style id="PolyStyle003">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle0001">
@@ -1713,15 +1713,15 @@
 		</StyleMap>
 		<Style id="PolyStyle0011">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin2">
@@ -1887,27 +1887,27 @@
 		</StyleMap>
 		<Style id="AT_CAM11534">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LabelStyle>
 			<LineStyle id="lAT_CAMLineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CAMPolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<outline>0</outline>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_CAM2334">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LabelStyle>
 			<LineStyle id="lAT_CAMLineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CAMPolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<outline>0</outline>
 			</PolyStyle>
 		</Style>
@@ -1979,10 +1979,10 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin">
@@ -1994,10 +1994,10 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -2087,11 +2087,11 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="sn_ylw-pushpin0">
@@ -2103,11 +2103,11 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>99e5b533</color>
+						<color>7f00ffff</color>
 					</PolyStyle>
 				</Style>
 				<Placemark>
@@ -2148,20 +2148,20 @@
 		<name>SAO LEOPOLDO - FEITORIA.kmz</name>
 		<Style id="limite16900121">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1880024">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="limite209011201">
@@ -2244,20 +2244,20 @@
 		<name>SAO LEOPOLDO - FEITORIA.kmz</name>
 		<Style id="limite169001210">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800240">
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="limite2090112010">
@@ -2340,10 +2340,10 @@
 		<name>AT_TOTAL.kmz</name>
 		<Style id="01Bairro Santa Rita_1">
 			<LineStyle id="l01Bairro Santa Rita_1LineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LineStyle>
 			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="01Bairro Santa Rita_10">
@@ -2358,10 +2358,10 @@
 		</StyleMap>
 		<Style id="01Bairro Santa Rita_11">
 			<LineStyle id="l01Bairro Santa Rita_1LineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LineStyle>
 			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -2389,10 +2389,10 @@
 		<description><![CDATA[Powered by Neyton<br/>http://tbn2.blogspot.com/]]></description>
 		<Style id="AREA_AGREGACAO">
 			<LineStyle id="lAREA_AGREGACAOLineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LineStyle>
 			<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>

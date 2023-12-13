@@ -8,15 +8,15 @@
 		<Snippet maxLines="0"></Snippet>
 		<Style id="PolyStyle00">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Folder id="FeatureLayer0">
@@ -322,15 +322,15 @@
 		<Snippet maxLines="0"></Snippet>
 		<Style id="PolyStyle000">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Folder id="FeatureLayer0">
@@ -638,28 +638,28 @@
 		<description>VTAL_SUL</description>
 		<Style id="PolyStyle002">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle0000">
 			<LabelStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle001">
@@ -20503,11 +20503,11 @@
 			<name>ESTALAGEM.kmz</name>
 			<Style id="AT_CNT00">
 				<LineStyle id="lAT_CNTLineStyle">
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_CNTPolyStyle">
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AT_CNT10">
@@ -20522,11 +20522,11 @@
 			</StyleMap>
 			<Style id="AT_CNT2">
 				<LineStyle id="lAT_CNTLineStyle">
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_CNTPolyStyle">
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 				</PolyStyle>
 			</Style>
 			<Placemark>
@@ -20558,28 +20558,28 @@
 			</StyleMap>
 			<Style id="PolyStyle01990">
 				<LabelStyle>
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 				</PolyStyle>
 			</Style>
 			<Style id="PolyStyle01992">
 				<LabelStyle>
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 				</PolyStyle>
 			</Style>
 			<Placemark id="ID_00123">
@@ -20696,11 +20696,11 @@
 			<name>TARUMA.kmz</name>
 			<Style id="AT_TRMAA">
 				<LineStyle id="lAT_TRMAALineStyle">
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_TRMAAPolyStyle">
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="AT_TRMAA0">
@@ -20715,11 +20715,11 @@
 			</StyleMap>
 			<Style id="AT_TRMAA1">
 				<LineStyle id="lAT_TRMAALineStyle">
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_TRMAAPolyStyle">
-					<color>99e5b533</color>
+					<color>7f00ffff</color>
 				</PolyStyle>
 			</Style>
 			<Placemark>
@@ -20742,10 +20742,10 @@
 		<name>AT_TOTAL.kmz</name>
 		<Style id="01Bairro Santa Rita_1">
 			<LineStyle id="l01Bairro Santa Rita_1LineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LineStyle>
 			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="01Bairro Santa Rita_10">
@@ -20760,10 +20760,10 @@
 		</StyleMap>
 		<Style id="01Bairro Santa Rita_11">
 			<LineStyle id="l01Bairro Santa Rita_1LineStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</LineStyle>
 			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
-				<color>99e5b533</color>
+				<color>7f00ffff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
