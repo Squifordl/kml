@@ -382,7 +382,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-				<color>7f00ffaa</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="ÁREA A CONSTRUIR0">
@@ -411,7 +411,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-				<color>7f00ffaa</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="ÁREA A CONSTRUIR3">
@@ -420,7 +420,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-				<color>7f00ffaa</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="ÁREA A CONSTRUIR4">
@@ -429,7 +429,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pÁREA A CONSTRUIRPolyStyle">
-				<color>7f00ffaa</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -1507,11 +1507,11 @@
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>7f00ff00</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f00ffaa</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle0000">
@@ -1530,11 +1530,11 @@
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>7f00ff00</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f00ffaa</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin1">
@@ -1694,11 +1694,11 @@
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>7f00ff00</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f00ffaa</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle0001">
@@ -1717,11 +1717,11 @@
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>7f00ff00</color>
+				<color>7f0000ff</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f00ffaa</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin2">
@@ -2091,7 +2091,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>8000ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="sn_ylw-pushpin0">
@@ -2107,7 +2107,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>8000ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Placemark>
@@ -2389,7 +2389,7 @@
 		<description><![CDATA[Powered by Neyton<br/>http://tbn2.blogspot.com/]]></description>
 		<Style id="AREA_AGREGACAO">
 			<LineStyle id="lAREA_AGREGACAOLineStyle">
-				<color>ffff00bf</color>
+				<color>7f0000ff</color>
 			</LineStyle>
 			<PolyStyle id="pAREA_AGREGACAOPolyStyle">
 				<color>7fff00bf</color>

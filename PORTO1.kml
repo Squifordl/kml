@@ -53,7 +53,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO1">
@@ -62,7 +62,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Placemark>
@@ -88,7 +88,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO10">
@@ -107,7 +107,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="m_ylw-pushpin0">
@@ -319,7 +319,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>7f7fffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AT_TOTAL0">
@@ -338,7 +338,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>7f7fffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="msn_ylw-pushpin">
@@ -419,7 +419,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>7f7fffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AT_TOTAL10">
@@ -428,7 +428,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>7f7fffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AT_TOTAL2">
@@ -528,7 +528,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO100">
@@ -537,7 +537,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO20">
@@ -25785,7 +25785,7 @@
 				<color>7f0000ff</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>800000ff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="s_ylw-pushpin182">
@@ -25808,7 +25808,7 @@
 				<color>7f0000ff</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>800000ff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="s_ylw-pushpin_hl08">
@@ -26209,7 +26209,7 @@
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style034">
@@ -26776,7 +26776,7 @@
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2441">
@@ -30734,7 +30734,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO01">
@@ -30752,7 +30752,7 @@ NODE HFC CENAP</description>
 						<color>7f0000ff</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ff00</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO11">
@@ -30760,7 +30760,7 @@ NODE HFC CENAP</description>
 						<color>7f0000ff</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ff00</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO101">
@@ -30769,7 +30769,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO21">
@@ -30778,7 +30778,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO200">
@@ -30786,7 +30786,7 @@ NODE HFC CENAP</description>
 						<color>7f0000ff</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ff00</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO3">
@@ -30804,7 +30804,7 @@ NODE HFC CENAP</description>
 						<color>7f0000ff</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ff00</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO40">
@@ -30833,7 +30833,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO7">
@@ -30852,7 +30852,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO9">
@@ -30861,7 +30861,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>7f00ffaa</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="m_ylw-pushpin3">
@@ -31836,7 +31836,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>7f00ff00</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AT_TOTAL20">
@@ -31855,7 +31855,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>7f00ff00</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AT_TOTAL30">
@@ -31864,7 +31864,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>7f00ff00</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AT_TOTAL4">
@@ -31873,7 +31873,7 @@ NODE HFC CENAP</description>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>7f00ff00</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Folder>
@@ -35510,7 +35510,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_blue-pushpin5">
@@ -35526,7 +35526,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle">
@@ -35574,7 +35574,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle120">
@@ -35590,7 +35590,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle21">
@@ -35686,7 +35686,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_blue-pushpin6">
@@ -35702,7 +35702,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle">
@@ -35750,7 +35750,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle22">
@@ -35782,7 +35782,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4dffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin4">
