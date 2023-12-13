@@ -4,20 +4,20 @@
 	<name>RIO PARDO.kmz</name>
 	<Style id="sh_ylw-pushpin29">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ff00aaff</color>
 			<width>1.8</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7000aaff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin27">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ff00aaff</color>
 			<width>1.2</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7000aaff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin34">

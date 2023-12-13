@@ -41,7 +41,7 @@
 					<width>2</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>ffff0000</color>
+					<color>80ff55ff</color>
 					<outline>0</outline>
 				</PolyStyle>
 			</Style>
@@ -50,7 +50,7 @@
 					<width>2</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>ffff0000</color>
+					<color>80ff55ff</color>
 					<outline>0</outline>
 				</PolyStyle>
 			</Style>

@@ -4,11 +4,11 @@
 	<name>Projeto Divisão_BGE</name>
 	<Style id="limite14501320">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>2.4</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
-			<color>ffff0000</color>
+			<color>66ffffff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin1">
@@ -40,7 +40,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
@@ -56,7 +56,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
@@ -82,11 +82,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>66ffffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin1">
@@ -98,11 +98,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>66ffffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="Style_POLIGONO_AREA_PRIMARIA_0052A57">
@@ -115,11 +115,11 @@
 			<scale>0.6</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7fffffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin0">
@@ -131,11 +131,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>66ffffff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin">
@@ -158,11 +158,11 @@
 			<scale>0.6</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7fffffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="Style_POLIGONO_AREA_PRIMARIA_0052A52">
@@ -175,11 +175,11 @@
 			<scale>0.6</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7fffffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="limite1450132">
@@ -188,7 +188,7 @@
 			<width>2.4</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
-			<color>ffff0000</color>
+			<color>66ffffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="Style_POLIGONO_AREA_PRIMARIA_0052A51">
@@ -201,11 +201,11 @@
 			<scale>0.6</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7fffffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="limite1520018">
@@ -214,7 +214,7 @@
 			<width>2.4</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
-			<color>ffff0000</color>
+			<color>66ffffff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="Style_POLIGONO_AREA_PRIMARIA_0052A54">
@@ -229,11 +229,11 @@
 	</StyleMap>
 	<Style id="limite15200180">
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>2.4</width>
 		</LineStyle>
 		<PolyStyle id="plimitePolyStyle">
-			<color>ffff0000</color>
+			<color>66ffffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin0">
@@ -245,11 +245,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>66ffffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="Style_POLIGONO_AREA_PRIMARIA_0052A53">
@@ -262,11 +262,11 @@
 			<scale>0.6</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7fffffff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="Style_POLIGONO_AREA_PRIMARIA_0052A56">
@@ -299,11 +299,11 @@
 			<scale>0.6</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ffffff55</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>7fffffff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="Style_POLIGONO_AREA_PRIMARIA_0052A50">

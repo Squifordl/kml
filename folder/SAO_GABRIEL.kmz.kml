@@ -4,7 +4,7 @@
 	<name>SAO_GABRIEL.kmz</name>
 	<Style id="PolyStyle00">
 		<LabelStyle>
-			<color>ffff0000</color>
+			<color>00000000</color>
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
@@ -17,7 +17,7 @@
 	</Style>
 	<Style id="PolyStyle000">
 		<LabelStyle>
-			<color>ffff0000</color>
+			<color>00000000</color>
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>

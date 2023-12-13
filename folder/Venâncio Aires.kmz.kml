@@ -8,7 +8,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_TOTALPolyStyle">
-			<color>ffff0000</color>
+			<color>7f00ff00</color>
 		</PolyStyle>
 	</Style>
 	<Style id="AT_TOTAL2">
@@ -17,7 +17,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_TOTALPolyStyle">
-			<color>ffff0000</color>
+			<color>7f00ff00</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="AT_TOTAL0">
@@ -36,7 +36,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_TOTALPolyStyle">
-			<color>ffff0000</color>
+			<color>7f00ff00</color>
 		</PolyStyle>
 	</Style>
 	<Style id="AT_TOTAL1">
@@ -45,7 +45,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_TOTALPolyStyle">
-			<color>ffff0000</color>
+			<color>7f00ff00</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="AT_TOTAL">

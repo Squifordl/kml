@@ -10,28 +10,28 @@
 			<open>1</open>
 			<Style id="PolyStyle003">
 				<LabelStyle>
-					<color>ffff0000</color>
+					<color>00000000</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f00ff00</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>ffff0000</color>
+					<color>7f00ffaa</color>
 				</PolyStyle>
 			</Style>
 			<Style id="PolyStyle001">
 				<LabelStyle>
-					<color>ffff0000</color>
+					<color>00000000</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
-					<color>ffff0000</color>
+					<color>7f00ff00</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>ffff0000</color>
+					<color>7f00ffaa</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="PolyStyle00">
@@ -190,7 +190,7 @@
 						<open>1</open>
 						<Style id="poly-7CB342-1200-145-highlight">
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>ff00ffff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -199,7 +199,7 @@
 						</Style>
 						<Style id="poly-7CB342-1200-145-normal">
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>ff00ffff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -270,7 +270,7 @@
 						<open>1</open>
 						<Style id="poly-7CB342-1200-145-highlight0">
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>ff00ffff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -279,7 +279,7 @@
 						</Style>
 						<Style id="poly-7CB342-1200-145-normal0">
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>ff00ffff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -422,7 +422,7 @@
 						<name>GERMANO HENKE.kmz</name>
 						<Style id="poly-7CB342-1200-145-highlight00">
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>ff00ffff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -431,7 +431,7 @@
 						</Style>
 						<Style id="poly-7CB342-1200-145-normal00">
 							<LineStyle>
-								<color>ffff0000</color>
+								<color>ff00ffff</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
@@ -499,11 +499,11 @@
 					<open>1</open>
 					<Style id="PolyStyle0010">
 						<LabelStyle>
-							<color>ffff0000</color>
+							<color>00000000</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>ff00ffff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
@@ -512,11 +512,11 @@
 					</Style>
 					<Style id="PolyStyle000">
 						<LabelStyle>
-							<color>ffff0000</color>
+							<color>00000000</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>ffff0000</color>
+							<color>ff00ffff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>

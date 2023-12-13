@@ -112,11 +112,11 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ff00ffff</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>4d00ffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl">
@@ -258,11 +258,11 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ff00ffff</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>4d00ffff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sh_triangle0">
@@ -274,11 +274,11 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ff00ffff</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>4d00ffff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="msn_triangle">
@@ -332,11 +332,11 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
+			<color>ff00ffff</color>
 			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffff0000</color>
+			<color>4d00ffff</color>
 		</PolyStyle>
 	</Style>
 	<Folder>

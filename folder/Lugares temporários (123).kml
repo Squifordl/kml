@@ -9,7 +9,7 @@
 			<name>AT_VBRAA.kmz</name>
 			<Style id="AT_MDVAA0">
 				<LineStyle id="lAT_MDVAALineStyle">
-					<color>ffff0000</color>
+					<color>ff00ffff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_MDVAAPolyStyle">
@@ -18,7 +18,7 @@
 			</Style>
 			<Style id="AT_MDVAA">
 				<LineStyle id="lAT_MDVAALineStyle">
-					<color>ffff0000</color>
+					<color>ff00ffff</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle id="pAT_MDVAAPolyStyle">
@@ -68,7 +68,7 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>ff00aaff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -84,7 +84,7 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>ffff0000</color>
+						<color>ff00aaff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
@@ -504,7 +504,7 @@
 					<open>1</open>
 					<Style id="AREA_AGREGACAO115">
 						<LineStyle id="lAREA_AGREGACAOLineStyle">
-							<color>ffff0000</color>
+							<color>ff00ffff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -513,7 +513,7 @@
 					</Style>
 					<Style id="AREA_AGREGACAO41">
 						<LineStyle id="lAREA_AGREGACAOLineStyle">
-							<color>ffff0000</color>
+							<color>ff00ffff</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle id="pAREA_AGREGACAOPolyStyle">
@@ -615,7 +615,7 @@
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>ffff0000</color>
+							<color>80ff0000</color>
 						</PolyStyle>
 					</Style>
 					<Style id="normalPlacemark31564010111">
@@ -633,7 +633,7 @@
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>ffff0000</color>
+							<color>80ff0000</color>
 						</PolyStyle>
 					</Style>
 					<StyleMap id="normalPlacemark315133160001">

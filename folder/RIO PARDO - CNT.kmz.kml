@@ -27,7 +27,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_CNTPolyStyle">
-			<color>ffff0000</color>
+			<color>7f00ffaa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="AT_CNT">
@@ -36,7 +36,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_CNTPolyStyle">
-			<color>ffff0000</color>
+			<color>7f00ffaa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl">

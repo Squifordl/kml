@@ -36,7 +36,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_ARCPolyStyle">
-			<color>ffff0000</color>
+			<color>7f00ffaa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="AT_ARC">
@@ -45,7 +45,7 @@
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle id="pAT_ARCPolyStyle">
-			<color>ffff0000</color>
+			<color>7f00ffaa</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="AT_ARC1">
