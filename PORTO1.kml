@@ -33676,7 +33676,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>80ff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_shaded_dot210">
@@ -33694,7 +33694,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>80ff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>

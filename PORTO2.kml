@@ -893,7 +893,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>80ff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="normalPlacemark31513316011200">
@@ -921,7 +921,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>80ff0000</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -3522,7 +3522,7 @@ NODE HFC CNTACB</description>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>80ff0000</color>
+								<color>7f0000ff</color>
 							</PolyStyle>
 						</Style>
 						<StyleMap id="normalPlacemark315133160001">
@@ -3550,7 +3550,7 @@ NODE HFC CNTACB</description>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>80ff0000</color>
+								<color>7f0000ff</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -8393,7 +8393,7 @@ NODE HFC CNTACB</description>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>80ff0000</color>
+					<color>7f0000ff</color>
 				</PolyStyle>
 			</Style>
 			<Style id="sn_ylw-pushpin001">
@@ -8425,7 +8425,7 @@ NODE HFC CNTACB</description>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>80ff0000</color>
+					<color>7f0000ff</color>
 				</PolyStyle>
 			</Style>
 			<Folder>
