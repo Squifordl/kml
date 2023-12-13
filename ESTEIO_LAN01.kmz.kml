@@ -4,7 +4,7 @@
 	<name>ESTEIO_LAN01.kmz</name>
 	<Style id="normalPlacemark315031200600320">
 		<IconStyle>
-			<color>8000aaff</color>
+			<color>323A8247</color>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 			</Icon>
@@ -13,16 +13,16 @@
 			<scale>0.3</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>8000aaff</color>
+			<color>323A8247</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>8000aaff</color>
+			<color>323A8247</color>
 		</PolyStyle>
 	</Style>
 	<Style id="normalPlacemark3156401010211">
 		<IconStyle>
-			<color>8000aaff</color>
+			<color>323A8247</color>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 			</Icon>
@@ -31,11 +31,11 @@
 			<scale>0.3</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>8000aaff</color>
+			<color>323A8247</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>8000aaff</color>
+			<color>323A8247</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="normalPlacemark3151331601120">
