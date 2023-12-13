@@ -7,7 +7,7 @@
 		<name>Imbé.kmz</name>
 		<Style id="PolyStyle00">
 			<LabelStyle>
-				<color>00000000</color>
+				<color>7f0000ff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
@@ -20,7 +20,7 @@
 		</Style>
 		<Style id="PolyStyle000">
 			<LabelStyle>
-				<color>00000000</color>
+				<color>7f0000ff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
@@ -562,7 +562,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>8000ffff</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle01168">
@@ -575,7 +575,7 @@
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>8000ffff</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Placemark id="ID_00116">
@@ -812,28 +812,28 @@
 				</StyleMap>
 				<Style id="PolyStyle0116170">
 					<LabelStyle>
-						<color>00000000</color>
+						<color>7f0000ff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ff00ffff</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>8000ffff</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle011680">
 					<LabelStyle>
-						<color>00000000</color>
+						<color>7f0000ff</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>ff00ffff</color>
+						<color>7f0000ff</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>8000ffff</color>
+						<color>7f0000ff</color>
 					</PolyStyle>
 				</Style>
 				<Placemark id="ID_00116">
@@ -1169,19 +1169,19 @@
 		</StyleMap>
 		<Style id="poly-E65100-1000-89-highlight">
 			<LineStyle>
-				<color>ff0051e6</color>
+				<color>7f0000ff</color>
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>590051e6</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="poly-E65100-1000-89-normal">
 			<LineStyle>
-				<color>ff0051e6</color>
+				<color>7f0000ff</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>590051e6</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Placemark>
@@ -1316,19 +1316,19 @@
 		</StyleMap>
 		<Style id="poly-E65100-1000-89-highlight0">
 			<LineStyle>
-				<color>ff0051e6</color>
+				<color>7f0000ff</color>
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>590051e6</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="poly-E65100-1000-89-normal0">
 			<LineStyle>
-				<color>ff0051e6</color>
+				<color>7f0000ff</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>590051e6</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Placemark>
@@ -1503,7 +1503,7 @@
 		<name>AEROCLUBE.kmz</name>
 		<Style id="PolyStyle002">
 			<LabelStyle>
-				<color>00000000</color>
+				<color>7f0000ff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
@@ -1526,7 +1526,7 @@
 		</StyleMap>
 		<Style id="PolyStyle0010">
 			<LabelStyle>
-				<color>00000000</color>
+				<color>7f0000ff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
@@ -1690,7 +1690,7 @@
 		<name>AEROCLUBE.kmz</name>
 		<Style id="PolyStyle003">
 			<LabelStyle>
-				<color>00000000</color>
+				<color>7f0000ff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
@@ -1713,7 +1713,7 @@
 		</StyleMap>
 		<Style id="PolyStyle0011">
 			<LabelStyle>
-				<color>00000000</color>
+				<color>7f0000ff</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
@@ -1887,7 +1887,7 @@
 		</StyleMap>
 		<Style id="AT_CAM11534">
 			<LabelStyle>
-				<color>00ffffff</color>
+				<color>7f0000ff</color>
 			</LabelStyle>
 			<LineStyle id="lAT_CAMLineStyle">
 				<color>ffffaa00</color>
@@ -1900,7 +1900,7 @@
 		</Style>
 		<Style id="AT_CAM2334">
 			<LabelStyle>
-				<color>00ffffff</color>
+				<color>7f0000ff</color>
 			</LabelStyle>
 			<LineStyle id="lAT_CAMLineStyle">
 				<color>ffffaa00</color>
@@ -2248,7 +2248,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>66ffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800240">
@@ -2257,7 +2257,7 @@
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>66ffffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="limite2090112010">
@@ -2340,7 +2340,7 @@
 		<name>AT_TOTAL.kmz</name>
 		<Style id="01Bairro Santa Rita_1">
 			<LineStyle id="l01Bairro Santa Rita_1LineStyle">
-				<color>ff00aa00</color>
+				<color>7f0000ff</color>
 			</LineStyle>
 			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
 				<color>7f0000ff</color>
@@ -2358,7 +2358,7 @@
 		</StyleMap>
 		<Style id="01Bairro Santa Rita_11">
 			<LineStyle id="l01Bairro Santa Rita_1LineStyle">
-				<color>ff00aa00</color>
+				<color>7f0000ff</color>
 			</LineStyle>
 			<PolyStyle id="p01Bairro Santa Rita_1PolyStyle">
 				<color>7f0000ff</color>

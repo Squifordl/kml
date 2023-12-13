@@ -40,7 +40,7 @@
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000ffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_shaded_dot180">
@@ -58,7 +58,7 @@
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000ffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_shaded_dot2">
@@ -76,7 +76,7 @@
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000ffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_shaded_dot20">
@@ -94,7 +94,7 @@
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000ffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -3969,7 +3969,7 @@ Diamante</description>
 									<width>4</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>8000ffff</color>
+									<color>7f0000ff</color>
 								</PolyStyle>
 							</Style>
 							<Style id="sn_shaded_dot2">
@@ -3987,7 +3987,7 @@ Diamante</description>
 									<width>4</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>8000ffff</color>
+									<color>7f0000ff</color>
 								</PolyStyle>
 							</Style>
 							<Folder>
@@ -17536,7 +17536,7 @@ FO 33/34</description>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000ffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_shaded_dot1800">
@@ -17554,7 +17554,7 @@ FO 33/34</description>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000ffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_shaded_dot21">
@@ -17572,7 +17572,7 @@ FO 33/34</description>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000ffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_shaded_dot200">
@@ -17590,7 +17590,7 @@ FO 33/34</description>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>8000ffff</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -21465,7 +21465,7 @@ Diamante</description>
 									<width>4</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>8000ffff</color>
+									<color>7f0000ff</color>
 								</PolyStyle>
 							</Style>
 							<Style id="sn_shaded_dot22">
@@ -21483,7 +21483,7 @@ Diamante</description>
 									<width>4</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>8000ffff</color>
+									<color>7f0000ff</color>
 								</PolyStyle>
 							</Style>
 							<Folder>
