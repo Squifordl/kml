@@ -27,38 +27,38 @@
 		</StyleMap>
 		<Style id="AT_TOTAL1">
 			<LineStyle id="lAT_TOTALLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_TOTAL2">
 			<LineStyle id="lAT_TOTALLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_TOTAL3">
 			<LineStyle id="lAT_TOTALLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_TOTAL4">
 			<LineStyle id="lAT_TOTALLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -97,7 +97,7 @@
 		<name>ESTEIO_LAN01.kmz</name>
 		<Style id="normalPlacemark315031200600320">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 				</Icon>
@@ -106,11 +106,11 @@
 				<scale>0.3</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="normalPlacemark3151331601120">
@@ -125,7 +125,7 @@
 		</StyleMap>
 		<Style id="normalPlacemark3156401010211">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 				</Icon>
@@ -134,11 +134,11 @@
 				<scale>0.3</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -880,7 +880,7 @@
 		<name>ESTEIO_LAN01.kmz</name>
 		<Style id="normalPlacemark3150312006003200">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 				</Icon>
@@ -889,11 +889,11 @@
 				<scale>0.3</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="normalPlacemark31513316011200">
@@ -908,7 +908,7 @@
 		</StyleMap>
 		<Style id="normalPlacemark31564010102110">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 				</Icon>
@@ -917,11 +917,11 @@
 				<scale>0.3</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -1751,11 +1751,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="s_ylw-pushpin_hl">
@@ -1767,11 +1767,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_blue-pushpin3">
@@ -1783,11 +1783,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_blue-pushpin5">
@@ -1799,43 +1799,43 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.4</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle0">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.4</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle1100">
@@ -1847,11 +1847,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle120">
@@ -1863,27 +1863,27 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle21">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.4</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_blue-pushpin5">
@@ -1895,11 +1895,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_blue-pushpin6">
@@ -1911,43 +1911,43 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.2</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle0">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.2</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle21">
@@ -1959,27 +1959,27 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle22">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.2</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle800">
@@ -1991,11 +1991,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -2916,20 +2916,20 @@ NODE HFC CNTACB</description>
 				<name>AT_VBRAA.kmz</name>
 				<Style id="AT_MDVAA">
 					<LineStyle id="lAT_MDVAALineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_MDVAAPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AT_MDVAA0">
 					<LineStyle id="lAT_MDVAALineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_MDVAAPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AT_MDVAA1">
@@ -2985,11 +2985,11 @@ NODE HFC CNTACB</description>
 							<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 						</IconStyle>
 						<LineStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<Style id="s_ylw-pushpin_hl0">
@@ -3001,11 +3001,11 @@ NODE HFC CNTACB</description>
 							<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 						</IconStyle>
 						<LineStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<Folder>
@@ -3421,20 +3421,20 @@ NODE HFC CNTACB</description>
 						</StyleMap>
 						<Style id="AREA_AGREGACAO115">
 							<LineStyle id="lAREA_AGREGACAOLineStyle">
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<Style id="AREA_AGREGACAO41">
 							<LineStyle id="lAREA_AGREGACAOLineStyle">
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -3509,7 +3509,7 @@ NODE HFC CNTACB</description>
 						<name>GPON_Projeto_F - GRAVATAÍ.kmz</name>
 						<Style id="normalPlacemark3150312006003310">
 							<IconStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<Icon>
 									<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 								</Icon>
@@ -3518,11 +3518,11 @@ NODE HFC CNTACB</description>
 								<scale>0.3</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<StyleMap id="normalPlacemark315133160001">
@@ -3537,7 +3537,7 @@ NODE HFC CNTACB</description>
 						</StyleMap>
 						<Style id="normalPlacemark31564010111">
 							<IconStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<Icon>
 									<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 								</Icon>
@@ -3546,11 +3546,11 @@ NODE HFC CNTACB</description>
 								<scale>0.3</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -3848,20 +3848,20 @@ NODE HFC CNTACB</description>
 		</StyleMap>
 		<Style id="AT_TOTAL00">
 			<LineStyle id="lAT_TOTALLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_TOTAL10">
 			<LineStyle id="lAT_TOTALLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_TOTALPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin1">
@@ -3950,11 +3950,11 @@ NODE HFC CNTACB</description>
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="s_ylw-pushpin_hl2">
@@ -3966,11 +3966,11 @@ NODE HFC CNTACB</description>
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Folder>
@@ -4387,20 +4387,20 @@ NODE HFC CNTACB</description>
 					</StyleMap>
 					<Style id="AREA_AGREGACAO1150">
 						<LineStyle id="lAREA_AGREGACAOLineStyle">
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<Style id="AREA_AGREGACAO410">
 						<LineStyle id="lAREA_AGREGACAOLineStyle">
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<Folder>
@@ -4476,7 +4476,7 @@ NODE HFC CNTACB</description>
 					<name>GPON_Projeto_F - GRAVATAÍ.kmz</name>
 					<Style id="normalPlacemark31503120060033100">
 						<IconStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<Icon>
 								<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 							</Icon>
@@ -4485,11 +4485,11 @@ NODE HFC CNTACB</description>
 							<scale>0.3</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<StyleMap id="normalPlacemark3151331600010">
@@ -4504,7 +4504,7 @@ NODE HFC CNTACB</description>
 					</StyleMap>
 					<Style id="normalPlacemark315640101110">
 						<IconStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<Icon>
 								<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 							</Icon>
@@ -4513,11 +4513,11 @@ NODE HFC CNTACB</description>
 							<scale>0.3</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<Folder>
@@ -4820,28 +4820,28 @@ NODE HFC CNTACB</description>
 				</StyleMap>
 				<Style id="PolyStyle001">
 					<LabelStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle003">
 					<LabelStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Placemark id="ID_00000">
@@ -4978,7 +4978,7 @@ NODE HFC CNTACB</description>
 								<state>closed</state>
 								<href>C:/Users/PC 2/Documents/GitHub/maps-kml/src/kml/files/mysavedplaces_closed.png</href>
 							</ItemIcon>
-							<bgColor>323A8247</bgColor>
+							<bgColor>6289b6</bgColor>
 							<maxSnippetLines>2</maxSnippetLines>
 						</ListStyle>
 					</Style>
@@ -5000,20 +5000,20 @@ NODE HFC CNTACB</description>
 							</StyleMap>
 							<Style id="poly-7CB342-1200-145-highlight">
 								<LineStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 									<width>3</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 								</PolyStyle>
 							</Style>
 							<Style id="poly-7CB342-1200-145-normal">
 								<LineStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 									<width>3</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 								</PolyStyle>
 							</Style>
 							<Folder>
@@ -5070,20 +5070,20 @@ NODE HFC CNTACB</description>
 							<open>1</open>
 							<Style id="poly-7CB342-1200-145-highlight0">
 								<LineStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 									<width>3</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 								</PolyStyle>
 							</Style>
 							<Style id="poly-7CB342-1200-145-normal0">
 								<LineStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 									<width>3</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 								</PolyStyle>
 							</Style>
 							<StyleMap id="poly-7CB342-1200-1450">
@@ -5222,20 +5222,20 @@ NODE HFC CNTACB</description>
 							<name>GERMANO HENKE.kmz</name>
 							<Style id="poly-7CB342-1200-145-highlight00">
 								<LineStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 									<width>3</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 								</PolyStyle>
 							</Style>
 							<Style id="poly-7CB342-1200-145-normal00">
 								<LineStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 									<width>3</width>
 								</LineStyle>
 								<PolyStyle>
-									<color>323A8247</color>
+									<color>6289b6</color>
 								</PolyStyle>
 							</Style>
 							<StyleMap id="poly-7CB342-1200-1451">
@@ -5299,15 +5299,15 @@ NODE HFC CNTACB</description>
 						<open>1</open>
 						<Style id="PolyStyle000">
 							<LabelStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<StyleMap id="PolyStyle0000">
@@ -5322,15 +5322,15 @@ NODE HFC CNTACB</description>
 						</StyleMap>
 						<Style id="PolyStyle0010">
 							<LabelStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -5468,11 +5468,11 @@ NODE HFC CNTACB</description>
 				<open>1</open>
 				<Style id="AREA_AGREGACAO">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO0">
@@ -5487,11 +5487,11 @@ NODE HFC CNTACB</description>
 				</StyleMap>
 				<Style id="AREA_AGREGACAO1">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="m_ylw-pushpin3">
@@ -5561,20 +5561,20 @@ NODE HFC CNTACB</description>
 				<name>Cachoeira do Sul</name>
 				<Style id="style160">
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="style170">
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="stylemap_id04">
@@ -5613,20 +5613,20 @@ NODE HFC CNTACB</description>
 				<name>SANTA HELENA</name>
 				<Style id="AREA_AGREGACAO2">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO3">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO4">
@@ -5641,11 +5641,11 @@ NODE HFC CNTACB</description>
 				</StyleMap>
 				<Style id="ATENDIMENTO_SPLITTER_PRI-CLASSE-C_61">
 					<LineStyle id="lATENDIMENTO_SPLITTER_PRI-CLASSE-C_61LineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pATENDIMENTO_SPLITTER_PRI-CLASSE-C_61PolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="ATENDIMENTO_SPLITTER_PRI-CLASSE-C_610">
@@ -5660,11 +5660,11 @@ NODE HFC CNTACB</description>
 				</StyleMap>
 				<Style id="ATENDIMENTO_SPLITTER_PRI-CLASSE-C_611">
 					<LineStyle id="lATENDIMENTO_SPLITTER_PRI-CLASSE-C_61LineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pATENDIMENTO_SPLITTER_PRI-CLASSE-C_61PolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="icones">
@@ -5769,15 +5769,15 @@ NODE HFC CNTACB</description>
 		<name>Rosario do Sul_RS.kmz</name>
 		<Style id="PolyStyle002">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle0030">
@@ -5792,15 +5792,15 @@ NODE HFC CNTACB</description>
 		</StyleMap>
 		<Style id="PolyStyle005">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder id="FeatureLayer0">
@@ -6577,15 +6577,15 @@ NODE HFC CNTACB</description>
 		<name>Rosario do Sul_RS.kmz</name>
 		<Style id="PolyStyle004">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle0031">
@@ -6600,15 +6600,15 @@ NODE HFC CNTACB</description>
 		</StyleMap>
 		<Style id="PolyStyle0050">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder id="FeatureLayer0">
@@ -7385,20 +7385,20 @@ NODE HFC CNTACB</description>
 		<name>VERA CRUZ - ARC.kmz</name>
 		<Style id="AT_ARC">
 			<LineStyle id="lAT_ARCLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_ARCPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_ARC0">
 			<LineStyle id="lAT_ARCLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_ARCPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="AT_ARC1">
@@ -7479,28 +7479,28 @@ NODE HFC CNTACB</description>
 		<name>SAO_GABRIEL.kmz</name>
 		<Style id="PolyStyle006">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle0001">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle0011">
@@ -7926,20 +7926,20 @@ NODE HFC CNTACB</description>
 		<name>RIO PARDO - CNT.kmz</name>
 		<Style id="AT_CNT">
 			<LineStyle id="lAT_CNTLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CNTPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_CNT0">
 			<LineStyle id="lAT_CNTLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CNTPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="AT_CNT1">
@@ -8020,20 +8020,20 @@ NODE HFC CNTACB</description>
 		<name>CHARQUEADAS_CNT</name>
 		<Style id="AT_CNT2">
 			<LineStyle id="lAT_CNTLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CNTPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="AT_CNT00">
 			<LineStyle id="lAT_CNTLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CNTPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="AT_CNT10">
@@ -8114,11 +8114,11 @@ NODE HFC CNTACB</description>
 		<name>CAMAQUA CNT.kmz</name>
 		<Style id="AT_CAM">
 			<LineStyle id="lAT_CAMLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CAMPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="AT_CAM0">
@@ -8133,11 +8133,11 @@ NODE HFC CNTACB</description>
 		</StyleMap>
 		<Style id="AT_CAM1">
 			<LineStyle id="lAT_CAMLineStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle id="pAT_CAMPolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin7">
@@ -8172,7 +8172,7 @@ NODE HFC CNTACB</description>
 			<name>AT_CAM</name>
 			<open>1</open>
 			<Placemark>
-				<name>323A8247</name>
+				<name>6289b6</name>
 				<styleUrl>#AT_CAM0</styleUrl>
 				<Polygon>
 					<tessellate>1</tessellate>
@@ -8229,11 +8229,11 @@ NODE HFC CNTACB</description>
 		</StyleMap>
 		<Style id="sh_ylw-pushpin1900">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3.3015</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin2400">
@@ -8245,20 +8245,20 @@ NODE HFC CNTACB</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2.2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin25000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2.201</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin28">
@@ -8270,11 +8270,11 @@ NODE HFC CNTACB</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2.2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -8373,11 +8373,11 @@ NODE HFC CNTACB</description>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 				</PolyStyle>
 			</Style>
 			<Style id="sh_ylw-pushpin000">
@@ -8389,11 +8389,11 @@ NODE HFC CNTACB</description>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 				</PolyStyle>
 			</Style>
 			<Style id="sn_ylw-pushpin001">
@@ -8405,11 +8405,11 @@ NODE HFC CNTACB</description>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 				</PolyStyle>
 			</Style>
 			<Style id="sn_ylw-pushpin0010">
@@ -8421,11 +8421,11 @@ NODE HFC CNTACB</description>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 				<LineStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 				</PolyStyle>
 			</Style>
 			<Folder>
@@ -11526,15 +11526,15 @@ NODE HFC CNTACB</description>
 			<name>CANOAS_EXP2023_P1.kmz</name>
 			<Style id="PolyStyle0921">
 				<LabelStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 				</PolyStyle>
 			</Style>
 			<StyleMap id="PolyStyle0922">
@@ -11549,15 +11549,15 @@ NODE HFC CNTACB</description>
 			</StyleMap>
 			<Style id="PolyStyle0937">
 				<LabelStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 					<scale>0</scale>
 				</LabelStyle>
 				<LineStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 					<width>3</width>
 				</LineStyle>
 				<PolyStyle>
-					<color>323A8247</color>
+					<color>6289b6</color>
 				</PolyStyle>
 			</Style>
 			<Folder>
@@ -11567,15 +11567,15 @@ NODE HFC CNTACB</description>
 					<name>CANOAS_MRDAB_VILLAGGIO SANTOS FERREIRA.kmz</name>
 					<Style id="PolyStyle09210">
 						<LabelStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<StyleMap id="PolyStyle09220">
@@ -11590,15 +11590,15 @@ NODE HFC CNTACB</description>
 					</StyleMap>
 					<Style id="PolyStyle09370">
 						<LabelStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<Folder>
@@ -11728,15 +11728,15 @@ NODE HFC CNTACB</description>
 					<name>CANOAS - MRDAB.kmz</name>
 					<Style id="PolyStyle0921">
 						<LabelStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<StyleMap id="PolyStyle0922">
@@ -11751,15 +11751,15 @@ NODE HFC CNTACB</description>
 					</StyleMap>
 					<Style id="PolyStyle0937">
 						<LabelStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<scale>0</scale>
 						</LabelStyle>
 						<LineStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 							<width>3</width>
 						</LineStyle>
 						<PolyStyle>
-							<color>323A8247</color>
+							<color>6289b6</color>
 						</PolyStyle>
 					</Style>
 					<Folder>

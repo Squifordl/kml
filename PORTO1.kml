@@ -49,20 +49,20 @@
 				</StyleMap>
 				<Style id="AREA_AGREGACAO0">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO1">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Placemark>
@@ -84,11 +84,11 @@
 				<name>SANTANA_DO_LIVRAMENTO_HID_AGREG</name>
 				<Style id="AREA_AGREGACAO00">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO10">
@@ -103,11 +103,11 @@
 				</StyleMap>
 				<Style id="AREA_AGREGACAO2">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="m_ylw-pushpin0">
@@ -315,11 +315,11 @@
 				<name>SANTANA DO LIVRAMENTO_CTO.kmz</name>
 				<Style id="AT_TOTAL">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AT_TOTAL0">
@@ -334,11 +334,11 @@
 				</StyleMap>
 				<Style id="AT_TOTAL1">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="msn_ylw-pushpin">
@@ -360,7 +360,7 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</LineStyle>
 				</Style>
 				<Style id="sn_ylw-pushpin">
@@ -372,7 +372,7 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</LineStyle>
 				</Style>
 				<Folder>
@@ -415,20 +415,20 @@
 				<name>SANTANA DO LIVRAMENTO_HID.kmz</name>
 				<Style id="AT_TOTAL00">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AT_TOTAL10">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AT_TOTAL2">
@@ -524,20 +524,20 @@
 				<name>SANTANA_DO_LIVRAMENTO_CTO_AGREG</name>
 				<Style id="AREA_AGREGACAO000">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO100">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO20">
@@ -732,28 +732,28 @@
 		<description>VTAL_SUL</description>
 		<Style id="PolyStyle00">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle000">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle001">
@@ -20649,7 +20649,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -20665,7 +20665,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -20681,7 +20681,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -20697,7 +20697,7 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
@@ -21795,11 +21795,11 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="sh_ylw-pushpin000">
@@ -21811,11 +21811,11 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="sn_ylw-pushpin001">
@@ -21827,11 +21827,11 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="sn_ylw-pushpin0010">
@@ -21843,11 +21843,11 @@
 						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 					</IconStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Folder>
@@ -24948,15 +24948,15 @@
 				<name>CANOAS_EXP2023_P1.kmz</name>
 				<Style id="PolyStyle0921">
 					<LabelStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="PolyStyle0922">
@@ -24971,15 +24971,15 @@
 				</StyleMap>
 				<Style id="PolyStyle0937">
 					<LabelStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Folder>
@@ -24989,15 +24989,15 @@
 						<name>CANOAS_MRDAB_VILLAGGIO SANTOS FERREIRA.kmz</name>
 						<Style id="PolyStyle09210">
 							<LabelStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<StyleMap id="PolyStyle09220">
@@ -25012,15 +25012,15 @@
 						</StyleMap>
 						<Style id="PolyStyle09370">
 							<LabelStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -25150,15 +25150,15 @@
 						<name>CANOAS - MRDAB.kmz</name>
 						<Style id="PolyStyle0921">
 							<LabelStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<StyleMap id="PolyStyle0922">
@@ -25173,15 +25173,15 @@
 						</StyleMap>
 						<Style id="PolyStyle0937">
 							<LabelStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<scale>0</scale>
 							</LabelStyle>
 							<LineStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 								<width>3</width>
 							</LineStyle>
 							<PolyStyle>
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -25503,41 +25503,41 @@
 		<open>1</open>
 		<Style id="PolyStyle062">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle0620">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle0621">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle06210">
@@ -25552,28 +25552,28 @@
 		</StyleMap>
 		<Style id="PolyStyle06211">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle06212">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle06213">
@@ -25608,41 +25608,41 @@
 		</StyleMap>
 		<Style id="PolyStyle0624">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle0625">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle0626">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="PolyStyle0627">
@@ -25657,28 +25657,28 @@
 		</StyleMap>
 		<Style id="PolyStyle0628">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="PolyStyle0629">
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="m_ylw-pushpin2">
@@ -25753,24 +25753,24 @@
 		</StyleMap>
 		<Style id="normalPlacemark01111">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
 			</IconStyle>
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</LabelStyle>
 		</Style>
 		<Style id="normalPlacemark011121">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
 			</IconStyle>
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</LabelStyle>
 		</Style>
 		<Style id="s_ylw-pushpin2">
@@ -25782,10 +25782,10 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="s_ylw-pushpin182">
@@ -25805,10 +25805,10 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="s_ylw-pushpin_hl08">
@@ -25828,7 +25828,7 @@
 				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</LabelStyle>
 			<ListStyle>
 				<ItemIcon>
@@ -25845,7 +25845,7 @@
 				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</LabelStyle>
 			<ListStyle>
 				<ItemIcon>
@@ -25862,11 +25862,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin01">
@@ -25878,11 +25878,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_red-circle">
@@ -25894,7 +25894,7 @@
 				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</LabelStyle>
 			<ListStyle>
 				<ItemIcon>
@@ -25911,7 +25911,7 @@
 				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LabelStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</LabelStyle>
 			<ListStyle>
 				<ItemIcon>
@@ -25928,11 +25928,11 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin01">
@@ -25944,1001 +25944,1001 @@
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style002">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style010">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style011">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style012">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style013">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style0130">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style014">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style015">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style016">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style017">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style018">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style019">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style020">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style021">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style0210">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style022">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style023">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style024">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style025">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style026">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style027">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style028">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style029">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style03">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style030">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style031">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style032">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style033">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style0330">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style034">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style035">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style036">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style037">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style038">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style039">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style04">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style040">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style041">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style042">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style043">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style044">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style045">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style046">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style047">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style048">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style049">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style05">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style050">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style051">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style052">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style053">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style06">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style07">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style08">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style09">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2400">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2410">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style24100">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2411">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2412">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2413">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2414">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2415">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2416">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2417">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2418">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2419">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style242">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2420">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style24200">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2421">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2422">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2423">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2424">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2425">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2426">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2427">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2428">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2429">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style243">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2430">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2431">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2432">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2433">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2434">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2435">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2436">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2437">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2438">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2439">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style244">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2440">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>1.5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2441">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2442">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2443">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2444">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2445">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2446">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2447">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2448">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2449">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style245">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2450">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2451">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2452">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style2453">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style246">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style247">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style248">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="style249">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="stylemap_id01000">
@@ -29552,11 +29552,11 @@ NODE HFC CENAP</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="Style_POLIGONO_AREA_PRIMARIA_0052A50">
@@ -29579,11 +29579,11 @@ NODE HFC CENAP</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="Style_POLIGONO_AREA_PRIMARIA_0052A52">
@@ -29596,11 +29596,11 @@ NODE HFC CENAP</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="Style_POLIGONO_AREA_PRIMARIA_0052A53">
@@ -29613,11 +29613,11 @@ NODE HFC CENAP</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="Style_POLIGONO_AREA_PRIMARIA_0052A54">
@@ -29640,11 +29640,11 @@ NODE HFC CENAP</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="Style_POLIGONO_AREA_PRIMARIA_0052A56">
@@ -29667,11 +29667,11 @@ NODE HFC CENAP</description>
 				<scale>0.6</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="limite10301016">
@@ -29696,38 +29696,38 @@ NODE HFC CENAP</description>
 		</StyleMap>
 		<Style id="limite1450132">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2.4</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite14501320">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2.4</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1520018">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2.4</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite15200180">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2.4</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="msn_ylw-pushpin3">
@@ -29769,11 +29769,11 @@ NODE HFC CENAP</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin02">
@@ -29785,11 +29785,11 @@ NODE HFC CENAP</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin10">
@@ -29801,11 +29801,11 @@ NODE HFC CENAP</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin3">
@@ -29817,11 +29817,11 @@ NODE HFC CENAP</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin02">
@@ -29833,11 +29833,11 @@ NODE HFC CENAP</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin10">
@@ -29849,11 +29849,11 @@ NODE HFC CENAP</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -30730,11 +30730,11 @@ NODE HFC CENAP</description>
 				<open>1</open>
 				<Style id="AREA_AGREGACAO4">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO01">
@@ -30749,44 +30749,44 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AREA_AGREGACAO001">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO11">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO101">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO21">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO200">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO3">
@@ -30801,10 +30801,10 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AREA_AGREGACAO30">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO40">
@@ -30829,11 +30829,11 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AREA_AGREGACAO6">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AREA_AGREGACAO7">
@@ -30848,20 +30848,20 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AREA_AGREGACAO8">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AREA_AGREGACAO9">
 					<LineStyle id="lAREA_AGREGACAOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAREA_AGREGACAOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="m_ylw-pushpin3">
@@ -31038,10 +31038,10 @@ NODE HFC CENAP</description>
 				<name>CTO_SANTA TECLA.kmz</name>
 				<Style id="POLIGONO">
 					<LineStyle id="lPOLIGONOLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</LineStyle>
 					<PolyStyle id="pPOLIGONOPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="m_ylw-pushpin01">
@@ -31089,18 +31089,18 @@ NODE HFC CENAP</description>
 						</StyleMap>
 						<Style id="AT_TOTAL01">
 							<LineStyle id="lAT_TOTALLineStyle">
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</LineStyle>
 							<PolyStyle id="pAT_TOTALPolyStyle">
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<Style id="AT_TOTAL11">
 							<LineStyle id="lAT_TOTALLineStyle">
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</LineStyle>
 							<PolyStyle id="pAT_TOTALPolyStyle">
-								<color>323A8247</color>
+								<color>6289b6</color>
 							</PolyStyle>
 						</Style>
 						<Folder>
@@ -31168,28 +31168,28 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="PolyStyle0000">
 					<LabelStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle0010">
 					<LabelStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="PolyStyle002">
@@ -31204,41 +31204,41 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="PolyStyle003">
 					<LabelStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle0040">
 					<LabelStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="PolyStyle005">
 					<LabelStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<scale>0</scale>
 					</LabelStyle>
 					<LineStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Folder id="FeatureLayer0">
@@ -31832,11 +31832,11 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AT_TOTAL100">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<StyleMap id="AT_TOTAL20">
@@ -31851,29 +31851,29 @@ NODE HFC CENAP</description>
 				</StyleMap>
 				<Style id="AT_TOTAL200">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AT_TOTAL30">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Style id="AT_TOTAL4">
 					<LineStyle id="lAT_TOTALLineStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<width>3</width>
 					</LineStyle>
 					<PolyStyle id="pAT_TOTALPolyStyle">
-						<color>323A8247</color>
+						<color>6289b6</color>
 					</PolyStyle>
 				</Style>
 				<Folder>
@@ -31925,7 +31925,7 @@ NODE HFC CENAP</description>
 		</StyleMap>
 		<Style id="sh_shaded_dot15">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.16667</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
@@ -31935,16 +31935,16 @@ NODE HFC CENAP</description>
 				<scale>0.5</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_shaded_dot21">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 				</Icon>
@@ -31953,11 +31953,11 @@ NODE HFC CENAP</description>
 				<scale>0.5</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -33662,7 +33662,7 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 		</StyleMap>
 		<Style id="sh_shaded_dot150">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.16667</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
@@ -33672,16 +33672,16 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<scale>0.5</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_shaded_dot210">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
 				</Icon>
@@ -33690,11 +33690,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<scale>0.5</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>3</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -35506,11 +35506,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_blue-pushpin5">
@@ -35522,43 +35522,43 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.4</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle0">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.4</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle1100">
@@ -35570,11 +35570,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle120">
@@ -35586,27 +35586,27 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_triangle21">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.4</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin4">
@@ -35618,11 +35618,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin03">
@@ -35634,11 +35634,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin002">
@@ -35650,11 +35650,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sh_ylw-pushpin11">
@@ -35666,11 +35666,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_blue-pushpin5">
@@ -35682,11 +35682,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_blue-pushpin6">
@@ -35698,43 +35698,43 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.2</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle0">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.2</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle21">
@@ -35746,27 +35746,27 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle22">
 			<IconStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<scale>1.2</scale>
 				<Icon>
 					<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 				</Icon>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_triangle800">
@@ -35778,11 +35778,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin4">
@@ -35794,11 +35794,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin03">
@@ -35810,11 +35810,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin11">
@@ -35826,11 +35826,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="sn_ylw-pushpin20">
@@ -35842,11 +35842,11 @@ Saiu o RSNHO12 entrou o RSSLE34</description>
 				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 			</IconStyle>
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Folder>
@@ -36816,110 +36816,110 @@ NODE HFC CNTAHA</description>
 		<name>SAPUCAIA_DO_SUL_LAN01.kmz</name>
 		<Style id="limite169001210000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1690012101000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite169001210101">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite169001210200">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite169001210400">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite16900121041">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800249000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800249100">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002492000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800249201">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800249400">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1880024941">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="limite209011310000">
@@ -37839,110 +37839,110 @@ NODE HFC CNTAHA</description>
 		<name>SAPUCAIA_DO_SUL_LAN01.kmz</name>
 		<Style id="limite1690012100000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite16900121010000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1690012101010">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1690012102000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1690012104000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite169001210410">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002490000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002491000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1880024920000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002492010">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002494000">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800249410">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="limite2090113100000">
@@ -38862,110 +38862,110 @@ NODE HFC CNTAHA</description>
 		<name>SAPUCAIA_DO_SUL_LAN01.kmz</name>
 		<Style id="limite1690012100001">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite16900121010001">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1690012101011">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1690012102001">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1690012104001">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite169001210411">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002490001">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002491001">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>0</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite1880024920001">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002492011">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite188002494001">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<Style id="limite18800249411">
 			<LineStyle>
-				<color>323A8247</color>
+				<color>6289b6</color>
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle id="plimitePolyStyle">
-				<color>323A8247</color>
+				<color>6289b6</color>
 			</PolyStyle>
 		</Style>
 		<StyleMap id="limite2090113100001">
@@ -39904,7 +39904,7 @@ NODE HFC CNTAHA</description>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<outline>0</outline>
 					</PolyStyle>
 				</Style>
@@ -39913,7 +39913,7 @@ NODE HFC CNTAHA</description>
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>323A8247</color>
+						<color>6289b6</color>
 						<outline>0</outline>
 					</PolyStyle>
 				</Style>
